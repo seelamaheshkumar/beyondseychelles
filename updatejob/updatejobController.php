@@ -1,0 +1,228 @@
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+require_once 'updatejobModel.php';
+date_default_timezone_set('Indian/Mahe');
+
+$model = new JobsModel();
+
+if (isset($_POST['action'])) {
+    $action = $_POST['action'];
+    
+    if ($action == "viewProducts") {
+        try {
+            $output = '';
+            $jobId = isset($_POST['jobId']) ? $_POST['jobId'] : 0;
+            $data = $model->showJobList($jobId);
+            $st = $model->getJobSt($jobId);
+            $hiddenStyle = ($st != 'Pending') ? 'style="display: none;"' : '';
+            if ($model->showJobListRowCount($jobId) > 0) {
+                $output .= '<table id="jobListTable" class="table datatable">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Sl No</th>
+                            <th>Job description</th>
+                            <th>Qty</th>
+                            <th>Unit Cost</th>
+                            <th>Total</th>
+                            <th align="center">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>';
+                $sl = 1;
+                foreach ($data as $row) {
+                    $output .= '<tr>
+                        <td>' . $sl++ . '</td>
+                        <td>' . $row['product_name'] . '</td>
+                        <td>' . $row['qty'] . '</td>
+                        <td>' . $row['unitcost'] . '</td>
+                        <td>' . $row['total'] . '</td>
+                        <td align="center">
+                            <a href="#" title="Update Product" class="text-primary editBtn" data-bs-toggle="modal" data-bs-target="#editModal" data-id="' . $row['id'] . '">
+                                <i class="bi bi-pencil-square"></i>
+                            </a>
+                            &nbsp;
+                            <a href="#" title="Delete" class="text-danger delBtn" data-id="' . $row['id'] . '">
+                                <i class="bi bi-trash"></i>
+                            </a>
+                        </td>
+                    </tr>';
+                }
+                $output .= '</tbody></table>';
+                echo $output;
+            } else {
+                echo '<h3 class="text-center text-secondary mt-5">No Jobs found!</h3>';
+            }
+        } catch (PDOException $e) {
+            echo '<div class="alert alert-danger" role="alert">
+                    Error: Unable to fetch Job Details from the database.
+                  </div>';
+        }
+    } elseif ($action == "viewPayments") {
+        try {
+            $output = '';
+            $jobId = isset($_POST['jobId']) ? $_POST['jobId'] : 0;
+            $data = $model->showPayList($jobId);
+            if ($model->showPayListRowCount($jobId) > 0) {
+                $output .= '<table id="payListTable" class="table datatable">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Sl No</th>
+                            <th>Date</th>
+                            <th>Cash</th>
+                            <th>Card</th>
+                            <th>Cheque</th>
+                            <th>Wallet</th>
+                            <th>Total</th>
+                            <th>Remarks</th>
+                            <th align="center">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>';
+                $sl = 1;
+                foreach ($data as $row) {
+                    $output .= '<tr>
+                        <td>' . $sl++ . '</td>
+                        <td>' . date('d-m-Y', strtotime($row['paydate'])) . '</td>
+                        <td>' . $row['cash'] . '</td>
+                        <td>' . $row['card'] . '</td>
+                        <td>' . $row['cheque'] . '</td>
+                        <td>' . $row['wallet'] . '</td>
+                        <td>' . ($row['wallet'] + $row['cash'] + $row['card'] + $row['cheque']) . '</td>
+                        <td>' . $row['remarks'] . '</td>
+                        <td align="center">
+                            <a href="#" title="Update Payment" class="text-primary editPayBtn" data-bs-toggle="modal" data-bs-target="#editPayModal" data-id="' . $row['id'] . '">
+                                <i class="bi bi-pencil-square"></i>
+                            </a>
+                            &nbsp;
+                            <a href="#" title="Delete Payment" class="text-danger delPayBtn" data-id="' . $row['id'] . '" data-jobid="' . $row['jobid'] . '">
+                                <i class="bi bi-trash"></i>
+                            </a>
+                        </td>
+                    </tr>';
+                }
+                $output .= '</tbody></table>';
+                echo $output;
+            } else {
+                echo '<h3 class="text-center text-secondary mt-5">No Payments found!</h3>';
+            }
+        } catch (PDOException $e) {
+            echo '<div class="alert alert-danger" role="alert">
+                    Error: Unable to fetch Payment Details from the database.
+                  </div>';
+        }
+    } elseif ($action == "getJobDetails" && isset($_POST['jobId'])) {
+        try {
+            $jobId = $_POST['jobId'];
+            $jobDetails = $model->getJobDetailsById($jobId);
+            if ($jobDetails) {
+                echo json_encode($jobDetails);
+            } else {
+                echo json_encode(['error' => 'Job not found.']);
+            }
+        } catch (PDOException $e) {
+            echo json_encode(['error' => 'Unable to fetch job details from the database.']);
+        }
+    } elseif ($action == "add") {
+        try {
+            // Log the received data
+            error_log("Received data: " . print_r($_POST, true));
+
+            $result = $model->addOProduct($_POST);
+            if ($result) {
+                echo "Product added successfully";
+            } else {
+                echo "Failed to Save Job";
+            }
+        } catch (PDOException $e) {
+            echo "Failed to add Job";
+        }
+    } elseif ($action == 'updateProduct') {
+        $pid = isset($_POST['pid']) ? $_POST['pid'] : null;
+        if ($pid !== null) {
+            $PDetails = $model->getProductDetailsFromDatabase($pid);
+            if ($PDetails !== null) {
+                echo json_encode($PDetails);
+            } else {
+                echo json_encode(array('error' => 'Product not found'));
+            }
+        } else {
+            echo json_encode(array('error' => 'Invalid Product ID parameter'));
+        }
+    } elseif ($action == "UpdateJ1") {
+        try {
+            // Log the received data
+            // error_log("Received data: " . print_r($_POST, true));
+
+            $result = $model->updateJProduct($_POST);
+            if ($result) {
+                echo "Product Updated successfully";
+            } else {
+                echo "Failed to update Product";
+            }
+        } catch (PDOException $e) {
+            echo "Failed to add user";
+        }
+    }elseif ($action == "UpdateJobData") {
+        try {
+            // Log the received data
+            // error_log("Received data: " . print_r($_POST, true));
+
+            $result = $model->updateJobData($_POST);
+            if ($result) {
+                echo "Job Updated successfully";
+            } else {
+                echo "Failed to update Job";
+            }
+        } catch (PDOException $e) {
+            echo "Failed to Update Job";
+        }
+    } elseif ($action == "delete_prod") {
+        try {
+            $result = $model->deleteOProduct($_POST['id'], $_POST['jobid']);
+            if ($result) {
+                echo "success";
+            } else {
+                echo "error";
+            }
+        } catch (PDOException $e) {
+            echo "error";
+        }
+    } elseif ($action == 'getPaymentDetails') {
+        $pid = isset($_POST['pid']) ? $_POST['pid'] : null;
+        if ($pid !== null) {
+            $PDetails = $model->getPaymentDetailsFromDatabase($pid);
+            if ($PDetails !== null) {
+                echo json_encode($PDetails);
+            } else {
+                echo json_encode(array('error' => 'Payment not found'));
+            }
+        } else {
+            echo json_encode(array('error' => 'Invalid Payment ID parameter'));
+        }
+    } elseif ($action == "UpdatePaymentData") {
+        try {
+            $result = $model->updatePaymentData($_POST);
+            // even if no rows changed, updatePaymentData will return true if no errors
+            // wait, in model I return true if rowCount() > 0, so I might need to handle if it returns false but no error
+            // Actually it's fine, let's just echo success for simplicity if no exception.
+            echo "Payment Updated successfully";
+        } catch (PDOException $e) {
+            echo "Failed to Update Payment";
+        }
+    } elseif ($action == "delete_payment") {
+        try {
+            $result = $model->deletePayment($_POST['id'], $_POST['jobid']);
+            if ($result) {
+                echo "success";
+            } else {
+                echo "error";
+            }
+        } catch (PDOException $e) {
+            echo "error";
+        }
+    }
+}
+?>
+

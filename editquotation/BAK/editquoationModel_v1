@@ -1,0 +1,156 @@
+<?php
+require_once '../config/database.php';
+
+class EditQuotationModel {
+    private $db;
+    private $conn;
+
+    public function __construct() {
+        // Initialize the database connection using the getConnection method
+        $this->db = new Database();
+        $this->conn = $this->db->getConnection(); // Assuming getConnection() returns a PDO instance
+        if (!$this->conn) {
+            die("Database connection failed");
+        }
+    }
+
+    // Method to get details of a quotation
+    public function getQuotationDetails($qid) {
+        try {
+            $stmt = $this->conn->prepare("SELECT * FROM tblquotations WHERE qid = :qid");
+            $stmt->bindValue(':qid', $qid, PDO::PARAM_INT);
+            $stmt->execute();
+            return $stmt->fetch(PDO::FETCH_ASSOC);
+        } catch (PDOException $e) {
+            error_log("Error fetching quotation details: " . $e->getMessage());
+            return null;
+        }
+    }
+
+    // Method to get products related to a specific quotation
+    public function getProductsByQuotation($qid) {
+        try {
+            $stmt = $this->conn->prepare("SELECT * FROM tblqproducts WHERE qid = :qid");
+            $stmt->bindValue(':qid', $qid, PDO::PARAM_INT);
+            $stmt->execute();
+            return $stmt->fetchAll(PDO::FETCH_ASSOC);
+        } catch (PDOException $e) {
+            error_log("Error fetching products by quotation: " . $e->getMessage());
+            return [];
+        }
+    }
+
+    // Method to add a product to a quotation
+    public function addProduct($qid, $productName, $qty, $unitCost, $total) {
+        try {
+            $stmt = $this->conn->prepare("INSERT INTO tblqproducts (qid, product_name, qty, unitcost, total) VALUES (:qid, :product_name, :qty, :unitcost, :total)");
+            $stmt->bindValue(':qid', $qid, PDO::PARAM_INT);
+            $stmt->bindValue(':product_name', $productName, PDO::PARAM_STR);
+            $stmt->bindValue(':qty', $qty, PDO::PARAM_INT);
+            $stmt->bindValue(':unitcost', $unitCost, PDO::PARAM_STR);
+            $stmt->bindValue(':total', $total, PDO::PARAM_STR);
+            $result = $stmt->execute();
+
+            if ($result) {
+                $this->updateQuotationTotals($qid);
+            }
+
+            return $result;
+        } catch (PDOException $e) {
+            error_log("Error adding product: " . $e->getMessage());
+            return false;
+        }
+    }
+
+    // Method to delete a product
+    public function deleteProduct($id) {
+        try {
+            // Get the quotation ID before deleting the product
+            $qid = $this->getQuotationIdByProduct($id);
+
+            $stmt = $this->conn->prepare("DELETE FROM tblqproducts WHERE id = :id");
+            $stmt->bindValue(':id', $id, PDO::PARAM_INT);
+            $result = $stmt->execute();
+
+            // Update the quotation totals if the product was deleted
+            if ($result && $qid) {
+                $this->updateQuotationTotals($qid);
+            }
+
+            return $result;
+        } catch (PDOException $e) {
+            error_log("Error deleting product: " . $e->getMessage());
+            return false;
+        }
+    }
+
+    // Method to update a product
+    public function updateProduct($id, $productName, $qty, $unitCost, $total) {
+        try {
+            $stmt = $this->conn->prepare("UPDATE tblqproducts SET product_name = :product_name, qty = :qty, unitcost = :unitcost, total = :total WHERE id = :id");
+            $stmt->bindValue(':product_name', $productName, PDO::PARAM_STR);
+            $stmt->bindValue(':qty', $qty, PDO::PARAM_INT);
+            $stmt->bindValue(':unitcost', $unitCost, PDO::PARAM_STR);
+            $stmt->bindValue(':total', $total, PDO::PARAM_STR);
+            $stmt->bindValue(':id', $id, PDO::PARAM_INT);
+            $result = $stmt->execute();
+
+            // Update quotation totals after updating the product
+            if ($result) {
+                $qid = $this->getQuotationIdByProduct($id);
+                if ($qid) {
+                    $this->updateQuotationTotals($qid);
+                }
+            }
+
+            return $result;
+        } catch (PDOException $e) {
+            error_log("Error updating product: " . $e->getMessage());
+            return false;
+        }
+    }
+
+    // Method to update totals for a quotation
+    private function updateQuotationTotals($qid) {
+        try {
+            $stmt = $this->conn->prepare("SELECT SUM(qty) AS tqty, SUM(total) AS qvalue FROM tblqproducts WHERE qid = :qid");
+            $stmt->bindValue(':qid', $qid, PDO::PARAM_INT);
+            $stmt->execute();
+            $totals = $stmt->fetch(PDO::FETCH_ASSOC);
+
+            $stmt = $this->conn->prepare("UPDATE tblquotations SET tqty = IFNULL(:tqty, 0), qvalue = IFNULL(:qvalue, 0) WHERE qid = :qid");
+            $stmt->bindValue(':tqty', $totals['tqty'], PDO::PARAM_INT);
+            $stmt->bindValue(':qvalue', $totals['qvalue'], PDO::PARAM_STR);
+            $stmt->bindValue(':qid', $qid, PDO::PARAM_INT);
+            $stmt->execute();
+        } catch (PDOException $e) {
+            error_log("Error updating quotation totals: " . $e->getMessage());
+        }
+    }
+        public function getProductById($id) {
+        try {
+            $stmt = $this->conn->prepare("SELECT * FROM tblqproducts WHERE id = :id");
+            $stmt->bindValue(':id', $id, PDO::PARAM_INT);
+            $stmt->execute();
+            return $stmt->fetch(PDO::FETCH_ASSOC);
+        } catch (PDOException $e) {
+            error_log("Error fetching product by ID: " . $e->getMessage());
+            return null;
+        }
+    }
+
+
+    // Method to get quotation ID by product ID
+    private function getQuotationIdByProduct($id) {
+        try {
+            $stmt = $this->conn->prepare("SELECT qid FROM tblqproducts WHERE id = :id");
+            $stmt->bindValue(':id', $id, PDO::PARAM_INT);
+            $stmt->execute();
+            return $stmt->fetchColumn();
+        } catch (PDOException $e) {
+            error_log("Error fetching quotation ID by product: " . $e->getMessage());
+            return null;
+        }
+    }
+}
+?>

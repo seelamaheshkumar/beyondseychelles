@@ -1,0 +1,122 @@
+[15-Dec-2025 11:16:06 Asia/Dubai] Received data: Array
+(
+    [product_name] => Backdrop Banner 3 x 3mtrs
+    [qty] => 1
+    [unitcost] => 3600
+    [total] => 3600.00
+    [jobid1] => 746
+    [vat1] => 900
+    [action] => add
+)
+
+[15-Dec-2025 11:19:08 Asia/Dubai] Received data: Array
+(
+    [product_name] => Banner Sash
+    [qty] => 20
+    [unitcost] => 200
+    [total] => 4000.00
+    [jobid1] => 746
+    [vat1] => 3540
+    [action] => add
+)
+
+[15-Dec-2025 11:21:56 Asia/Dubai] Received data: Array
+(
+    [product_name] => Printed Tumblers
+    [qty] => 8
+    [unitcost] => 300
+    [total] => 2400.00
+    [jobid1] => 746
+    [vat1] => 2340
+    [action] => add
+)
+
+[15-Dec-2025 12:43:57 Asia/Dubai] Update failed: No rows affected.
+[30-Dec-2025 13:37:54 Asia/Dubai] Received data: Array
+(
+    [product_name] => Supply and Application of Tinted film (50cm x 105cm)
+    [qty] => 1
+    [unitcost] => 325
+    [total] => 325.00
+    [jobid1] => 763
+    [vat1] => 427.5
+    [action] => add
+)
+
+[30-Dec-2025 13:39:48 Asia/Dubai] Received data: Array
+(
+    [product_name] => Supply and Application of Tinted film (134cm x 115cm)
+    [qty] => 1
+    [unitcost] => 925
+    [total] => 925.00
+    [jobid1] => 763
+    [vat1] => 476.25
+    [action] => add
+)
+
+[24-Jan-2026 18:11:07 Asia/Dubai] Received data: Array
+(
+    [product_name] => Galvanised tube frames 40mm (Welding Fabrication, Undercoat,, 2pack Acrylic paint and installation)
+    [qty] => 11
+    [unitcost] => 4000
+    [total] => 44000.00
+    [jobid1] => 780
+    [vat1] => 5940
+    [action] => add
+)
+
+[26-Jan-2026 19:15:28 Asia/Dubai] Received data: Array
+(
+    [product_name] => La Digue Manufacturing & Installation of Galvanised Frames 200cm x 150cm for Landfill and Nurseries
+    [qty] => 9
+    [unitcost] => 4500
+    [total] => 40500.00
+    [jobid1] => 772
+    [vat1] => 6645
+    [action] => add
+)
+
+[26-Jan-2026 19:16:19 Asia/Dubai] Received data: Array
+(
+    [product_name] => Mahe Signboards 200cm x 150cm for Landfill and Nurseries on ACP Panels
+    [qty] => 18
+    [unitcost] => 3500
+    [total] => 63000.00
+    [jobid1] => 772
+    [vat1] => 12720
+    [action] => add
+)
+
+[26-Jan-2026 19:17:07 Asia/Dubai] Received data: Array
+(
+    [product_name] => Mahe Manufacturing & Installation of Galvanised Frames 200cm x 150cm for Landfill and Nurseries
+    [qty] => 18
+    [unitcost] => 3500
+    [total] => 63000.00
+    [jobid1] => 772
+    [vat1] => 22170
+    [action] => add
+)
+
+[25-May-2026 15:12:02 Asia/Dubai] Received data: Array
+(
+    [product_name] => Voucher Cards
+    [qty] => 40
+    [unitcost] => 8.7
+    [total] => 348.00
+    [jobid1] => 847
+    [vat1] => 637.5
+    [action] => add
+)
+
+[26-May-2026 13:03:40 Asia/Dubai] Received data: Array
+(
+    [product_name] => Grocers (Shop) Signboard 172cm W x 92cm H 
+    [qty] => 1
+    [unitcost] => 2400
+    [total] => 2400.00
+    [jobid1] => 851
+    [vat1] => 1650
+    [action] => add
+)
+

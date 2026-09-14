@@ -1,0 +1,7550 @@
+[05-Nov-2025 23:08:35 America/Boise] Received data: Array
+(
+    [product_name] => A2 size Increase Smirnoff Price Poster
+    [qty] => 300
+    [unitcost] => 105
+    [total] => 31500.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Nov-2025 23:08:39 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Jency Marie
+    [contact_no] => -
+    [address] => Increase Smirnoff Price Poster
+    [usersTable_length] => 10
+    [tqty] => 300
+    [qvalue] => 31500.00
+    [action] => addquotation
+)
+
+[06-Nov-2025 21:25:45 America/Boise] Received data: Array
+(
+    [product_name] => Windows53cm x 112cm
+    [qty] => 2
+    [unitcost] => 475
+    [total] => 950.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Nov-2025 21:26:31 America/Boise] Received data: Array
+(
+    [product_name] => Windows 112cm x 153cm
+    [qty] => 2
+    [unitcost] => 1375
+    [total] => 2750.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Nov-2025 21:27:19 America/Boise] Received data: Array
+(
+    [product_name] => Windows 53cm x 116cm
+    [qty] => 2
+    [unitcost] => 500
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Nov-2025 21:28:18 America/Boise] Received data: Array
+(
+    [product_name] => Windows 153cm x 116cm
+    [qty] => 2
+    [unitcost] => 1450
+    [total] => 2900.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Nov-2025 21:29:46 America/Boise] Received data: Array
+(
+    [product_name] => Door 106cm x 53cm
+    [qty] => 1
+    [unitcost] => 600
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Nov-2025 21:30:35 America/Boise] Received data: Array
+(
+    [product_name] => Window 22cm x 106cm
+    [qty] => 1
+    [unitcost] => 200
+    [total] => 200.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Nov-2025 21:30:39 America/Boise] Received data: Array
+(
+    [company_name] => Ethiopian Airline Seychelles
+    [contact_person] => Doreen Vital
+    [contact_no] => -
+    [address] => Airport Office Branding
+    [usersTable_length] => 10
+    [tqty] => 10
+    [qvalue] => 8400.00
+    [action] => addquotation
+)
+
+[06-Nov-2025 23:07:28 America/Boise] Received data: Array
+(
+    [product_name] => Roll up Stand (EMBARK & GROW)
+    [qty] => 2
+    [unitcost] => 2500
+    [total] => 5000.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Nov-2025 23:08:35 America/Boise] Received data: Array
+(
+    [product_name] => Lollipop 20cm x 35cm (12 Coloured and 20 Emoji)
+    [qty] => 32
+    [unitcost] => 350
+    [total] => 11200.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Nov-2025 23:08:43 America/Boise] Received data: Array
+(
+    [company_name] => Four Season
+    [contact_person] => Ralph Dine
+    [contact_no] => -
+    [address] => Event Props and Roll up
+    [usersTable_length] => 10
+    [tqty] => 34
+    [qvalue] => 16200.00
+    [action] => addquotation
+)
+
+[07-Nov-2025 00:11:38 America/Boise] Received data: Array
+(
+    [product_name] => Social Media Advert Production (10-15 per month for 3 months)
+    [qty] => 3
+    [unitcost] => 1500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[07-Nov-2025 00:15:23 America/Boise] Received data: Array
+(
+    [company_name] => Zane Holdings Ltd
+    [contact_person] => Brigitte Loze
+    [contact_no] => -
+    [address] => Social Media Advert
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 4500.00
+    [action] => addquotation
+)
+
+[11-Nov-2025 00:09:42 America/Boise] Received data: Array
+(
+    [product_name] => A3 Billboards 
+    [qty] => 16
+    [unitcost] => 200
+    [total] => 3200.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Nov-2025 00:09:46 America/Boise] Received data: Array
+(
+    [company_name] => You & Me Foundation – Down syndrome community & NGO Seychelles
+    [contact_person] => Beryl Nagapin
+    [contact_no] => 2577163
+    [address] => Billboards
+    [usersTable_length] => 10
+    [tqty] => 16
+    [qvalue] => 3200.00
+    [action] => addquotation
+)
+
+[11-Nov-2025 04:02:34 America/Boise] Received data: Array
+(
+    [product_name] => Door Signs (ACP Board) 400mm x 90mm
+    [qty] => 5
+    [unitcost] => 130
+    [total] => 650.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Nov-2025 04:02:37 America/Boise] Received data: Array
+(
+    [company_name] => Sey Ports Authority
+    [contact_person] => Rodney Rosalie
+    [contact_no] => /
+    [address] => Door Signs
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 650.00
+    [action] => addquotation
+)
+
+[11-Nov-2025 04:32:22 America/Boise] Received data: Array
+(
+    [product_name] => Open Truck Branding
+    [qty] => 1
+    [unitcost] => 24000
+    [total] => 24000.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Nov-2025 04:32:55 America/Boise] Received data: Array
+(
+    [product_name] => Covered Truck Branding
+    [qty] => 1
+    [unitcost] => 32000
+    [total] => 32000.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Nov-2025 04:33:29 America/Boise] Received data: Array
+(
+    [product_name] => Design and layout for both trucks
+    [qty] => 2
+    [unitcost] => 8000
+    [total] => 16000.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Nov-2025 04:33:38 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Pria Denousse
+    [contact_no] => -
+    [address] => Truck Branding
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 72000.00
+    [action] => addquotation
+)
+
+[11-Nov-2025 22:04:47 America/Boise] Received data: Array
+(
+    [product_name] => Sock Banner print and stitch 85cm x 200cm
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Nov-2025 22:05:08 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => M.C Dupres
+    [contact_no] => -
+    [address] => Sock Banner
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2300.00
+    [action] => addquotation
+)
+
+[12-Nov-2025 22:02:49 America/Boise] Received data: Array
+(
+    [product_name] => Vehicle sticker (3 Pairs)
+    [qty] => 3
+    [unitcost] => 600
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Nov-2025 22:02:54 America/Boise] Received data: Array
+(
+    [company_name] => LWMA
+    [contact_person] => Brett Bamboche
+    [contact_no] => /
+    [address] => Vehicle Logo
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 1800.00
+    [action] => addquotation
+)
+
+[12-Nov-2025 22:41:10 America/Boise] Received data: Array
+(
+    [product_name] => A2 Menu Boards
+    [qty] => 2
+    [unitcost] => 240
+    [total] => 480.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Nov-2025 22:41:18 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Jency Marie
+    [contact_no] => -
+    [address] => A2 Menu Board
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 480.00
+    [action] => addquotation
+)
+
+[16-Nov-2025 23:35:20 America/Boise] Received data: Array
+(
+    [product_name] => Logo on Perspex 70cm x 70cm
+    [qty] => 1
+    [unitcost] => 3500
+    [total] => 3500.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Nov-2025 23:36:24 America/Boise] Received data: Array
+(
+    [product_name] => Road Signage (120cm x 100cm)
+    [qty] => 1
+    [unitcost] => 2400
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Nov-2025 23:36:34 America/Boise] Received data: Array
+(
+    [company_name] => SDF
+    [contact_person] => Petra Agricole
+    [contact_no] => /
+    [address] => SignBoard
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 5900.00
+    [action] => addquotation
+)
+
+[18-Nov-2025 00:36:32 America/Boise] Received data: Array
+(
+    [product_name] => VIJAYA VINAYAKA Window One Way 97cm x 113cm
+    [qty] => 3
+    [unitcost] => 900
+    [total] => 2700.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Nov-2025 00:51:43 America/Boise] Received data: Array
+(
+    [product_name] => RAMAJAYAM BEACH POINT Board 176cm x218cm
+    [qty] => 1
+    [unitcost] => 4600
+    [total] => 4600.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Nov-2025 00:52:49 America/Boise] Received data: Array
+(
+    [product_name] => SORENTO SHOPPING Board 173cm x 268cm
+    [qty] => 1
+    [unitcost] => 5700
+    [total] => 5700.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Nov-2025 00:53:00 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => North Shop Branding
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 13000.00
+    [action] => addquotation
+)
+
+[18-Nov-2025 21:47:52 America/Boise] Received data: Array
+(
+    [product_name] => Branding charges for Nursing Room
+    [qty] => 1
+    [unitcost] => 83500
+    [total] => 83500.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Nov-2025 21:48:00 America/Boise] Received data: Array
+(
+    [company_name] => Horizon Trading
+    [contact_person] => Anish
+    [contact_no] => 0
+    [address] => SPTC Terminal Nursing Room Branding  
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 83500.00
+    [action] => addquotation
+)
+
+[19-Nov-2025 00:17:12 America/Boise] Received data: Array
+(
+    [product_name] => Shorts
+    [qty] => 216
+    [unitcost] => 425
+    [total] => 91800.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Nov-2025 00:18:13 America/Boise] Received data: Array
+(
+    [product_name] => Polo Tshirts (Ladies)
+    [qty] => 320
+    [unitcost] => 475
+    [total] => 152000.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Nov-2025 00:18:50 America/Boise] Received data: Array
+(
+    [product_name] => Polo Tshirts (Men)
+    [qty] => 411
+    [unitcost] => 475
+    [total] => 195225.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Nov-2025 00:19:03 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Fisheries Authority
+    [contact_person] => -
+    [contact_no] => -
+    [address] => T Shirts & Shorts
+    [usersTable_length] => 10
+    [tqty] => 947
+    [qvalue] => 439025.00
+    [action] => addquotation
+)
+
+[19-Nov-2025 03:01:12 America/Boise] Received data: Array
+(
+    [product_name] => A2 Sticker only
+    [qty] => 5
+    [unitcost] => 150
+    [total] => 750.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Nov-2025 03:01:53 America/Boise] Received data: Array
+(
+    [product_name] => A1 Sticker only
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Nov-2025 03:02:00 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => Sticker
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 1050.00
+    [action] => addquotation
+)
+
+[19-Nov-2025 22:02:03 America/Boise] Received data: Array
+(
+    [product_name] => Gift Vouchers
+    [qty] => 50
+    [unitcost] => 8
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Nov-2025 22:02:09 America/Boise] Received data: Array
+(
+    [company_name] => Restrofair
+    [contact_person] => Restrofair
+    [contact_no] => 0
+    [address] => -
+    [usersTable_length] => 10
+    [tqty] => 50
+    [qvalue] => 400.00
+    [action] => addquotation
+)
+
+[20-Nov-2025 23:44:53 America/Boise] Received data: Array
+(
+    [product_name] => One way sticker 0.94 cmsx 0.40 cms
+    [qty] => 2
+    [unitcost] => 380
+    [total] => 760.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Nov-2025 23:45:39 America/Boise] Received data: Array
+(
+    [product_name] => One way sticker 1.10 cmsx 0.40 cms
+    [qty] => 1
+    [unitcost] => 440
+    [total] => 440.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Nov-2025 23:46:30 America/Boise] Received data: Array
+(
+    [product_name] => One way sticker 0.95 cmsx 1.45 cms
+    [qty] => 2
+    [unitcost] => 1377
+    [total] => 2754.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Nov-2025 23:48:22 America/Boise] Received data: Array
+(
+    [product_name] => One way sticker 0.97 cms x 1.97 cms 
+    [qty] => 1
+    [unitcost] => 1910
+    [total] => 1910.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Nov-2025 23:48:40 America/Boise] Received data: Array
+(
+    [company_name] => Ifs 
+    [contact_person] => Radha Krishna 
+    [contact_no] => 0
+    [address] => Prasline stickers
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 5864.00
+    [action] => addquotation
+)
+
+[21-Nov-2025 06:14:49 America/Boise] Received data: Array
+(
+    [product_name] => JOTHI Plaisance (Board 150cm x 255cm)
+    [qty] => 1
+    [unitcost] => 5500
+    [total] => 5500.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Nov-2025 06:15:35 America/Boise] Received data: Array
+(
+    [product_name] => AMMAN Plaisance (Board 150cm x 320cm)
+    [qty] => 1
+    [unitcost] => 7200
+    [total] => 7200.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Nov-2025 06:16:16 America/Boise] Received data: Array
+(
+    [product_name] => LA MISERE Mart (Board 150cm x 100cm)
+    [qty] => 1
+    [unitcost] => 2250
+    [total] => 2250.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Nov-2025 06:16:59 America/Boise] Received data: Array
+(
+    [product_name] => LA MISERE Mart (Board 190cm x 100cm)
+    [qty] => 1
+    [unitcost] => 2800
+    [total] => 2800.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Nov-2025 06:17:03 America/Boise] Received data: Array
+(
+    [company_name] => HATSUN Agro Products Plot No 14, Tamil Nadu H
+    [contact_person] => Mr Devdas
+    [contact_no] => -
+    [address] => Central Shops Branding
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 17750.00
+    [action] => addquotation
+)
+
+[24-Nov-2025 02:39:29 America/Boise] Received data: Array
+(
+    [product_name] => 83 cms x 370 cms sticker
+    [qty] => 1
+    [unitcost] => 1568
+    [total] => 1568.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Nov-2025 02:39:29 America/Boise] Received data: Array
+(
+    [product_name] => 83 cms x 370 cms sticker
+    [qty] => 1
+    [unitcost] => 1568
+    [total] => 1568.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Nov-2025 02:40:49 America/Boise] Received data: Array
+(
+    [product_name] => 83 cms x 250 cms sticker
+    [qty] => 2
+    [unitcost] => 1660
+    [total] => 3320.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Nov-2025 02:41:45 America/Boise] Received data: Array
+(
+    [product_name] => 83 cm x 455 cm sticker
+    [qty] => 5
+    [unitcost] => 3021
+    [total] => 15105.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Nov-2025 02:43:04 America/Boise] Received data: Array
+(
+    [company_name] => Horizon Trading
+    [contact_person] => Anish
+    [contact_no] => 2821685
+    [address] => Anse aux pins bus stop branding
+    [usersTable_length] => 10
+    [tqty] => 8
+    [qvalue] => 19993.00
+    [action] => addquotation
+)
+
+[25-Nov-2025 00:34:03 America/Boise] Received data: Array
+(
+    [product_name] => Christmas Cards
+    [qty] => 250
+    [unitcost] => 18
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-Nov-2025 00:35:37 America/Boise] Received data: Array
+(
+    [company_name] => Amazon Betting
+    [contact_person] => -
+    [contact_no] => -
+    [address] => -
+    [usersTable_length] => 10
+    [tqty] => 250
+    [qvalue] => 4500.00
+    [action] => addquotation
+)
+
+[25-Nov-2025 02:11:02 America/Boise] Received data: Array
+(
+    [product_name] => A2 Posters (increase price for SeyPearl)
+    [qty] => 450
+    [unitcost] => 60
+    [total] => 27000.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-Nov-2025 02:11:04 America/Boise] Received data: Array
+(
+    [product_name] => A2 Posters (increase price for SeyPearl)
+    [qty] => 450
+    [unitcost] => 60
+    [total] => 27000.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-Nov-2025 02:11:19 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Jency Marie
+    [contact_no] => -
+    [address] => Stickers & Posters
+    [usersTable_length] => 10
+    [tqty] => 450
+    [qvalue] => 27000.00
+    [action] => addquotation
+)
+
+[25-Nov-2025 07:13:16 America/Boise] Received data: Array
+(
+    [product_name] => One way vision 130cmx134cm 
+    [qty] => 4
+    [unitcost] => 1200
+    [total] => 4800.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-Nov-2025 07:15:31 America/Boise] Received data: Array
+(
+    [product_name] => One Way Vision 68cm x 134cm
+    [qty] => 1
+    [unitcost] => 700
+    [total] => 700.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-Nov-2025 07:15:36 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles National Assembly 
+    [contact_person] => George Ravinia
+    [contact_no] => -
+    [address] => One Way Vision
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 5500.00
+    [action] => addquotation
+)
+
+[26-Nov-2025 00:03:51 America/Boise] Received data: Array
+(
+    [product_name] => Ponton Safety Regulations Board  84cm x 140cm
+    [qty] => 4
+    [unitcost] => 1725
+    [total] => 6900.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Nov-2025 00:04:08 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Port Authority
+    [contact_person] => Lynka Matombe
+    [contact_no] => -
+    [address] => Pontoon Signboard
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 6900.00
+    [action] => addquotation
+)
+
+[26-Nov-2025 00:27:09 America/Boise] Received data: Array
+(
+    [product_name] => Label Sticker
+    [qty] => 1000
+    [unitcost] => 0.87
+    [total] => 870.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Nov-2025 00:27:14 America/Boise] Received data: Array
+(
+    [company_name] => Reggie Jayasena
+    [contact_person] => Reggie
+    [contact_no] => -
+    [address] => Label Sticker
+    [usersTable_length] => 10
+    [tqty] => 1000
+    [qvalue] => 870.00
+    [action] => addquotation
+)
+
+[28-Nov-2025 00:20:16 America/Boise] Received data: Array
+(
+    [product_name] => Mugs printing
+    [qty] => 8
+    [unitcost] => 200
+    [total] => 1600.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 00:21:15 America/Boise] Received data: Array
+(
+    [product_name] => Notebook Printing
+    [qty] => 8
+    [unitcost] => 50
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 00:21:31 America/Boise] Received data: Array
+(
+    [company_name] => FAIR TRADING COMMISSION
+    [contact_person] => Sheena Leste
+    [contact_no] => -
+    [address] => World Competition Day
+    [usersTable_length] => 10
+    [tqty] => 16
+    [qvalue] => 2000.00
+    [action] => addquotation
+)
+
+[28-Nov-2025 03:53:28 America/Boise] Received data: Array
+(
+    [product_name] => Abuse of Dominance leaflet recto verso
+    [qty] => 50
+    [unitcost] => 12
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 03:54:05 America/Boise] Received data: Array
+(
+    [product_name] => Anti-Competitive Practices Leaflet
+    [qty] => 50
+    [unitcost] => 12
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 03:55:04 America/Boise] Received data: Array
+(
+    [product_name] => Benefits of Fair Competition leaflets
+    [qty] => 50
+    [unitcost] => 12
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 03:56:14 America/Boise] Received data: Array
+(
+    [product_name] => Do’s and Don’ts of Competition Recto Verso
+    [qty] => 50
+    [unitcost] => 12
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 04:04:59 America/Boise] Received data: Array
+(
+    [product_name] => Guide to Competition Law Booklet
+    [qty] => 150
+    [unitcost] => 175
+    [total] => 26250.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 04:06:03 America/Boise] Received data: Array
+(
+    [company_name] => FAIR TRADING COMMISSION
+    [contact_person] => Estelle Chang-Thiou
+    [contact_no] => -
+    [address] => Printing of Sensitisation Documents
+    [usersTable_length] => 10
+    [tqty] => 350
+    [qvalue] => 28650.00
+    [action] => addquotation
+)
+
+[28-Nov-2025 04:11:34 America/Boise] Received data: Array
+(
+    [product_name] => 43 mts x 2.40 mts wall branding with ACP sheet with instruction
+    [qty] => 1
+    [unitcost] => 154800
+    [total] => 154800.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 04:13:00 America/Boise] Received data: Array
+(
+    [company_name] => Horizon Trading
+    [contact_person] => Anish
+    [contact_no] => 0
+    [address] => SPTC wall branding 
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 154800.00
+    [action] => addquotation
+)
+
+[28-Nov-2025 04:15:45 America/Boise] Received data: Array
+(
+    [product_name] => 430 mts x 2.40 mts wall branding with PVC or corigated sheet with installation 
+    [qty] => 1
+    [unitcost] => 103200
+    [total] => 103200.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 04:16:03 America/Boise] Received data: Array
+(
+    [company_name] => Horizon Trading
+    [contact_person] => Anish
+    [contact_no] => 0
+    [address] => SPTC Bus terminal wall branding 
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 103200.00
+    [action] => addquotation
+)
+
+[28-Nov-2025 04:17:22 America/Boise] Received data: Array
+(
+    [product_name] => Backdrop Banner 3m x 2m
+    [qty] => 1
+    [unitcost] => 4500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 04:17:53 America/Boise] Received data: Array
+(
+    [product_name] => Rental of Frame, Mobilisation & Installation Fee
+    [qty] => 1
+    [unitcost] => 2100
+    [total] => 2100.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 04:17:58 America/Boise] Received data: Array
+(
+    [company_name] => METEO
+    [contact_person] => Beryl Andrade
+    [contact_no] => /
+    [address] => L’escale Resort Marina and Spa
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 6600.00
+    [action] => addquotation
+)
+
+[28-Nov-2025 23:42:10 America/Boise] Received data: Array
+(
+    [product_name] => 430 cm x 225 cm branding with ACP 
+    [qty] => 1
+    [unitcost] => 12500
+    [total] => 12500.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 23:43:05 America/Boise] Received data: Array
+(
+    [product_name] => 153 cm x 89 cm One way sticker on Glass
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 23:43:52 America/Boise] Received data: Array
+(
+    [product_name] => 27 cm x 89 cm one way sticker on Glass
+    [qty] => 2
+    [unitcost] => 215
+    [total] => 430.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 23:44:49 America/Boise] Received data: Array
+(
+    [product_name] => 108 cm x 27 cm one way sticker on Glass
+    [qty] => 1
+    [unitcost] => 260
+    [total] => 260.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 23:45:50 America/Boise] Received data: Array
+(
+    [product_name] => 28 cm x 100 cm one way sticker on Glass
+    [qty] => 2
+    [unitcost] => 250
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 23:46:35 America/Boise] Received data: Array
+(
+    [product_name] => 62 cm x 92 cm one way sticker on Glass
+    [qty] => 2
+    [unitcost] => 525
+    [total] => 1050.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Nov-2025 23:53:09 America/Boise] Received data: Array
+(
+    [company_name] => Hunger Stop
+    [contact_person] => Mr. Niladri Goswami 
+    [contact_no] => 2715781
+    [address] => Branding Hunger Stop 
+    [usersTable_length] => 10
+    [tqty] => 10
+    [qvalue] => 17140.00
+    [action] => addquotation
+)
+
+[29-Nov-2025 00:22:21 America/Boise] Received data: Array
+(
+    [product_name] => 457 cm x 257 cm branding with ACP
+    [qty] => 1
+    [unitcost] => 15000
+    [total] => 15000.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Nov-2025 00:25:36 America/Boise] Received data: Array
+(
+    [product_name] => 173 cm x 257 cm sticker on existing ACP 
+    [qty] => 1
+    [unitcost] => 3500
+    [total] => 3500.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Nov-2025 00:26:13 America/Boise] Received data: Array
+(
+    [product_name] => 143 cm x 257 cm sticker on door
+    [qty] => 1
+    [unitcost] => 2900
+    [total] => 2900.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Nov-2025 00:26:50 America/Boise] Received data: Array
+(
+    [product_name] => 135 cm x 257 cm sticker on existing ACP
+    [qty] => 1
+    [unitcost] => 2700
+    [total] => 2700.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Nov-2025 00:27:33 America/Boise] Received data: Array
+(
+    [product_name] => 130 cm x 257 cm branding with ACP
+    [qty] => 1
+    [unitcost] => 5000
+    [total] => 5000.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Nov-2025 00:28:02 America/Boise] Received data: Array
+(
+    [company_name] => Amsa Medical Centre
+    [contact_person] => Mr. Niladri Goswami 
+    [contact_no] => 0
+    [address] => Amsa Clinic Branding
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 29100.00
+    [action] => addquotation
+)
+
+[29-Nov-2025 00:28:02 America/Boise] Received data: Array
+(
+    [company_name] => Amsa Medical Centre
+    [contact_person] => Mr. Niladri Goswami 
+    [contact_no] => 0
+    [address] => Amsa Clinic Branding
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 29100.00
+    [action] => addquotation
+)
+
+[29-Nov-2025 00:39:01 America/Boise] Received data: Array
+(
+    [product_name] => 800cm x 45 cm  light board 
+    [qty] => 1
+    [unitcost] => 29500
+    [total] => 29500.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Nov-2025 00:39:07 America/Boise] Received data: Array
+(
+    [company_name] => Amsa Medical Centre
+    [contact_person] => Mr. Niladri Goswami 
+    [contact_no] => 0
+    [address] => Light board
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 29500.00
+    [action] => addquotation
+)
+
+[30-Nov-2025 22:08:10 America/Boise] Received data: Array
+(
+    [product_name] => Roll up Stand 85cm x 200cm
+    [qty] => 2
+    [unitcost] => 2000
+    [total] => 4000.00
+    [qid] => 0
+    [action] => add
+)
+
+[30-Nov-2025 22:08:13 America/Boise] Received data: Array
+(
+    [company_name] => Blue Economy
+    [contact_person] => Gabriella Gonthier
+    [contact_no] => -
+    [address] => Roll up
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 4000.00
+    [action] => addquotation
+)
+
+[01-Dec-2025 06:21:47 America/Boise] Received data: Array
+(
+    [product_name] => Office Choir Banner 510cm x 277 on Light Absorbing & Fire Resistant Matt Canvas
+    [qty] => 1
+    [unitcost] => 11500
+    [total] => 11500.00
+    [qid] => 0
+    [action] => add
+)
+
+[01-Dec-2025 06:21:50 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Broadcasting Corporation
+    [contact_person] => Attn Christian Moise
+    [contact_no] => -
+    [address] => Office Choir Banner
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 11500.00
+    [action] => addquotation
+)
+
+[02-Dec-2025 01:05:16 America/Boise] Received data: Array
+(
+    [product_name] => 2mtrs x 1.7mtrs Print
+    [qty] => 1
+    [unitcost] => 12800
+    [total] => 12800.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 01:07:05 America/Boise] Received data: Array
+(
+    [company_name] => Kenya Airways
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Window Oneway Vison
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 12800.00
+    [action] => addquotation
+)
+
+[02-Dec-2025 02:33:50 America/Boise] Received data: Array
+(
+    [product_name] => Frosted Film Supply & Application 0.8x2mtrs
+    [qty] => 28
+    [unitcost] => 960
+    [total] => 26880.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 02:34:41 America/Boise] Received data: Array
+(
+    [product_name] => Frosted Film Supply & Application 0.25x2mtrs
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 02:35:43 America/Boise] Received data: Array
+(
+    [product_name] => Frosted Film Supply & Application 0.40x2mtrs
+    [qty] => 2
+    [unitcost] => 480
+    [total] => 960.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 02:41:43 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Broadcasting Corporation
+    [contact_person] => -
+    [contact_no] => -
+    [address] => Frosted Film 
+    [usersTable_length] => 10
+    [tqty] => 31
+    [qvalue] => 28140.00
+    [action] => addquotation
+)
+
+[02-Dec-2025 02:57:21 America/Boise] Received data: Array
+(
+    [product_name] => Redo the Bon Espoir Board using acrylic paint and finish with varnish
+    [qty] => 1
+    [unitcost] => 3840
+    [total] => 3840.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 02:57:26 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Esther William
+    [contact_no] => -
+    [address] => Bon Espoir Board
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 3840.00
+    [action] => addquotation
+)
+
+[02-Dec-2025 03:05:33 America/Boise] Received data: Array
+(
+    [product_name] => Dome Tent
+    [qty] => 2
+    [unitcost] => 8450
+    [total] => 16900.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 03:05:47 America/Boise] Received data: Array
+(
+    [company_name] => Min of Env.,Climate, Energy, and Natural Resources
+    [contact_person] => Jeanette
+    [contact_no] => -
+    [address] => Dome Tent
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 16900.00
+    [action] => addquotation
+)
+
+[02-Dec-2025 04:26:21 America/Boise] Received data: Array
+(
+    [product_name] => Billboard 1.5 x 4mtrs
+    [qty] => 2
+    [unitcost] => 9000
+    [total] => 18000.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 04:26:31 America/Boise] Received data: Array
+(
+    [company_name] => H. Savy Insurance
+    [contact_person] => Adrian Nanty
+    [contact_no] => -
+    [address] => VBT Billboard
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 18000.00
+    [action] => addquotation
+)
+
+[02-Dec-2025 23:26:24 America/Boise] Received data: Array
+(
+    [product_name] =>  Arrival Lounge Sticker Matt laminate 134cm  x 52cm
+    [qty] => 2
+    [unitcost] => 700
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 23:26:56 America/Boise] Received data: Array
+(
+    [product_name] =>  Arrival Lounge Sticker Matt laminate 285cm  x 52cm
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 23:27:33 America/Boise] Received data: Array
+(
+    [product_name] =>  Arrival Lounge Sticker Matt laminate 134cm  x 199cm
+    [qty] => 2
+    [unitcost] => 2680
+    [total] => 5360.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 23:37:06 America/Boise] Received data: Array
+(
+    [product_name] => Arrival Lounge Sticker Matt laminate 132cm  x 185cm
+    [qty] => 2
+    [unitcost] => 240
+    [total] => 480.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 23:37:15 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Airport Authority
+    [contact_person] => Bernadette Dogley
+    [contact_no] => -
+    [address] => Arrival Interior Doors
+    [usersTable_length] => 10
+    [tqty] => 7
+    [qvalue] => 8740.00
+    [action] => addquotation
+)
+
+[03-Dec-2025 01:45:31 America/Boise] Received data: Array
+(
+    [product_name] => Etrance Board
+    [qty] => 1
+    [unitcost] => 3500
+    [total] => 3500.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Dec-2025 01:45:36 America/Boise] Received data: Array
+(
+    [company_name] => MATALAN
+    [contact_person] => Tarah
+    [contact_no] => -
+    [address] => Signage
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 3500.00
+    [action] => addquotation
+)
+
+[09-Dec-2025 00:01:09 America/Boise] Received data: Array
+(
+    [product_name] => Board 175cmx 175cm
+    [qty] => 1
+    [unitcost] => 4595
+    [total] => 4595.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Dec-2025 00:01:27 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => -
+    [contact_no] => -
+    [address] => Perseverance Board
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 4595.00
+    [action] => addquotation
+)
+
+[10-Dec-2025 01:31:07 America/Boise] Received data: Array
+(
+    [product_name] => 230 cm x 230 cm branding with ACP both side view
+    [qty] => 11
+    [unitcost] => 11630
+    [total] => 127930.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 01:31:57 America/Boise] Received data: Array
+(
+    [product_name] => 230 cm x 156 cm branding with ACP both side view
+    [qty] => 1
+    [unitcost] => 7890
+    [total] => 7890.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 01:32:36 America/Boise] Received data: Array
+(
+    [product_name] => 230 cm x 203 cm branding with ACP both side view
+    [qty] => 3
+    [unitcost] => 10270
+    [total] => 30810.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 01:33:29 America/Boise] Received data: Array
+(
+    [company_name] => Horizon Trading
+    [contact_person] => Anish
+    [contact_no] => 0
+    [address] => Bus stop - opp to Library 
+    [usersTable_length] => 10
+    [tqty] => 15
+    [qvalue] => 166630.00
+    [action] => addquotation
+)
+
+[10-Dec-2025 02:43:42 America/Boise] Received data: Array
+(
+    [product_name] => 255 cm x 273 cm branding with ACP
+    [qty] => 1
+    [unitcost] => 10200
+    [total] => 10200.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 02:43:48 America/Boise] Received data: Array
+(
+    [company_name] => IFS
+    [contact_person] => Mr. Radha Krishna
+    [contact_no] => 2519152
+    [address] => Branding Jothi Shopping Centre
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 10200.00
+    [action] => addquotation
+)
+
+[10-Dec-2025 21:41:09 America/Boise] Received data: Array
+(
+    [product_name] => Entry ticket Coupon
+    [qty] => 150
+    [unitcost] => 2
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 21:41:15 America/Boise] Received data: Array
+(
+    [company_name] => Ochan Restaurant
+    [contact_person] => Mr. Suresh Kumar
+    [contact_no] => 2814872
+    [address] => Entry Ticket Coupon
+    [usersTable_length] => 10
+    [tqty] => 150
+    [qvalue] => 300.00
+    [action] => addquotation
+)
+
+[10-Dec-2025 21:42:31 America/Boise] Received data: Array
+(
+    [product_name] => Entry ticket Coupon
+    [qty] => 100
+    [unitcost] => 2
+    [total] => 200.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 21:42:34 America/Boise] Received data: Array
+(
+    [company_name] => Kapatya Restaurant
+    [contact_person] => Mr. Suresh Kumar
+    [contact_no] => 2814872
+    [address] => Entry Ticket Coupon
+    [usersTable_length] => 10
+    [tqty] => 100
+    [qvalue] => 200.00
+    [action] => addquotation
+)
+
+[10-Dec-2025 21:48:36 America/Boise] Received data: Array
+(
+    [product_name] => 190 cm x 65 cm One way sticker on exiting glass
+    [qty] => 4
+    [unitcost] => 1235
+    [total] => 4940.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 21:49:27 America/Boise] Received data: Array
+(
+    [product_name] => 153 cm x 89 cm One way sticker on Glass
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 21:49:47 America/Boise] Received data: Array
+(
+    [product_name] => 27 cm x 89 cm one way sticker on Glass
+    [qty] => 2
+    [unitcost] => 215
+    [total] => 430.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 21:50:18 America/Boise] Received data: Array
+(
+    [product_name] => 108 cm x 27 cm one way sticker on Glass
+    [qty] => 1
+    [unitcost] => 260
+    [total] => 260.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 21:50:38 America/Boise] Received data: Array
+(
+    [product_name] => 28 cm x 100 cm one way sticker on Glass
+    [qty] => 2
+    [unitcost] => 250
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 21:50:57 America/Boise] Received data: Array
+(
+    [product_name] => 62 cm x 92 cm one way sticker on Glass
+    [qty] => 2
+    [unitcost] => 525
+    [total] => 1050.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 21:51:07 America/Boise] Received data: Array
+(
+    [company_name] => Hunger Stop
+    [contact_person] => Mr. Niladri Goswami 
+    [contact_no] => 2715781
+    [address] => Option- 2  Branding Hunger Stop
+    [usersTable_length] => 10
+    [tqty] => 13
+    [qvalue] => 9580.00
+    [action] => addquotation
+)
+
+[11-Dec-2025 22:23:33 America/Boise] Received data: Array
+(
+    [product_name] => Passenger Info Board 90cm x 60cm
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 22:24:13 America/Boise] Received data: Array
+(
+    [product_name] => Taxi Notice Signboard 90cm x 60cm
+    [qty] => 5
+    [unitcost] => 1200
+    [total] => 6000.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 22:25:19 America/Boise] Received data: Array
+(
+    [product_name] => \Restricted and NO PARKING 90cm x 70cm
+    [qty] => 3
+    [unitcost] => 1400
+    [total] => 4200.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 22:41:25 America/Boise] Received data: Array
+(
+    [product_name] => Emergency Zone Signboard 60cm x 60cm
+    [qty] => 1 
+    [unitcost] => 850
+    [total] => 850.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 22:42:10 America/Boise] Received data: Array
+(
+    [product_name] => DMC Designated Parking 60cm x 60cm
+    [qty] => 2
+    [unitcost] => 850
+    [total] => 1700.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 22:43:01 America/Boise] Received data: Array
+(
+    [product_name] => DMC Arrow Board 35cm x 35cm
+    [qty] => 2
+    [unitcost] => 325
+    [total] => 650.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 22:44:50 America/Boise] Received data: Array
+(
+    [product_name] => IIQ Final Layout for Visitors 90cm x 60cm
+    [qty] => 1
+    [unitcost] => 1400
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 22:45:06 America/Boise] Received data: Array
+(
+    [company_name] => Sey Port Authority
+    [contact_person] => Ms Lynka Matombe
+    [contact_no] => -
+    [address] => Inter Island Quay
+    [usersTable_length] => 10
+    [tqty] => 16
+    [qvalue] => 17200.00
+    [action] => addquotation
+)
+
+[11-Dec-2025 23:05:10 America/Boise] Received data: Array
+(
+    [product_name] => A4 Multi Colour 
+    [qty] => 150
+    [unitcost] => 5
+    [total] => 750.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 23:05:17 America/Boise] Received data: Array
+(
+    [company_name] => GSC
+    [contact_person] => Kumar R
+    [contact_no] => -
+    [address] => -A4 Multi Colour
+    [usersTable_length] => 10
+    [tqty] => 150
+    [qvalue] => 750.00
+    [action] => addquotation
+)
+
+[11-Dec-2025 23:25:04 America/Boise] Received data: Array
+(
+    [product_name] => Entry Ticket (150 Ochan  100 Kapatya)
+    [qty] => 250
+    [unitcost] => 2
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 23:25:09 America/Boise] Received data: Array
+(
+    [company_name] => GSC
+    [contact_person] => Kumar R
+    [contact_no] => -
+    [address] => Entry Ticket
+    [usersTable_length] => 10
+    [tqty] => 250
+    [qvalue] => 500.00
+    [action] => addquotation
+)
+
+[11-Dec-2025 23:38:08 America/Boise] Received data: Array
+(
+    [product_name] => Designated Smokin Area (45cm x 50cm)
+    [qty] => 1
+    [unitcost] => 400
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 23:38:54 America/Boise] Received data: Array
+(
+    [product_name] => No Smoking Board (45cm x 50cm)
+    [qty] => 1
+    [unitcost] => 400
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 23:38:57 America/Boise] Received data: Array
+(
+    [company_name] => Sey Airport Authority
+    [contact_person] => Joseph Didon - Division Officer
+    [contact_no] => -
+    [address] => Designated and No Smoking Area Sign
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 800.00
+    [action] => addquotation
+)
+
+[11-Dec-2025 23:47:26 America/Boise] Received data: Array
+(
+    [product_name] => PVC Construction Site Safety Board 500mm x 700mm
+    [qty] => 10
+    [unitcost] => 350
+    [total] => 3500.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 23:48:16 America/Boise] Received data: Array
+(
+    [product_name] => PVC DANGER FLAMMABLE Material Board 500mm x700mm
+    [qty] => 5
+    [unitcost] => 350
+    [total] => 1750.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Dec-2025 23:48:19 America/Boise] Received data: Array
+(
+    [company_name] => GICC
+    [contact_person] => MAHENDRA KERAI
+    [contact_no] => -
+    [address] => Signboards
+    [usersTable_length] => 10
+    [tqty] => 15
+    [qvalue] => 5250.00
+    [action] => addquotation
+)
+
+[15-Dec-2025 21:34:43 America/Boise] Received data: Array
+(
+    [product_name] => light board  
+    [qty] => 1
+    [unitcost] => 17500
+    [total] => 17500.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Dec-2025 21:34:51 America/Boise] Received data: Array
+(
+    [company_name] => Amsa Medical Centre
+    [contact_person] => Mr. Niladri Goswami 
+    [contact_no] => 0
+    [address] => Pharmacy board with light box
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 17500.00
+    [action] => addquotation
+)
+
+[16-Dec-2025 00:37:44 America/Boise] Received data: Array
+(
+    [product_name] => Arch Banner 644 x 304cm
+    [qty] => 1
+    [unitcost] => 13650
+    [total] => 13650.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Dec-2025 00:38:03 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Banner 
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 13650.00
+    [action] => addquotation
+)
+
+[16-Dec-2025 03:08:42 America/Boise] Received data: Array
+(
+    [product_name] => 2 Pair of Logo for Vehicle (Red & White)
+    [qty] => 4
+    [unitcost] => 300
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Dec-2025 03:08:45 America/Boise] Received data: Array
+(
+    [company_name] => SBS
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Car Logo Branding
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 1200.00
+    [action] => addquotation
+)
+
+[18-Dec-2025 01:46:55 America/Boise] Received data: Array
+(
+    [product_name] => Banner 213cm x 118cm
+    [qty] => 1
+    [unitcost] => 1750
+    [total] => 1750.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Dec-2025 01:46:57 America/Boise] Received data: Array
+(
+    [company_name] => Sodepak
+    [contact_person] => Vania
+    [contact_no] => /
+    [address] => PVC Banner
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1750.00
+    [action] => addquotation
+)
+
+[18-Dec-2025 23:01:09 America/Boise] Received data: Array
+(
+    [product_name] => A3 Print and Laminate
+    [qty] => 24
+    [unitcost] => 65
+    [total] => 1560.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Dec-2025 23:01:12 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => M.C Dupres
+    [contact_no] => -
+    [address] => Laminated A3
+    [usersTable_length] => 10
+    [tqty] => 24
+    [qvalue] => 1560.00
+    [action] => addquotation
+)
+
+[18-Dec-2025 23:09:05 America/Boise] Received data: Array
+(
+    [product_name] => Roll Up Stand 85cm x 200cm
+    [qty] => 2
+    [unitcost] => 2000
+    [total] => 4000.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Dec-2025 23:09:13 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Roll up Stands
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 4000.00
+    [action] => addquotation
+)
+
+[19-Dec-2025 04:08:55 America/Boise] Received data: Array
+(
+    [product_name] => Trophy with Star
+    [qty] => 5
+    [unitcost] => 1200
+    [total] => 6000.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 04:09:32 America/Boise] Received data: Array
+(
+    [product_name] => Acrylic Perspex Trophy 
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 04:09:37 America/Boise] Received data: Array
+(
+    [company_name] => SPTC
+    [contact_person] => Alex Etienne
+    [contact_no] => -
+    [address] => Trophies
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 7500.00
+    [action] => addquotation
+)
+
+[19-Dec-2025 05:16:16 America/Boise] Received data: Array
+(
+    [product_name] => Flexi 297 cm x 224 cm 
+    [qty] => 1
+    [unitcost] => 3999
+    [total] => 3999.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 05:17:00 America/Boise] Received data: Array
+(
+    [product_name] => photo booth 36 x 24 
+    [qty] => 1
+    [unitcost] => 800
+    [total] => 800.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 05:17:03 America/Boise] Received data: Array
+(
+    [company_name] => Ochan Restaurant
+    [contact_person] => Mr. Kumar
+    [contact_no] => 2814872
+    [address] => Newyear Flexi
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 4799.00
+    [action] => addquotation
+)
+
+[19-Dec-2025 08:14:03 America/Boise] Received data: Array
+(
+    [product_name] => Signboards 200cm x 150cm for Landfill and Nurseries on ACP Panels
+    [qty] => 28
+    [unitcost] => 3600
+    [total] => 100800.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 08:14:09 America/Boise] Received data: Array
+(
+    [company_name] => Lanscape & Waste Management Agency
+    [contact_person] => Procurement & Mr Ryan
+    [contact_no] => -
+    [address] => Signboard on Aluminum Compoite Board
+    [usersTable_length] => 10
+    [tqty] => 28
+    [qvalue] => 100800.00
+    [action] => addquotation
+)
+
+[22-Dec-2025 00:49:51 America/Boise] Received data: Array
+(
+    [product_name] => 183 cm x 92 cm flexi
+    [qty] => 1
+    [unitcost] => 1000
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-Dec-2025 00:50:00 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => Mr. Kumar
+    [contact_no] => 2814872
+    [address] => Flexi -  Mega Sale
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1000.00
+    [action] => addquotation
+)
+
+[22-Dec-2025 19:13:14 America/Boise] Received data: Array
+(
+    [product_name] => 66 cm x 190 cm sticker
+    [qty] => 2
+    [unitcost] => 1000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-Dec-2025 19:14:11 America/Boise] Received data: Array
+(
+    [product_name] => 66 cm x 190 cm blockout sticker
+    [qty] => 2
+    [unitcost] => 560
+    [total] => 1120.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-Dec-2025 19:14:23 America/Boise] Received data: Array
+(
+    [company_name] => Hunger stop
+    [contact_person] => Mr. Nilgiri Goshwami
+    [contact_no] => 2743696
+    [address] => Branding
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 3120.00
+    [action] => addquotation
+)
+
+[29-Dec-2025 03:00:17 America/Boise] Received data: Array
+(
+    [product_name] => Wall Calendar 33cm x 48cm
+    [qty] => 2500
+    [unitcost] => 35
+    [total] => 87500.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Dec-2025 03:00:21 America/Boise] Received data: Array
+(
+    [company_name] => SACOS
+    [contact_person] => Dmitri Simeon
+    [contact_no] => -
+    [address] => Wall Calendar
+    [usersTable_length] => 10
+    [tqty] => 2500
+    [qvalue] => 87500.00
+    [action] => addquotation
+)
+
+[29-Dec-2025 04:26:49 America/Boise] Received data: Array
+(
+    [product_name] => 500 cm x 320 cm sheeter branding 
+    [qty] => 1
+    [unitcost] => 12000
+    [total] => 12000.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Dec-2025 04:27:00 America/Boise] Received data: Array
+(
+    [company_name] => Horizon Trading
+    [contact_person] => Anish
+    [contact_no] => 0
+    [address] => Enjoy super market sheeter branding 
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 12000.00
+    [action] => addquotation
+)
+
+[29-Dec-2025 05:08:23 America/Boise] Received data: Array
+(
+    [product_name] => 122 cm x 187 cm branding with PVC
+    [qty] => 2
+    [unitcost] => 2730
+    [total] => 5460.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Dec-2025 05:08:26 America/Boise] Received data: Array
+(
+    [company_name] => Kapatya Restaurant
+    [contact_person] => kumar
+    [contact_no] => 0
+    [address] => airport arrival point branding
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 5460.00
+    [action] => addquotation
+)
+
+[04-Jan-2026 23:04:28 America/Boise] Received data: Array
+(
+    [product_name] => 97 cm x 27 cm one way sticker
+    [qty] => 210
+    [unitcost] => 3
+    [total] => 630.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:05:47 America/Boise] Received data: Array
+(
+    [product_name] => 97 cm x 133 cm one way sticker
+    [qty] => 2
+    [unitcost] => 1050
+    [total] => 2100.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:06:49 America/Boise] Received data: Array
+(
+    [product_name] => 69 cm x 27 cm one way sticker
+    [qty] => 3
+    [unitcost] => 150
+    [total] => 450.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:07:44 America/Boise] Received data: Array
+(
+    [product_name] => 69 cm x 133 cm one way sticker
+    [qty] => 3
+    [unitcost] => 735
+    [total] => 2205.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:10:04 America/Boise] Received data: Array
+(
+    [product_name] => 97 cm x 27 cm one way sticker
+    [qty] => 3
+    [unitcost] => 210
+    [total] => 630.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:11:54 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => kumar
+    [contact_no] => 2814872
+    [address] => VIJAYA VINAYAKA SHOP(Ma Constance) branding
+    [usersTable_length] => 10
+    [tqty] => 11
+    [qvalue] => 5385.00
+    [action] => addquotation
+)
+
+[04-Jan-2026 23:15:37 America/Boise] Received data: Array
+(
+    [product_name] => 85 cm x 89 cm oneway sticker
+    [qty] => 4
+    [unitcost] => 608
+    [total] => 2432.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:16:28 America/Boise] Received data: Array
+(
+    [product_name] => 88  cm x 89 cm oneway sticker
+    [qty] => 2
+    [unitcost] => 625
+    [total] => 1250.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:17:32 America/Boise] Received data: Array
+(
+    [product_name] => 171 cm x 89 cm oneway sticker
+    [qty] => 1
+    [unitcost] => 1215
+    [total] => 1215.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:19:06 America/Boise] Received data: Array
+(
+    [product_name] => 85 cm x 171 cm oneway sticker
+    [qty] => 4
+    [unitcost] => 1160
+    [total] => 4640.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:20:11 America/Boise] Received data: Array
+(
+    [product_name] => 88 cm x 171 cm oneway sticker
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:21:03 America/Boise] Received data: Array
+(
+    [product_name] => 69 cm x 218 cm oneway sticker
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:21:30 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => kumar
+    [contact_no] => 2814872
+    [address] => Smart Shop Grand Anse branding
+    [usersTable_length] => 10
+    [tqty] => 15
+    [qvalue] => 14337.00
+    [action] => addquotation
+)
+
+[04-Jan-2026 23:23:04 America/Boise] Received data: Array
+(
+    [product_name] => 78 cm x 111 cm oneway sticker
+    [qty] => 4
+    [unitcost] => 690
+    [total] => 2760.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:23:54 America/Boise] Received data: Array
+(
+    [product_name] => 62 cm x 90 cm oneway sticker on glass door
+    [qty] => 1
+    [unitcost] => 450
+    [total] => 450.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:23:56 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => kumar
+    [contact_no] => 2814872
+    [address] => SKM Mini Mart - Grand anse branding
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 3210.00
+    [action] => addquotation
+)
+
+[04-Jan-2026 23:32:32 America/Boise] Received data: Array
+(
+    [product_name] => 49 cm x 84 cm sticker
+    [qty] => 1
+    [unitcost] => 250
+    [total] => 250.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:33:50 America/Boise] Received data: Array
+(
+    [product_name] => 62 cm x 109 cm sticker
+    [qty] => 1
+    [unitcost] => 400
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Jan-2026 23:33:54 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => kumar
+    [contact_no] => 2814872
+    [address] => Enjoy supermarket Perseverance branding
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 650.00
+    [action] => addquotation
+)
+
+[05-Jan-2026 00:29:18 America/Boise] Received data: Array
+(
+    [product_name] => 122 cm x 187 cm branding with PVC
+    [qty] => 1
+    [unitcost] => 2730
+    [total] => 2730.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jan-2026 00:29:23 America/Boise] Received data: Array
+(
+    [company_name] => Maharaja Restaurant
+    [contact_person] => Kumar
+    [contact_no] => 2814872
+    [address] => airport arrival point branding
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2730.00
+    [action] => addquotation
+)
+
+[05-Jan-2026 23:10:37 America/Boise] Received data: Array
+(
+    [product_name] => Visibility board – 120 x 150 cm
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jan-2026 23:13:05 America/Boise] Received data: Array
+(
+    [product_name] => Lollipop sign – 75 x 75 cm  (Made with acrylic laser cut)
+    [qty] => 5
+    [unitcost] => 300
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jan-2026 23:14:20 America/Boise] Received data: Array
+(
+    [product_name] => Slow Turtle T-shirts
+    [qty] => 15
+    [unitcost] => 175
+    [total] => 2625.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jan-2026 23:16:55 America/Boise] Received data: Array
+(
+    [product_name] => Bar rebrand – foam sampling bar
+    [qty] => 1
+    [unitcost] => 1400
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jan-2026 23:18:02 America/Boise] Received data: Array
+(
+    [product_name] => Lollipop sign – 75 cm width
+    [qty] => 5
+    [unitcost] => 250
+    [total] => 1250.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jan-2026 23:18:08 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Corrine Roucou
+    [contact_no] => -
+    [address] => Slow Turtle – Anse Bazarka Beach Clean Up
+    [usersTable_length] => 10
+    [tqty] => 27
+    [qvalue] => 8775.00
+    [action] => addquotation
+)
+
+[06-Jan-2026 03:15:05 America/Boise] Received data: Array
+(
+    [product_name] => 20 cm x 5.5 cm  booklet with perforation
+    [qty] => 250
+    [unitcost] => 300
+    [total] => 75000.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Jan-2026 03:15:22 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => kumar
+    [contact_no] => 2814872
+    [address] => American Fresh luckydraw booklets
+    [usersTable_length] => 10
+    [tqty] => 250
+    [qvalue] => 75000.00
+    [action] => addquotation
+)
+
+[07-Jan-2026 06:39:25 America/Boise] Received data: Array
+(
+    [product_name] => Entrance Signboard 565cm x 122cm
+    [qty] => 1
+    [unitcost] => 12500
+    [total] => 12500.00
+    [qid] => 0
+    [action] => add
+)
+
+[07-Jan-2026 06:40:24 America/Boise] Received data: Array
+(
+    [product_name] => Side Entrance Signboard 375cm x 61cm
+    [qty] => 1
+    [unitcost] => 4500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[07-Jan-2026 06:41:19 America/Boise] Received data: Array
+(
+    [product_name] => Side Windows One Way/Sticker 117cm x 178cm
+    [qty] => 3
+    [unitcost] => 1725
+    [total] => 5175.00
+    [qid] => 0
+    [action] => add
+)
+
+[07-Jan-2026 06:41:26 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Orion Mall - Cable & Wireless Office
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 22175.00
+    [action] => addquotation
+)
+
+[08-Jan-2026 02:44:53 America/Boise] Received data: Array
+(
+    [product_name] => 70cm x 150cm
+    [qty] => 7
+    [unitcost] => 650
+    [total] => 4550.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 02:45:30 America/Boise] Received data: Array
+(
+    [product_name] => 70cm x 70cm
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 02:46:12 America/Boise] Received data: Array
+(
+    [product_name] => 55cm x 41cm
+    [qty] => 7
+    [unitcost] => 150
+    [total] => 1050.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 02:46:13 America/Boise] Received data: Array
+(
+    [product_name] => 55cm x 41cm
+    [qty] => 7
+    [unitcost] => 150
+    [total] => 1050.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 02:46:43 America/Boise] Received data: Array
+(
+    [product_name] => 55cm x 41cm
+    [qty] => 7
+    [unitcost] => 150
+    [total] => 1050.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 02:47:28 America/Boise] Received data: Array
+(
+    [product_name] => 135cm x 215cm
+    [qty] => 1
+    [unitcost] => 1700
+    [total] => 1700.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 02:47:55 America/Boise] Received data: Array
+(
+    [product_name] => Installation
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 03:08:54 America/Boise] Received data: Array
+(
+    [company_name] => Cascade District Admin
+    [contact_person] => Franky Lablache
+    [contact_no] => /
+    [address] => Tinted
+    [usersTable_length] => 10
+    [tqty] => 24
+    [qvalue] => 10650.00
+    [action] => addquotation
+)
+
+[08-Jan-2026 05:23:37 America/Boise] Received data: Array
+(
+    [product_name] => Round Neck Tshirts - The Great Battle of the Crown
+    [qty] => 30
+    [unitcost] => 375
+    [total] => 11250.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 05:23:44 America/Boise] Received data: Array
+(
+    [company_name] => British Hign Commission
+    [contact_person] => Pia Pool
+    [contact_no] => -
+    [address] => The Great Battle of the Crown Tshirt
+    [usersTable_length] => 10
+    [tqty] => 30
+    [qvalue] => 11250.00
+    [action] => addquotation
+)
+
+[09-Jan-2026 03:53:02 America/Boise] Received data: Array
+(
+    [product_name] => 70cm x 150cm 
+    [qty] => 5
+    [unitcost] => 650
+    [total] => 3250.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jan-2026 03:54:10 America/Boise] Received data: Array
+(
+    [product_name] => 70cm x 150cm
+    [qty] => 10
+    [unitcost] => 650
+    [total] => 6500.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jan-2026 03:54:22 America/Boise] Received data: Array
+(
+    [product_name] => Installation
+    [qty] => 1
+    [unitcost] => 1000
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jan-2026 03:54:25 America/Boise] Received data: Array
+(
+    [company_name] => Cascade District Admin
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Tinted
+    [usersTable_length] => 10
+    [tqty] => 11
+    [qvalue] => 7500.00
+    [action] => addquotation
+)
+
+[09-Jan-2026 04:09:38 America/Boise] Received data: Array
+(
+    [product_name] => Printing of A3 Poster
+    [qty] => 9
+    [unitcost] => 200
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jan-2026 04:09:46 America/Boise] Received data: Array
+(
+    [company_name] => Hilton Seychelles Northolme
+    [contact_person] => Dave Sabadin
+    [contact_no] => /
+    [address] => A3 Print
+    [usersTable_length] => 10
+    [tqty] => 9
+    [qvalue] => 1800.00
+    [action] => addquotation
+)
+
+[13-Jan-2026 23:12:22 America/Boise] Received data: Array
+(
+    [product_name] => Sticker 1mtrx 65cm for boards
+    [qty] => 2
+    [unitcost] => 525
+    [total] => 1050.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Jan-2026 23:12:59 America/Boise] Received data: Array
+(
+    [product_name] => Roll up Stand Print only
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Jan-2026 23:13:44 America/Boise] Received data: Array
+(
+    [product_name] => Sticker for notebook 9cm x 9cm
+    [qty] => 1
+    [unitcost] => 6.5
+    [total] => 6.50
+    [qid] => 0
+    [action] => add
+)
+
+[13-Jan-2026 23:13:54 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Jeanine Baptiste
+    [contact_no] => -
+    [address] => Board, Roll up & Note Book
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 3457.00
+    [action] => addquotation
+)
+
+[14-Jan-2026 03:50:48 America/Boise] Received data: Array
+(
+    [product_name] => Roll up stand 85cm x 200cm
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-Jan-2026 03:51:47 America/Boise] Received data: Array
+(
+    [product_name] => Sticker Posters 90.5cm x 178cm
+    [qty] => 1
+    [unitcost] => 1300
+    [total] => 1300.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-Jan-2026 03:52:50 America/Boise] Received data: Array
+(
+    [product_name] => Sticker Posters 75.5cm x 109cm
+    [qty] => 1
+    [unitcost] => 675
+    [total] => 675.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-Jan-2026 03:52:53 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => M.C Dupres
+    [contact_no] => -
+    [address] => Posters and Roll ups
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 3975.00
+    [action] => addquotation
+)
+
+[15-Jan-2026 00:05:34 America/Boise] Received data: Array
+(
+    [product_name] => Billboard 6x1mtr (Sticker only)
+    [qty] => 1
+    [unitcost] => 7500
+    [total] => 7500.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Jan-2026 00:06:19 America/Boise] Received data: Array
+(
+    [company_name] => H. Savy Insurance
+    [contact_person] => Adrian Nanty
+    [contact_no] => -
+    [address] => Anse Aux Pins Bus Terminal
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 7500.00
+    [action] => addquotation
+)
+
+[15-Jan-2026 04:08:43 America/Boise] Received data: Array
+(
+    [product_name] => Signboard on ACP (Aluminium Composite Panel) 120cm x 40cm
+    [qty] => 1
+    [unitcost] => 825
+    [total] => 825.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Jan-2026 04:09:12 America/Boise] Received data: Array
+(
+    [product_name] => Installation on existing wall
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Jan-2026 04:10:12 America/Boise] Received data: Array
+(
+    [product_name] => Fabrication and Installation on Galvanise square tube pole
+    [qty] => 1
+    [unitcost] => 2100
+    [total] => 2100.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Jan-2026 04:10:15 America/Boise] Received data: Array
+(
+    [company_name] => IECD
+    [contact_person] => Jacqueline
+    [contact_no] => -
+    [address] => Signboard
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 3225.00
+    [action] => addquotation
+)
+
+[16-Jan-2026 03:27:08 America/Boise] Received data: Array
+(
+    [product_name] => 230 cm x 230 cm 
+    [qty] => 11
+    [unitcost] => 1900
+    [total] => 20900.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Jan-2026 03:27:57 America/Boise] Received data: Array
+(
+    [product_name] => 230 cm x 156 cm
+    [qty] => 1
+    [unitcost] => 1250
+    [total] => 1250.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Jan-2026 03:28:40 America/Boise] Received data: Array
+(
+    [product_name] => 230 cm x 203
+    [qty] => 3
+    [unitcost] => 1650
+    [total] => 4950.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Jan-2026 03:28:49 America/Boise] Received data: Array
+(
+    [company_name] => Horizon Trading
+    [contact_person] => Anish
+    [contact_no] => 0
+    [address] => ACP boards quote 
+    [usersTable_length] => 10
+    [tqty] => 15
+    [qvalue] => 27100.00
+    [action] => addquotation
+)
+
+[19-Jan-2026 22:54:54 America/Boise] Received data: Array
+(
+    [product_name] => Vehicle Sticker (1 Pair)
+    [qty] => 1
+    [unitcost] => 600
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Jan-2026 22:55:05 America/Boise] Received data: Array
+(
+    [company_name] => LWMA
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Vehicle Logo
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 600.00
+    [action] => addquotation
+)
+
+[20-Jan-2026 01:40:32 America/Boise] Received data: Array
+(
+    [product_name] => A5 Flyer (No Dish)
+    [qty] => 500
+    [unitcost] => 15
+    [total] => 7500.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Jan-2026 01:40:34 America/Boise] Received data: Array
+(
+    [company_name] => DSTV
+    [contact_person] => Vanessa Moustache
+    [contact_no] => /
+    [address] => DSTV Flyer A5
+    [usersTable_length] => 10
+    [tqty] => 500
+    [qvalue] => 7500.00
+    [action] => addquotation
+)
+
+[21-Jan-2026 03:44:50 America/Boise] Received data: Array
+(
+    [product_name] => Visitors and Contractor Card
+    [qty] => 50
+    [unitcost] => 100
+    [total] => 5000.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 03:44:53 America/Boise] Received data: Array
+(
+    [company_name] => Cheval Blanc
+    [contact_person] => Mervin Accouche
+    [contact_no] => /
+    [address] => PVC Identification Card
+    [usersTable_length] => 10
+    [tqty] => 50
+    [qvalue] => 5000.00
+    [action] => addquotation
+)
+
+[26-Jan-2026 04:34:22 America/Boise] Received data: Array
+(
+    [product_name] => 219 cm x 90 cm flex banner
+    [qty] => 1
+    [unitcost] => 1400
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Jan-2026 04:34:30 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => Kumar
+    [contact_no] => 0
+    [address] => flexi milky mist
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1400.00
+    [action] => addquotation
+)
+
+[26-Jan-2026 04:43:20 America/Boise] Received data: Array
+(
+    [product_name] => Grocers (Shop) Signboard 172cm W x 92cm H
+    [qty] => 1
+    [unitcost] => 2400
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Jan-2026 04:44:42 America/Boise] Received data: Array
+(
+    [product_name] => Signboard Warehouse 200cm x 475cm
+    [qty] => 1
+    [unitcost] => 18000
+    [total] => 18000.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Jan-2026 04:44:44 America/Boise] Received data: Array
+(
+    [company_name] => GROCERS
+    [contact_person] => Balaji
+    [contact_no] => -
+    [address] => Signboards
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 20400.00
+    [action] => addquotation
+)
+
+[27-Jan-2026 01:49:52 America/Boise] Received data: Array
+(
+    [product_name] => Roll up stand 85cm x 200cm
+    [qty] => 3
+    [unitcost] => 2000
+    [total] => 6000.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Jan-2026 01:50:21 America/Boise] Received data: Array
+(
+    [product_name] => Design and layout fee
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Jan-2026 01:50:24 America/Boise] Received data: Array
+(
+    [company_name] => Ministry of Employment and Human Resources Plan
+    [contact_person] => -
+    [contact_no] => -
+    [address] => Roll up stand
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 8000.00
+    [action] => addquotation
+)
+
+[28-Jan-2026 02:35:19 America/Boise] Received data: Array
+(
+    [product_name] => Option 1: Sticker only 476x218cm and Replacement of 1 PVC board 122x218cm
+    [qty] => 1
+    [unitcost] => 9500
+    [total] => 9500.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Jan-2026 02:41:08 America/Boise] Received data: Array
+(
+    [product_name] => Option 2: Sticker and PVC Board 476x218cm 
+    [qty] => 1
+    [unitcost] => 12700
+    [total] => 12700.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Jan-2026 02:43:22 America/Boise] Received data: Array
+(
+    [product_name] => Option 3: Sticker and Alum. Composite Board 476x218cm 
+    [qty] => 1
+    [unitcost] => 15800
+    [total] => 15800.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Jan-2026 02:44:20 America/Boise] Received data: Array
+(
+    [product_name] => Head Board on PVC 305x40cm
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Jan-2026 02:44:53 America/Boise] Received data: Array
+(
+    [product_name] => Head Board on ACP 305x40cm
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Jan-2026 02:45:06 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => Reef Golf Club Board
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 41300.00
+    [action] => addquotation
+)
+
+[31-Jan-2026 07:26:48 America/Boise] Received data: Array
+(
+    [product_name] => Reception
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:30:13 America/Boise] Received data: Array
+(
+    [product_name] => Reception 133cm x 34cm
+    [qty] => 24
+    [unitcost] => 315
+    [total] => 7560.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:30:54 America/Boise] Received data: Array
+(
+    [product_name] => Reception 64cm x 133cm
+    [qty] => 4
+    [unitcost] => 595
+    [total] => 2380.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:32:04 America/Boise] Received data: Array
+(
+    [product_name] => LGB 64cm x 133cm
+    [qty] => 2
+    [unitcost] => 595
+    [total] => 1190.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:32:49 America/Boise] Received data: Array
+(
+    [product_name] => LGB 64cm x 103cm
+    [qty] => 2
+    [unitcost] => 460
+    [total] => 920.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:34:09 America/Boise] Received data: Array
+(
+    [product_name] => LOTO 34cmx 133cm
+    [qty] => 2
+    [unitcost] => 315
+    [total] => 630.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:34:54 America/Boise] Received data: Array
+(
+    [product_name] => LOTO 64cm x 133cm
+    [qty] => 14
+    [unitcost] => 595
+    [total] => 8330.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:35:43 America/Boise] Received data: Array
+(
+    [product_name] => Speacker 103cm x 64cm
+    [qty] => 4
+    [unitcost] => 460
+    [total] => 1840.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:36:20 America/Boise] Received data: Array
+(
+    [product_name] => Deputy Speaker 103cm x 64cm
+    [qty] => 2
+    [unitcost] => 460
+    [total] => 920.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:37:06 America/Boise] Received data: Array
+(
+    [product_name] => Deputy Speaker Door 65cm x 213cm
+    [qty] => 1
+    [unitcost] => 970
+    [total] => 970.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Jan-2026 07:37:18 America/Boise] Received data: Array
+(
+    [company_name] => National Assembly
+    [contact_person] => Sergeant Rose
+    [contact_no] => -
+    [address] => One Way Vision
+    [usersTable_length] => 10
+    [tqty] => 55
+    [qvalue] => 24740.00
+    [action] => addquotation
+)
+
+[03-Feb-2026 06:31:34 America/Boise] Received data: Array
+(
+    [product_name] => Roll Up Stand 85cm x 200cm for Mission & Vision
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Feb-2026 06:31:37 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Police
+    [contact_person] => WPC Alexandra Payet
+    [contact_no] => -
+    [address] => Mission/Vision Roll up Stand
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2000.00
+    [action] => addquotation
+)
+
+[03-Feb-2026 06:39:54 America/Boise] Received data: Array
+(
+    [product_name] => CWS Globe Print on 3mm Aluminium Composite Panel (ACP) with sticker finish 127cm x 127cm
+    [qty] => 1
+    [unitcost] => 2425
+    [total] => 2425.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Feb-2026 06:40:00 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Logistic - Ms William
+    [contact_no] => -
+    [address] => CWS Globe print
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2425.00
+    [action] => addquotation
+)
+
+[03-Feb-2026 06:58:13 America/Boise] Received data: Array
+(
+    [product_name] => Vehicle Branding Stickers (2 sticker per Vehicle)
+    [qty] => 7
+    [unitcost] => 425
+    [total] => 2975.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Feb-2026 06:58:17 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Vehicle Branding
+    [usersTable_length] => 10
+    [tqty] => 7
+    [qvalue] => 2975.00
+    [action] => addquotation
+)
+
+[03-Feb-2026 21:48:43 America/Boise] Received data: Array
+(
+    [product_name] => Printing of Banner 150cm x 150cm
+    [qty] => 1
+    [unitcost] => 1600
+    [total] => 1600.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Feb-2026 21:48:46 America/Boise] Received data: Array
+(
+    [company_name] => Mason's Travel
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Banner
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1600.00
+    [action] => addquotation
+)
+
+[05-Feb-2026 02:12:53 America/Boise] Received data: Array
+(
+    [product_name] => Supply and Printing of Tshirts
+    [qty] => 100
+    [unitcost] => 300
+    [total] => 30000.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Feb-2026 02:12:55 America/Boise] Received data: Array
+(
+    [company_name] => Laila 
+    [contact_person] => Coralie Frichot
+    [contact_no] => +248 2501701
+    [address] => T-Shirt
+    [usersTable_length] => 10
+    [tqty] => 100
+    [qvalue] => 30000.00
+    [action] => addquotation
+)
+
+[06-Feb-2026 01:48:21 America/Boise] Received data: Array
+(
+    [product_name] => Roll up 85cm x 200cm (Print + Mechanism)
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Feb-2026 01:49:02 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Roll up Stand
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2000.00
+    [action] => addquotation
+)
+
+[06-Feb-2026 04:14:18 America/Boise] Received data: Array
+(
+    [product_name] => Support Frame (Manufacturing, Painting & Installation)
+    [qty] => 8
+    [unitcost] => 2200
+    [total] => 17600.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Feb-2026 04:15:13 America/Boise] Received data: Array
+(
+    [company_name] => LWMA
+    [contact_person] => Johnette Victor
+    [contact_no] => /
+    [address] => Support Frame
+    [usersTable_length] => 10
+    [tqty] => 8
+    [qvalue] => 17600.00
+    [action] => addquotation
+)
+
+[10-Feb-2026 04:29:01 America/Boise] Received data: Array
+(
+    [product_name] => Signboard 150cm x 130cm
+    [qty] => 3
+    [unitcost] => 3000
+    [total] => 9000.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Feb-2026 04:34:24 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Main Office Renovation
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 9000.00
+    [action] => addquotation
+)
+
+[11-Feb-2026 00:12:22 America/Boise] Received data: Array
+(
+    [product_name] => Roll up Stand 80cm x 200cm
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Feb-2026 00:12:37 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => kumar
+    [contact_no] => 0
+    [address] => Roll up stand
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2000.00
+    [action] => addquotation
+)
+
+[11-Feb-2026 00:15:29 America/Boise] Received data: Array
+(
+    [product_name] => Y stand 60 x 160 
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Feb-2026 00:15:32 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => kumar
+    [contact_no] => 0
+    [address] => Y stand
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1800.00
+    [action] => addquotation
+)
+
+[11-Feb-2026 04:58:11 America/Boise] Received data: Array
+(
+    [product_name] => Visual Inspection / Diving Cylinder Sticker
+    [qty] => 500
+    [unitcost] => 5.5
+    [total] => 2750.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Feb-2026 04:58:14 America/Boise] Received data: Array
+(
+    [company_name] => SBS
+    [contact_person] => Kevin Roseline
+    [contact_no] => -
+    [address] => Visual Inspection / Diving Cylinder Sticker
+    [usersTable_length] => 10
+    [tqty] => 500
+    [qvalue] => 2750.00
+    [action] => addquotation
+)
+
+[11-Feb-2026 05:05:26 America/Boise] Received data: Array
+(
+    [product_name] => Roll up Stand 85cm x 200cm (Vision/Mission)
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Feb-2026 05:05:31 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Police
+    [contact_person] => WPC Alexandra Payet / ASP Derjacques
+    [contact_no] => -
+    [address] => Roll up Vision Mission
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2000.00
+    [action] => addquotation
+)
+
+[12-Feb-2026 00:38:50 America/Boise] Received data: Array
+(
+    [product_name] => Printing of Tickets
+    [qty] => 600
+    [unitcost] => 5
+    [total] => 3000.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Feb-2026 00:40:12 America/Boise] Received data: Array
+(
+    [company_name] => Benjamin
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Tickets Print
+    [usersTable_length] => 10
+    [tqty] => 600
+    [qvalue] => 3000.00
+    [action] => addquotation
+)
+
+[12-Feb-2026 00:41:29 America/Boise] Received data: Array
+(
+    [product_name] => Coloured WristBand Ticket
+    [qty] => 600
+    [unitcost] => 3
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Feb-2026 00:41:33 America/Boise] Received data: Array
+(
+    [company_name] => Benjamin
+    [contact_person] => /
+    [contact_no] => /
+    [address] => WristBand Ticket
+    [usersTable_length] => 10
+    [tqty] => 600
+    [qvalue] => 1800.00
+    [action] => addquotation
+)
+
+[14-Feb-2026 04:13:18 America/Boise] Received data: Array
+(
+    [product_name] => Above Bar Board 244cm x 100cm
+    [qty] => 1
+    [unitcost] => 2500
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-Feb-2026 04:13:24 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => Baobab Board
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2500.00
+    [action] => addquotation
+)
+
+[16-Feb-2026 23:51:27 America/Boise] Received data: Array
+(
+    [product_name] => Branding of Sri Ramana Shop
+    [qty] => 1
+    [unitcost] => 21000
+    [total] => 21000.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Feb-2026 23:51:43 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracey Marie
+    [contact_no] => -
+    [address] => SRI RAMANA Branding - Plaisance
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 21000.00
+    [action] => addquotation
+)
+
+[17-Feb-2026 01:29:12 America/Boise] Received data: Array
+(
+    [product_name] => A5 Planogram for Double Door Chiller Branding
+    [qty] => 50
+    [unitcost] => 10
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 01:29:52 America/Boise] Received data: Array
+(
+    [product_name] => A5 Planogram for Single Door Chiller Branding
+    [qty] => 100
+    [unitcost] => 10
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 01:30:05 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracey Tirant
+    [contact_no] => /
+    [address] => Planogram printed chiller stickers
+    [usersTable_length] => 10
+    [tqty] => 150
+    [qvalue] => 1500.00
+    [action] => addquotation
+)
+
+[17-Feb-2026 01:37:16 America/Boise] Received data: Array
+(
+    [product_name] => Honda Fit & Honda Ballade
+    [qty] => 6
+    [unitcost] => 11500
+    [total] => 69000.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 01:37:41 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracey Tirant
+    [contact_no] => /
+    [address] => Car Branding Printing & Installation
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 69000.00
+    [action] => addquotation
+)
+
+[17-Feb-2026 23:17:54 America/Boise] Received data: Array
+(
+    [product_name] => Car Branding With New Slogan
+    [qty] => 6
+    [unitcost] => 9300
+    [total] => 55800.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:19:18 America/Boise] Received data: Array
+(
+    [product_name] => Twin Cab branding with new slogan
+    [qty] => 3
+    [unitcost] => 9800
+    [total] => 29400.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:19:45 America/Boise] Received data: Array
+(
+    [product_name] => Panel Van branding with new slogan
+    [qty] => 1
+    [unitcost] => 12000
+    [total] => 12000.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:19:55 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Vehicle Branding
+    [usersTable_length] => 10
+    [tqty] => 10
+    [qvalue] => 97200.00
+    [action] => addquotation
+)
+
+[17-Feb-2026 23:25:59 America/Boise] Received data: Array
+(
+    [product_name] => Removal of Existing sticker of Board 172cm x 172cm
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:26:31 America/Boise] Received data: Array
+(
+    [product_name] => Rebranding of Boards 172cm x 172cm
+    [qty] => 2
+    [unitcost] => 2450
+    [total] => 4900.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:26:39 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Rebranding of Signboard
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 7300.00
+    [action] => addquotation
+)
+
+[17-Feb-2026 23:27:39 America/Boise] Received data: Array
+(
+    [product_name] => 3D Signage
+    [qty] => 1
+    [unitcost] => 12000
+    [total] => 12000.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:27:42 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => 3D Signage
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 12000.00
+    [action] => addquotation
+)
+
+[17-Feb-2026 23:30:44 America/Boise] Received data: Array
+(
+    [product_name] => Roll Up Print for Step-by-Step Guide for Trade in Goods Workshop
+    [qty] => 2
+    [unitcost] => 2000
+    [total] => 4000.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:30:46 America/Boise] Received data: Array
+(
+    [company_name] => UN Economic Commission for Africa (UNECA)
+    [contact_person] => Mamayenesh Teshome (Ms)
+    [contact_no] => -
+    [address] => Roll up Print
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 4000.00
+    [action] => addquotation
+)
+
+[17-Feb-2026 23:45:33 America/Boise] Received data: Array
+(
+    [product_name] => Banner 138cm x 88cm Resize & Print
+    [qty] => 1
+    [unitcost] => 850
+    [total] => 850.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:47:41 America/Boise] Received data: Array
+(
+    [product_name] => Window Branding 208cm x 51cm
+    [qty] => 4
+    [unitcost] => 800
+    [total] => 3200.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:48:41 America/Boise] Received data: Array
+(
+    [product_name] => Window Branding 125cm x 55cm
+    [qty] => 2
+    [unitcost] => 525
+    [total] => 1050.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Feb-2026 23:48:48 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => O'Brien Office Branding
+    [usersTable_length] => 10
+    [tqty] => 7
+    [qvalue] => 5100.00
+    [action] => addquotation
+)
+
+[19-Feb-2026 00:47:33 America/Boise] Received data: Array
+(
+    [product_name] => Engrave Door Signs
+    [qty] => 18
+    [unitcost] => 250
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Feb-2026 00:47:38 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Communications Regulatory Authority (SCRA)
+    [contact_person] => Mrs Erine Michel
+    [contact_no] => -
+    [address] => Door Sign
+    [usersTable_length] => 10
+    [tqty] => 18
+    [qvalue] => 4500.00
+    [action] => addquotation
+)
+
+[19-Feb-2026 21:42:49 America/Boise] Received data: Array
+(
+    [product_name] => Hgihly Flammable 42cm x 60cm
+    [qty] => 5
+    [unitcost] => 500
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Feb-2026 21:43:44 America/Boise] Received data: Array
+(
+    [product_name] => Stop 60cm Round
+    [qty] => 5
+    [unitcost] => 750
+    [total] => 3750.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Feb-2026 21:44:23 America/Boise] Received data: Array
+(
+    [product_name] => Highly Flammable 40cm x 60cm
+    [qty] => 5
+    [unitcost] => 485
+    [total] => 2425.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Feb-2026 21:44:29 America/Boise] Received data: Array
+(
+    [company_name] => Sey Ports Authority
+    [contact_person] => Rodney Rosalie
+    [contact_no] => /
+    [address] => Signage
+    [usersTable_length] => 10
+    [tqty] => 15
+    [qvalue] => 8675.00
+    [action] => addquotation
+)
+
+[19-Feb-2026 21:49:15 America/Boise] Received data: Array
+(
+    [product_name] => Goods Received Note
+    [qty] => 10
+    [unitcost] => 175
+    [total] => 1750.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Feb-2026 21:49:26 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Infrastructure Agency
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Goods Received Note
+    [usersTable_length] => 10
+    [tqty] => 10
+    [qvalue] => 1750.00
+    [action] => addquotation
+)
+
+[20-Feb-2026 08:21:37 America/Boise] Received data: Array
+(
+    [product_name] => Podium 1st place: 910mm × 400mm
+    [qty] => 2
+    [unitcost] => 300
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Feb-2026 08:22:48 America/Boise] Received data: Array
+(
+    [product_name] => Podium 2nd place: 1210mm × 300mm
+    [qty] => 2
+    [unitcost] => 325
+    [total] => 650.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Feb-2026 08:23:29 America/Boise] Received data: Array
+(
+    [product_name] => Podium 3rd place: 1210mm × 200mm
+    [qty] => 2
+    [unitcost] => 200
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Feb-2026 08:23:56 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Podium Sticker
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 1650.00
+    [action] => addquotation
+)
+
+[22-Feb-2026 23:43:59 America/Boise] Received data: Array
+(
+    [product_name] => Forex board 240cm X 75cm
+    [qty] => 1900
+    [unitcost] => 6
+    [total] => 11400.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-Feb-2026 23:45:01 America/Boise] Received data: Array
+(
+    [product_name] => Forex board 90cm X 75cm
+    [qty] => 2
+    [unitcost] => 750
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-Feb-2026 23:46:07 America/Boise] Received data: Array
+(
+    [product_name] => Price Strip  Sticker only 120cm X 4cm
+    [qty] => 70
+    [unitcost] => 40
+    [total] => 2800.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-Feb-2026 23:46:16 America/Boise] Received data: Array
+(
+    [company_name] => STC
+    [contact_person] => Athmad
+    [contact_no] => -
+    [address] => Sainsbury Branding
+    [usersTable_length] => 10
+    [tqty] => 1972
+    [qvalue] => 15700.00
+    [action] => addquotation
+)
+
+[23-Feb-2026 07:10:40 America/Boise] Received data: Array
+(
+    [product_name] => Boards including printing (8ft × 4ft)
+    [qty] => 2
+    [unitcost] => 4320
+    [total] => 8640.00
+    [qid] => 0
+    [action] => add
+)
+
+[23-Feb-2026 07:11:13 America/Boise] Received data: Array
+(
+    [product_name] => Banner above the score board (490 cm × 250 cm)
+    [qty] => 1
+    [unitcost] => 8500
+    [total] => 8500.00
+    [qid] => 0
+    [action] => add
+)
+
+[23-Feb-2026 07:11:59 America/Boise] Received data: Array
+(
+    [product_name] => Banners (15 m × 1.2 m)
+    [qty] => 2
+    [unitcost] => 12600
+    [total] => 25200.00
+    [qid] => 0
+    [action] => add
+)
+
+[23-Feb-2026 07:12:05 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Esther William
+    [contact_no] => -
+    [address] => Boards and Banner
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 42340.00
+    [action] => addquotation
+)
+
+[25-Feb-2026 21:51:24 America/Boise] Received data: Array
+(
+    [product_name] => Printing of Tshirt (Chest Logo, Back Logo)
+    [qty] => 100
+    [unitcost] => 100
+    [total] => 10000.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-Feb-2026 21:51:51 America/Boise] Received data: Array
+(
+    [company_name] => Laila
+    [contact_person] => Coralie Frichot
+    [contact_no] => /
+    [address] => 100 Tshirt Printing
+    [usersTable_length] => 10
+    [tqty] => 100
+    [qvalue] => 10000.00
+    [action] => addquotation
+)
+
+[26-Feb-2026 01:08:42 America/Boise] Received data: Array
+(
+    [product_name] => RollUp Stand Banner
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Feb-2026 01:09:24 America/Boise] Received data: Array
+(
+    [product_name] => Business Cards
+    [qty] => 100
+    [unitcost] => 6
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Feb-2026 01:09:46 America/Boise] Received data: Array
+(
+    [product_name] => Brochure
+    [qty] => 50
+    [unitcost] => 10
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Feb-2026 01:09:53 America/Boise] Received data: Array
+(
+    [company_name] => Mozaik Entertainment
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Rollup, Business Cards, Brochure
+    [usersTable_length] => 10
+    [tqty] => 151
+    [qvalue] => 3100.00
+    [action] => addquotation
+)
+
+[26-Feb-2026 22:07:06 America/Boise] Received data: Array
+(
+    [product_name] => 240 cm x 240 cm flexi 
+    [qty] => 1
+    [unitcost] => 3450
+    [total] => 3450.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Feb-2026 22:07:16 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => Kumar
+    [contact_no] => 0
+    [address] => Flexi 
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 3450.00
+    [action] => addquotation
+)
+
+[01-Mar-2026 23:57:06 America/Boise] Received data: Array
+(
+    [product_name] => Display Stand 12mm PVC Board
+    [qty] => 1
+    [unitcost] => 4500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[01-Mar-2026 23:57:25 America/Boise] Received data: Array
+(
+    [product_name] => Mini Desk
+    [qty] => 2
+    [unitcost] => 2500
+    [total] => 5000.00
+    [qid] => 0
+    [action] => add
+)
+
+[01-Mar-2026 23:57:34 America/Boise] Received data: Array
+(
+    [company_name] => Zane Holdings Ltd
+    [contact_person] => Briggite Loze
+    [contact_no] => /
+    [address] => Branding Display/Shelf
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 9500.00
+    [action] => addquotation
+)
+
+[02-Mar-2026 00:11:01 America/Boise] Received data: Array
+(
+    [product_name] => Muzen Sticker Branding
+    [qty] => 20
+    [unitcost] => 25
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 00:11:08 America/Boise] Received data: Array
+(
+    [company_name] => Zane Holdings Ltd
+    [contact_person] => Brigitte Loze
+    [contact_no] => /
+    [address] => MUZEN BRANDING
+    [usersTable_length] => 10
+    [tqty] => 20
+    [qvalue] => 500.00
+    [action] => addquotation
+)
+
+[03-Mar-2026 03:18:20 America/Boise] Received data: Array
+(
+    [product_name] => Signboard 1mtr x 2mtrs
+    [qty] => 10
+    [unitcost] => 3000
+    [total] => 30000.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:19:42 America/Boise] Received data: Array
+(
+    [product_name] => Solar spot light with Galvanised tube arm (2 for each board)
+    [qty] => 20
+    [unitcost] => 845
+    [total] => 16900.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:19:46 America/Boise] Received data: Array
+(
+    [company_name] => University of Seychelles
+    [contact_person] => Juliette Moustache
+    [contact_no] => -
+    [address] => Signboard with Solar light
+    [usersTable_length] => 10
+    [tqty] => 30
+    [qvalue] => 46900.00
+    [action] => addquotation
+)
+
+[03-Mar-2026 03:30:12 America/Boise] Received data: Array
+(
+    [product_name] => Worls Water Day Banner 3x1mtr
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:31:46 America/Boise] Received data: Array
+(
+    [company_name] => PUC
+    [contact_person] => Brigitte Payet
+    [contact_no] => -
+    [address] => World Water Day Banner
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1800.00
+    [action] => addquotation
+)
+
+[03-Mar-2026 03:36:28 America/Boise] Received data: Array
+(
+    [product_name] => 110cm x 220cm
+    [qty] => 6
+    [unitcost] => 2420
+    [total] => 14520.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:37:20 America/Boise] Received data: Array
+(
+    [product_name] => Door (Squares)
+    [qty] => 3
+    [unitcost] => 1400
+    [total] => 4200.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:38:24 America/Boise] Received data: Array
+(
+    [product_name] => 110cm x 220cm
+    [qty] => 4
+    [unitcost] => 2420
+    [total] => 9680.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:38:47 America/Boise] Received data: Array
+(
+    [product_name] => Door (Squares
+    [qty] => 2
+    [unitcost] => 1400
+    [total] => 2800.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:40:11 America/Boise] Received data: Array
+(
+    [product_name] => 110cm x 220cm
+    [qty] => 2
+    [unitcost] => 2175
+    [total] => 4350.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:40:44 America/Boise] Received data: Array
+(
+    [product_name] => Door (Squares)
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:42:50 America/Boise] Received data: Array
+(
+    [product_name] => 110cm x 220cm
+    [qty] => 6
+    [unitcost] => 1450
+    [total] => 8700.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:43:10 America/Boise] Received data: Array
+(
+    [product_name] => Door (Squares)
+    [qty] => 3
+    [unitcost] => 850
+    [total] => 2550.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:43:29 America/Boise] Received data: Array
+(
+    [product_name] => Installation
+    [qty] => 1
+    [unitcost] => 5000
+    [total] => 5000.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 03:43:38 America/Boise] Received data: Array
+(
+    [company_name] => PUC
+    [contact_person] => M.A Laurence
+    [contact_no] => /
+    [address] => Creole Spirit Branding Interior/Exterior
+    [usersTable_length] => 10
+    [tqty] => 29
+    [qvalue] => 54200.00
+    [action] => addquotation
+)
+
+[03-Mar-2026 04:01:32 America/Boise] Received data: Array
+(
+    [product_name] => Board 190cm x 130cm (Coca Cola & EKU)
+    [qty] => 2
+    [unitcost] => 2900
+    [total] => 5800.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 04:01:43 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Sam Mellon / Tracy Tirant
+    [contact_no] => -
+    [address] => Supply Meeting Room
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 5800.00
+    [action] => addquotation
+)
+
+[04-Mar-2026 00:52:46 America/Boise] Received data: Array
+(
+    [product_name] => Flag printing 120cm x 60cm
+    [qty] => 1
+    [unitcost] => 1200
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Mar-2026 00:53:12 America/Boise] Received data: Array
+(
+    [product_name] => Flag printing 180cm x 90cm
+    [qty] => 1
+    [unitcost] => 1600
+    [total] => 1600.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Mar-2026 00:53:15 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Sam Mellon
+    [contact_no] => -
+    [address] => Flag
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 2800.00
+    [action] => addquotation
+)
+
+[04-Mar-2026 04:15:53 America/Boise] Received data: Array
+(
+    [product_name] => Table Talkers 9.7 x 12.5 cm.
+    [qty] => 1
+    [unitcost] => 8
+    [total] => 8.00
+    [qid] => 0
+    [action] => add
+)
+
+[04-Mar-2026 04:17:43 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracy Tirant
+    [contact_no] => -
+    [address] => Table Talkers
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 8.00
+    [action] => addquotation
+)
+
+[05-Mar-2026 23:23:13 America/Boise] Received data: Array
+(
+    [product_name] => FREE EYE TEST Decal
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Mar-2026 23:23:16 America/Boise] Received data: Array
+(
+    [company_name] => Vision Care
+    [contact_person] => Charlotte Hoareau
+    [contact_no] => 2618920
+    [address] => -
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 300.00
+    [action] => addquotation
+)
+
+[09-Mar-2026 00:28:21 America/Boise] Received data: Array
+(
+    [product_name] => 183 cms x 153 cms
+    [qty] => 1
+    [unitcost] => 3300
+    [total] => 3300.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 00:28:31 America/Boise] Received data: Array
+(
+    [company_name] => Global Supply (GSC)
+    [contact_person] => kumar
+    [contact_no] => 0
+    [address] => ACP Board
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 3300.00
+    [action] => addquotation
+)
+
+[09-Mar-2026 01:11:41 America/Boise] Received data: Array
+(
+    [product_name] => Printing of Wristband
+    [qty] => 650
+    [unitcost] => 4.50
+    [total] => 2925.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 01:11:47 America/Boise] Received data: Array
+(
+    [company_name] => Taniah Entertainment
+    [contact_person] => /
+    [contact_no] => /
+    [address] => WristBand
+    [usersTable_length] => 10
+    [tqty] => 650
+    [qvalue] => 2925.00
+    [action] => addquotation
+)
+
+[09-Mar-2026 23:48:01 America/Boise] Received data: Array
+(
+    [product_name] => Printing of Banner 3m x 2m
+    [qty] => 1
+    [unitcost] => 4500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 23:49:01 America/Boise] Received data: Array
+(
+    [product_name] => Rental of Frame, Mobilisation & Installation Fee
+    [qty] => 1
+    [unitcost] => 2,100.00
+    [total] => 2.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 23:49:35 America/Boise] Received data: Array
+(
+    [product_name] => Rental of Frame, Mobilisation & Installation Fee
+    [qty] => 1
+    [unitcost] => 2100
+    [total] => 2100.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 23:49:38 America/Boise] Received data: Array
+(
+    [company_name] => METEO
+    [contact_person] => Beryl Andrade
+    [contact_no] => /
+    [address] => World Meteorological Organization (WMO) Day.
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 6600.00
+    [action] => addquotation
+)
+
+[10-Mar-2026 03:40:54 America/Boise] Received data: Array
+(
+    [product_name] => Push and Pull Stickers (Entrance Door)
+    [qty] => 2
+    [unitcost] => 50
+    [total] => 100.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Mar-2026 03:41:56 America/Boise] Received data: Array
+(
+    [product_name] => Outdoor car park signboard vinyl sticker with UV gloss lamination 122x244cm
+    [qty] => 1
+    [unitcost] => 4500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Mar-2026 03:41:59 America/Boise] Received data: Array
+(
+    [company_name] => MATALAN
+    [contact_person] => Ahesha Hoevers
+    [contact_no] => -
+    [address] => Matalan Signs
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 4600.00
+    [action] => addquotation
+)
+
+[11-Mar-2026 00:49:18 America/Boise] Received data: Array
+(
+    [product_name] => Magnet ON TEST 30cm x 20cm
+    [qty] => 8
+    [unitcost] => 100
+    [total] => 800.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 00:52:37 America/Boise] Received data: Array
+(
+    [company_name] => PMC Auto
+    [contact_person] => -
+    [contact_no] => -
+    [address] => Magnet ON TEST
+    [usersTable_length] => 10
+    [tqty] => 8
+    [qvalue] => 800.00
+    [action] => addquotation
+)
+
+[11-Mar-2026 00:59:40 America/Boise] Received data: Array
+(
+    [product_name] => Damaged Name Board (HSL & ISPC) 115 x 12cm
+    [qty] => 2
+    [unitcost] => 250
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 01:01:15 America/Boise] Received data: Array
+(
+    [product_name] => Replace name of MMI to Fouhan 115x12cm Sticker only
+    [qty] => 1
+    [unitcost] => 150
+    [total] => 150.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 01:02:26 America/Boise] Received data: Array
+(
+    [product_name] => Change sliding rod
+    [qty] => 2
+    [unitcost] => 550
+    [total] => 1100.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 01:08:28 America/Boise] Received data: Array
+(
+    [product_name] => Replace Head board FSA logo sticker
+    [qty] => 1
+    [unitcost] => 1000
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 01:08:47 America/Boise] Received data: Array
+(
+    [company_name] => FSA
+    [contact_person] => Juliana Auguste
+    [contact_no] => -
+    [address] => Fixing of Existing Sign post
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 2750.00
+    [action] => addquotation
+)
+
+[11-Mar-2026 07:46:39 America/Boise] Received data: Array
+(
+    [product_name] => Round Sticker 32cm
+    [qty] => 100
+    [unitcost] => 75
+    [total] => 7500.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 07:47:22 America/Boise] Received data: Array
+(
+    [company_name] => SEYPEC
+    [contact_person] => Wilkesh Laurette
+    [contact_no] => -
+    [address] => Round Sticker
+    [usersTable_length] => 10
+    [tqty] => 100
+    [qvalue] => 7500.00
+    [action] => addquotation
+)
+
+[11-Mar-2026 07:51:20 America/Boise] Received data: Array
+(
+    [product_name] => Sock Banner print and stitch 85cm x 200cm
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 07:51:29 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless Seychelles
+    [contact_person] => Procurement Dept
+    [contact_no] => -
+    [address] => Sock Banner
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2300.00
+    [action] => addquotation
+)
+
+[11-Mar-2026 07:57:45 America/Boise] Received data: Array
+(
+    [product_name] => TAXI sign board 1.8m x 0.6m
+    [qty] => 2
+    [unitcost] => 2200
+    [total] => 4400.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 07:57:45 America/Boise] Received data: Array
+(
+    [product_name] => TAXI sign board 1.8m x 0.6m
+    [qty] => 2
+    [unitcost] => 2200
+    [total] => 4400.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 07:57:53 America/Boise] Received data: Array
+(
+    [company_name] => Sey Port Authority
+    [contact_person] => Archille Sifflore
+    [contact_no] => -
+    [address] => TAXI Signboard
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 4400.00
+    [action] => addquotation
+)
+
+[11-Mar-2026 08:06:52 America/Boise] Received data: Array
+(
+    [product_name] => Planogram for Double-Door Stickers
+    [qty] => 50
+    [unitcost] => 5
+    [total] => 250.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 08:07:26 America/Boise] Received data: Array
+(
+    [product_name] => Planogram for Single-Door Stickers
+    [qty] => 200
+    [unitcost] => 5
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Mar-2026 08:07:29 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracy Tirant
+    [contact_no] => -
+    [address] => Additional Planogram Sticker
+    [usersTable_length] => 10
+    [tqty] => 250
+    [qvalue] => 1250.00
+    [action] => addquotation
+)
+
+[12-Mar-2026 01:16:11 America/Boise] Received data: Array
+(
+    [product_name] => ALMOND ZERO SUGAR STICKER( SIZE 7 CM WIDTH X 2.5 CM HEIGHT)
+    [qty] => 2000
+    [unitcost] => 0.9
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Mar-2026 01:16:53 America/Boise] Received data: Array
+(
+    [company_name] => IFS
+    [contact_person] => Radha Krishna
+    [contact_no] => -
+    [address] => ALMOND ZERO SUGAR STICKER
+    [usersTable_length] => 10
+    [tqty] => 2000
+    [qvalue] => 1800.00
+    [action] => addquotation
+)
+
+[12-Mar-2026 06:22:21 America/Boise] Received data: Array
+(
+    [product_name] => Photo Props Guiness
+    [qty] => 8
+    [unitcost] => 75
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Mar-2026 06:22:26 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracy Tirant
+    [contact_no] => -
+    [address] => Photo Props
+    [usersTable_length] => 10
+    [tqty] => 8
+    [qvalue] => 600.00
+    [action] => addquotation
+)
+
+[13-Mar-2026 00:26:45 America/Boise] Received data: Array
+(
+    [product_name] => caution boom lift operation (80cm x 60cm)
+    [qty] => 2
+    [unitcost] => 950
+    [total] => 1900.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Mar-2026 00:27:29 America/Boise] Received data: Array
+(
+    [product_name] =>  caution triangular (80cm x 60cm)
+    [qty] => 2
+    [unitcost] => 950
+    [total] => 1900.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Mar-2026 00:27:33 America/Boise] Received data: Array
+(
+    [company_name] => Sey Ports Authority
+    [contact_person] => Archille Sifflore
+    [contact_no] => /
+    [address] => Signs
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 3800.00
+    [action] => addquotation
+)
+
+[16-Mar-2026 01:15:23 America/Boise] Received data: Array
+(
+    [product_name] => Bar Branding Slow Turtle
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Mar-2026 01:16:54 America/Boise] Received data: Array
+(
+    [product_name] => Photo Frame 150cm x 120cm
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Mar-2026 01:16:58 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Corrine Roucou
+    [contact_no] => -
+    [address] => Bar Branding and Photo Frame
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 3300.00
+    [action] => addquotation
+)
+
+[16-Mar-2026 04:00:00 America/Boise] Received data: Array
+(
+    [product_name] => ACP Board 308cm x 169cm finish with Allum Tube back support
+    [qty] => 1
+    [unitcost] => 9200
+    [total] => 9200.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Mar-2026 04:00:09 America/Boise] Received data: Array
+(
+    [company_name] => Trois Freres Distillery
+    [contact_person] => Marketing
+    [contact_no] => -
+    [address] => La Plaine Board
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 9200.00
+    [action] => addquotation
+)
+
+[16-Mar-2026 05:34:22 America/Boise] Received data: Array
+(
+    [product_name] => Omnibus Branding
+    [qty] => 1
+    [unitcost] => 11700
+    [total] => 11700.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Mar-2026 05:34:34 America/Boise] Received data: Array
+(
+    [company_name] => SIF
+    [contact_person] => Marc Jean-Baptiste
+    [contact_no] => -
+    [address] => Omnibus Branding
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 11700.00
+    [action] => addquotation
+)
+
+[19-Mar-2026 03:56:07 America/Boise] Received data: Array
+(
+    [product_name] => Verification Stickers
+    [qty] => 600
+    [unitcost] => 5
+    [total] => 3000.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Mar-2026 03:56:18 America/Boise] Received data: Array
+(
+    [company_name] => SBS
+    [contact_person] => Richard Labonte
+    [contact_no] => /
+    [address] => Verification Sticker
+    [usersTable_length] => 10
+    [tqty] => 600
+    [qvalue] => 3000.00
+    [action] => addquotation
+)
+
+[19-Mar-2026 03:57:01 America/Boise] Received data: Array
+(
+    [product_name] => PHOENIX A2 Posters
+    [qty] => 200
+    [unitcost] => 75
+    [total] => 15000.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Mar-2026 03:57:41 America/Boise] Received data: Array
+(
+    [product_name] => PHOENIX A3 Posters
+    [qty] => 200
+    [unitcost] => 50
+    [total] => 10000.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Mar-2026 04:00:15 America/Boise] Received data: Array
+(
+    [product_name] => Flyer Back to back
+    [qty] => 200
+    [unitcost] => 10
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Mar-2026 04:00:22 America/Boise] Received data: Array
+(
+    [company_name] => Trois Freres Distillery
+    [contact_person] => Marketing
+    [contact_no] => -
+    [address] => PHOENIX Posters and Flyer
+    [usersTable_length] => 10
+    [tqty] => 600
+    [qvalue] => 27000.00
+    [action] => addquotation
+)
+
+[20-Mar-2026 01:00:37 America/Boise] Received data: Array
+(
+    [product_name] => No Smoking Boards ( 3 Eng, 1 French, 1 Creole
+    [qty] => 5
+    [unitcost] => 300
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Mar-2026 01:02:25 America/Boise] Received data: Array
+(
+    [product_name] => No Smoking Stickers (15 Eng, 5 French, 5 Creole)
+    [qty] => 25
+    [unitcost] => 150
+    [total] => 3750.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Mar-2026 01:02:36 America/Boise] Received data: Array
+(
+    [company_name] => SAA
+    [contact_person] => Bertrand Loze
+    [contact_no] => -
+    [address] => No Smoking Stickers & Boards
+    [usersTable_length] => 10
+    [tqty] => 30
+    [qvalue] => 5250.00
+    [action] => addquotation
+)
+
+[20-Mar-2026 02:11:58 America/Boise] Received data: Array
+(
+    [product_name] => Medium Bus Wrap (design, Printing and Wrapping)
+    [qty] => 1
+    [unitcost] => 15000
+    [total] => 15000.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Mar-2026 02:12:00 America/Boise] Received data: Array
+(
+    [company_name] => Ministry of Social Affairs ,Family and Equality
+    [contact_person] => Mr. Ashan Farabeau
+    [contact_no] => -
+    [address] => Medium Bus Wrap
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 15000.00
+    [action] => addquotation
+)
+
+[20-Mar-2026 02:38:19 America/Boise] Received data: Array
+(
+    [product_name] => Cloth Bags printing (One side Printing)
+    [qty] => 150
+    [unitcost] => 50
+    [total] => 7500.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Mar-2026 02:39:05 America/Boise] Received data: Array
+(
+    [product_name] => A6 note
+    [qty] => 100
+    [unitcost] => 25
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Mar-2026 02:40:43 America/Boise] Received data: Array
+(
+    [product_name] => A3 Posters
+    [qty] => 13
+    [unitcost] => 45
+    [total] => 585.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Mar-2026 02:41:19 America/Boise] Received data: Array
+(
+    [product_name] => Consumer guide A6
+    [qty] => 100
+    [unitcost] => 100
+    [total] => 10000.00
+    [qid] => 0
+    [action] => add
+)
+
+[23-Mar-2026 00:42:02 America/Boise] Received data: Array
+(
+    [company_name] => Fair Trading Commission
+    [contact_person] =>  Mr. Curtis Naiken
+    [contact_no] => -
+    [address] => Printing Works
+    [usersTable_length] => 10
+    [tqty] => 363
+    [qvalue] => 20585.00
+    [action] => addquotation
+)
+
+[23-Mar-2026 01:48:19 America/Boise] Received data: Array
+(
+    [product_name] => Consumer guide A6
+    [qty] => 100
+    [unitcost] => 75
+    [total] => 7500.00
+    [qid] => 0
+    [action] => add
+)
+
+[23-Mar-2026 01:48:21 America/Boise] Received data: Array
+(
+    [company_name] => FTC
+    [contact_person] => Curtis Naiken
+    [contact_no] => -
+    [address] => Consumer Guide
+    [usersTable_length] => 10
+    [tqty] => 100
+    [qvalue] => 7500.00
+    [action] => addquotation
+)
+
+[24-Mar-2026 04:11:10 America/Boise] Received data: Array
+(
+    [product_name] => Branding of tricycle PVC Board 42cm x 37cm
+    [qty] => 2
+    [unitcost] => 200
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Mar-2026 04:14:10 America/Boise] Received data: Array
+(
+    [product_name] => Branding of tricycle PVC Board 42cm x 45cm
+    [qty] => 2
+    [unitcost] => 250
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Mar-2026 04:14:18 America/Boise] Received data: Array
+(
+    [company_name] => Providence Warehouse
+    [contact_person] => Shakira Dogley
+    [contact_no] => -
+    [address] => Tricycle Branding
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 900.00
+    [action] => addquotation
+)
+
+[24-Mar-2026 04:18:30 America/Boise] Received data: Array
+(
+    [product_name] => E-Veni signboard  Roche Mazet 133cm x 120cm
+    [qty] => 1
+    [unitcost] => 2400
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Mar-2026 04:18:33 America/Boise] Received data: Array
+(
+    [company_name] => Providence Warehouse
+    [contact_person] => Shakira Dogley
+    [contact_no] => -
+    [address] => E-Veni Pointe Larue
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2400.00
+    [action] => addquotation
+)
+
+[25-Mar-2026 00:32:08 America/Boise] Received data: Array
+(
+    [product_name] => Printing of File Covers (Yellow)
+    [qty] => 500
+    [unitcost] => 15
+    [total] => 7500.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-Mar-2026 00:32:11 America/Boise] Received data: Array
+(
+    [company_name] => LWMA
+    [contact_person] => VAISHA
+    [contact_no] => /
+    [address] => File Covers
+    [usersTable_length] => 10
+    [tqty] => 500
+    [qvalue] => 7500.00
+    [action] => addquotation
+)
+
+[31-Mar-2026 03:59:33 America/Boise] Received data: Array
+(
+    [product_name] => Large Bus Mahe
+    [qty] => 2
+    [unitcost] => 15000
+    [total] => 30000.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Mar-2026 04:00:04 America/Boise] Received data: Array
+(
+    [product_name] => Medium Bus - Praslin
+    [qty] => 1
+    [unitcost] => 13000
+    [total] => 13000.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Mar-2026 04:07:51 America/Boise] Received data: Array
+(
+    [product_name] => Mobilisation to Praslin
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Mar-2026 04:08:10 America/Boise] Received data: Array
+(
+    [product_name] => Poster A3
+    [qty] => 6
+    [unitcost] => 35
+    [total] => 210.00
+    [qid] => 0
+    [action] => add
+)
+
+[31-Mar-2026 04:08:14 America/Boise] Received data: Array
+(
+    [company_name] => SPTC
+    [contact_person] => Mr Alex Etienne
+    [contact_no] => -
+    [address] => Advert & Bus Wrapping
+    [usersTable_length] => 10
+    [tqty] => 10
+    [qvalue] => 45210.00
+    [action] => addquotation
+)
+
+[08-Apr-2026 23:49:57 America/Boise] Received data: Array
+(
+    [product_name] => Danger / Electrical Hazard Sign (7inch x 10inch)
+    [qty] => 2
+    [unitcost] => 125
+    [total] => 250.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Apr-2026 23:50:01 America/Boise] Received data: Array
+(
+    [company_name] => Sey Ports Authority
+    [contact_person] => Rodney Rosalie
+    [contact_no] => /
+    [address] => Danger Sign
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 250.00
+    [action] => addquotation
+)
+
+[13-Apr-2026 03:20:26 America/Boise] Received data: Array
+(
+    [product_name] => A2 Posters
+    [qty] => 1
+    [unitcost] => 150
+    [total] => 150.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 03:20:50 America/Boise] Received data: Array
+(
+    [product_name] => A1 Posters
+    [qty] => 1
+    [unitcost] => 250
+    [total] => 250.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 03:20:56 America/Boise] Received data: Array
+(
+    [company_name] => Mrs Odile Decommarmond
+    [contact_person] => Mrs O. Decommarmond
+    [contact_no] => -
+    [address] => Posters
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 400.00
+    [action] => addquotation
+)
+
+[13-Apr-2026 04:31:04 America/Boise] Received data: Array
+(
+    [product_name] => No Smoking Round. 
+    [qty] => 25
+    [unitcost] => 5
+    [total] => 125.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 04:31:29 America/Boise] Received data: Array
+(
+    [product_name] => No Smoking Round Sticker
+    [qty] => 25
+    [unitcost] => 5
+    [total] => 125.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 04:31:31 America/Boise] Received data: Array
+(
+    [company_name] => LWMA
+    [contact_person] => /
+    [contact_no] => /
+    [address] => No Smoking
+    [usersTable_length] => 10
+    [tqty] => 25
+    [qvalue] => 125.00
+    [action] => addquotation
+)
+
+[13-Apr-2026 04:35:44 America/Boise] Received data: Array
+(
+    [product_name] => A pole flag with SIAH logo (120cm x 60cm)
+    [qty] => 1
+    [unitcost] => 1200
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 04:36:09 America/Boise] Received data: Array
+(
+    [product_name] => A pole flag with SIAH logo (180cm x 90cm)
+    [qty] => 1
+    [unitcost] => 1600
+    [total] => 1600.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 04:36:37 America/Boise] Received data: Array
+(
+    [product_name] => Pull up banner
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 04:38:13 America/Boise] Received data: Array
+(
+    [product_name] => X-Stand banner (160cm x 60cm)
+    [qty] => 1
+    [unitcost] => 1600
+    [total] => 1600.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 04:41:00 America/Boise] Received data: Array
+(
+    [product_name] => Hanging overhead banners
+    [qty] => 1
+    [unitcost] => 1
+    [total] => 1.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 04:41:19 America/Boise] Received data: Array
+(
+    [product_name] => Step and repeat banners
+    [qty] => 1
+    [unitcost] => 1
+    [total] => 1.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 04:41:24 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Institute of Agriculture and Horticulture
+    [contact_person] => Ms. Natacha Rose  
+    [contact_no] => -
+    [address] => Printing 
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 6402.00
+    [action] => addquotation
+)
+
+[13-Apr-2026 05:02:37 America/Boise] Received data: Array
+(
+    [product_name] => Entrance door sign on forex board 166cm X 64cm
+    [qty] => 1
+    [unitcost] => 1100
+    [total] => 1100.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 05:05:36 America/Boise] Received data: Array
+(
+    [product_name] => Restroom Decal on Perspex 20cm X 10cm (1 Male, 1 Female)
+    [qty] => 2
+    [unitcost] => 75
+    [total] => 150.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Apr-2026 05:05:53 America/Boise] Received data: Array
+(
+    [company_name] => STC
+    [contact_person] => Athmad
+    [contact_no] => -
+    [address] => Signs
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 1250.00
+    [action] => addquotation
+)
+
+[14-Apr-2026 02:16:46 America/Boise] Received data: Array
+(
+    [product_name] => Double sided Business Card Sasikumar Menon
+    [qty] => 50
+    [unitcost] => 7
+    [total] => 350.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-Apr-2026 02:20:20 America/Boise] Received data: Array
+(
+    [company_name] => Pillay R Group
+    [contact_person] => Elsie Bonnelame (Ms)
+    [contact_no] => -
+    [address] => Business Cards
+    [usersTable_length] => 10
+    [tqty] => 50
+    [qvalue] => 350.00
+    [action] => addquotation
+)
+
+[14-Apr-2026 05:10:10 America/Boise] Received data: Array
+(
+    [product_name] => H100 Truck Branding (Modern Construction)
+    [qty] => 1
+    [unitcost] => 10000
+    [total] => 10000.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-Apr-2026 05:11:47 America/Boise] Received data: Array
+(
+    [company_name] => Woodworks Unlimited
+    [contact_person] => Olivia Delpech
+    [contact_no] => -
+    [address] => H100 Truck Branding
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 10000.00
+    [action] => addquotation
+)
+
+[15-Apr-2026 01:57:21 America/Boise] Received data: Array
+(
+    [product_name] => Backdrop Banner 3m x 2m
+    [qty] => 1
+    [unitcost] => 5200
+    [total] => 5200.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Apr-2026 01:57:43 America/Boise] Received data: Array
+(
+    [product_name] => Rental of Frame
+    [qty] => 1
+    [unitcost] => 2500
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Apr-2026 01:57:45 America/Boise] Received data: Array
+(
+    [company_name] => SBC
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Backdrop Banner
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 7700.00
+    [action] => addquotation
+)
+
+[16-Apr-2026 03:04:24 America/Boise] Received data: Array
+(
+    [product_name] => Sticker Posters 180cm x 180cm
+    [qty] => 8
+    [unitcost] => 2500
+    [total] => 20000.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Apr-2026 03:04:24 America/Boise] Received data: Array
+(
+    [product_name] => Sticker Posters 180cm x 180cm
+    [qty] => 8
+    [unitcost] => 2500
+    [total] => 20000.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Apr-2026 03:08:27 America/Boise] Received data: Array
+(
+    [company_name] => SPTC
+    [contact_person] => Sharon
+    [contact_no] => -
+    [address] => Sticker Posters
+    [usersTable_length] => 10
+    [tqty] => 8
+    [qvalue] => 20000.00
+    [action] => addquotation
+)
+
+[16-Apr-2026 05:34:18 America/Boise] Received data: Array
+(
+    [product_name] => PVC Foam Board 70cm (W) x 90cm (H)  
+    [qty] => 1
+    [unitcost] => 625
+    [total] => 625.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Apr-2026 05:34:30 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Corrine Roucou
+    [contact_no] => -
+    [address] => PVC FOAM BOARD
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 625.00
+    [action] => addquotation
+)
+
+[16-Apr-2026 05:39:51 America/Boise] Received data: Array
+(
+    [product_name] => Planogram (120 D/Door, 24 S/Door, 8 Mini)
+    [qty] => 152
+    [unitcost] => 5
+    [total] => 760.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Apr-2026 05:40:25 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => Planogram
+    [usersTable_length] => 10
+    [tqty] => 152
+    [qvalue] => 760.00
+    [action] => addquotation
+)
+
+[17-Apr-2026 01:28:55 America/Boise] Received data: Array
+(
+    [product_name] => Docklands Tottem 120cm x 80cm
+    [qty] => 12
+    [unitcost] => 1500
+    [total] => 18000.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:31:07 America/Boise] Received data: Array
+(
+    [product_name] => Docklands Tenant Directory 190cm x 80cm
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:33:10 America/Boise] Received data: Array
+(
+    [product_name] => Anse Etoile Ocean View Apartment Board 130cm x 90cm Double sided
+    [qty] => 2
+    [unitcost] => 2600
+    [total] => 5200.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:34:57 America/Boise] Received data: Array
+(
+    [product_name] => Sunshine House Floors Board 30cm x 30cm
+    [qty] => 3
+    [unitcost] => 200
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:36:49 America/Boise] Received data: Array
+(
+    [product_name] => Sunshine House Tenant Directory 130cm x 90cm
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:39:07 America/Boise] Received data: Array
+(
+    [product_name] => Sunshine House Parking Sign 45cmx15cm
+    [qty] => 20
+    [unitcost] => 125
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:40:31 America/Boise] Received data: Array
+(
+    [product_name] => Mont Fleuri Warehouse Road Sign 80cm x 60cm D/Sided
+    [qty] => 1
+    [unitcost] => 1100
+    [total] => 1100.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:40:31 America/Boise] Received data: Array
+(
+    [product_name] => Mont Fleuri Warehouse Road Sign 80cm x 60cm D/Sided
+    [qty] => 1
+    [unitcost] => 1100
+    [total] => 1100.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:41:04 America/Boise] Received data: Array
+(
+    [product_name] => Anse Etoile Sign Brackets
+    [qty] => 2
+    [unitcost] => 2600
+    [total] => 5200.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Apr-2026 01:41:47 America/Boise] Received data: Array
+(
+    [company_name] => SACOS
+    [contact_person] => -
+    [contact_no] => -
+    [address] => Property Signs
+    [usersTable_length] => 10
+    [tqty] => 43
+    [qvalue] => 38300.00
+    [action] => addquotation
+)
+
+[20-Apr-2026 01:41:27 America/Boise] Received data: Array
+(
+    [product_name] => Van Branding
+    [qty] => 1
+    [unitcost] => 13000
+    [total] => 13000.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Apr-2026 01:43:23 America/Boise] Received data: Array
+(
+    [company_name] => Mr. Dean Rose( STC )
+    [contact_person] => 0
+    [contact_no] => 0
+    [address] => -
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 13000.00
+    [action] => addquotation
+)
+
+[20-Apr-2026 02:05:22 America/Boise] Received data: Array
+(
+    [product_name] => A2 Shop Posters
+    [qty] => 300
+    [unitcost] => 70
+    [total] => 21000.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Apr-2026 02:05:25 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => A2 Shop Posters
+    [usersTable_length] => 10
+    [tqty] => 300
+    [qvalue] => 21000.00
+    [action] => addquotation
+)
+
+[20-Apr-2026 03:45:49 America/Boise] Received data: Array
+(
+    [product_name] => Sticker Wallpaper (420cm x 210cm)
+    [qty] => 1
+    [unitcost] => 8820
+    [total] => 8820.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Apr-2026 03:48:15 America/Boise] Received data: Array
+(
+    [product_name] => Cashier Tinted
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Apr-2026 03:48:23 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Communications Regulatory Authority
+    [contact_person] => Mercia
+    [contact_no] => 2823888
+    [address] => /
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 10320.00
+    [action] => addquotation
+)
+
+[21-Apr-2026 02:16:07 America/Boise] Received data: Array
+(
+    [product_name] => Smart Shopper Window Stickers
+    [qty] => 1
+    [unitcost] => 2100
+    [total] => 2100.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Apr-2026 02:21:03 America/Boise] Received data: Array
+(
+    [product_name] => ST Supermarket Window Stickers
+    [qty] => 1
+    [unitcost] => 3500
+    [total] => 3500.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Apr-2026 02:22:07 America/Boise] Received data: Array
+(
+    [product_name] => SVA Board 
+    [qty] => 1
+    [unitcost] => 1200
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Apr-2026 02:22:58 America/Boise] Received data: Array
+(
+    [product_name] => Murali Board
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Apr-2026 02:24:32 America/Boise] Received data: Array
+(
+    [product_name] => SMS Door Sticker
+    [qty] => 1
+    [unitcost] => 750
+    [total] => 750.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Apr-2026 02:28:06 America/Boise] Received data: Array
+(
+    [product_name] => Akhil Sticker
+    [qty] => 1
+    [unitcost] => 1400
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Apr-2026 02:30:04 America/Boise] Received data: Array
+(
+    [product_name] => VSM Soft Board
+    [qty] => 2
+    [unitcost] => 600
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Apr-2026 02:45:10 America/Boise] Received data: Array
+(
+    [company_name] => IFS
+    [contact_person] => Mr Manuj
+    [contact_no] => -
+    [address] => Shops Branding
+    [usersTable_length] => 10
+    [tqty] => 8
+    [qvalue] => 11650.00
+    [action] => addquotation
+)
+
+[23-Apr-2026 07:48:21 America/Boise] Received data: Array
+(
+    [product_name] => Sticker print 108x202cm
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[23-Apr-2026 07:48:26 America/Boise] Received data: Array
+(
+    [company_name] => Woodworks Unlimited
+    [contact_person] => Olivia Delpech
+    [contact_no] => -
+    [address] => Sticker
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1500.00
+    [action] => addquotation
+)
+
+[24-Apr-2026 01:36:41 America/Boise] Received data: Array
+(
+    [product_name] => Top 31cm x 79cm
+    [qty] => 1
+    [unitcost] => 200
+    [total] => 200.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Apr-2026 01:45:23 America/Boise] Received data: Array
+(
+    [product_name] => Side 102.5cm x 29.7cm
+    [qty] => 2
+    [unitcost] => 250
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Apr-2026 01:46:04 America/Boise] Received data: Array
+(
+    [product_name] => Front 102.5cm x 79.5cm
+    [qty] => 1
+    [unitcost] => 650
+    [total] => 650.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Apr-2026 01:46:10 America/Boise] Received data: Array
+(
+    [company_name] => Providence Warehouse
+    [contact_person] => Shakira Dogley
+    [contact_no] => -
+    [address] => Pop Up Bar
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 1350.00
+    [action] => addquotation
+)
+
+[27-Apr-2026 03:33:31 America/Boise] Received data: Array
+(
+    [product_name] => Tamil Shop Petit Paris - Flag
+    [qty] => 2
+    [unitcost] => 1000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 03:34:25 America/Boise] Received data: Array
+(
+    [product_name] => E-Veni Pointe Larue - Board
+    [qty] => 1
+    [unitcost] => 2500
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 03:35:18 America/Boise] Received data: Array
+(
+    [product_name] => Veni Au Cap - Boards
+    [qty] => 2
+    [unitcost] => 3000
+    [total] => 6000.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 03:36:11 America/Boise] Received data: Array
+(
+    [product_name] => Veni Au Cap - Door Sticker
+    [qty] => 2
+    [unitcost] => 700
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 03:36:50 America/Boise] Received data: Array
+(
+    [product_name] => GD Port Glaud - Board
+    [qty] => 1
+    [unitcost] => 1300
+    [total] => 1300.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 03:36:54 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => Shops Branding
+    [usersTable_length] => 10
+    [tqty] => 8
+    [qvalue] => 13200.00
+    [action] => addquotation
+)
+
+[27-Apr-2026 05:26:15 America/Boise] Received data: Array
+(
+    [product_name] => Rope in Prop (7cm x 10.5cm)
+    [qty] => 30
+    [unitcost] => 10
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 05:26:51 America/Boise] Received data: Array
+(
+    [product_name] => Blocked Toilet (15cm x 10.5cm)
+    [qty] => 130
+    [unitcost] => 20
+    [total] => 2600.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 05:26:55 America/Boise] Received data: Array
+(
+    [company_name] => Louise
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Stickers
+    [usersTable_length] => 10
+    [tqty] => 160
+    [qvalue] => 2900.00
+    [action] => addquotation
+)
+
+[27-Apr-2026 06:13:36 America/Boise] Received data: Array
+(
+    [product_name] => DC Bakery Board 1 (facing bus Terminal)
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 06:15:26 America/Boise] Received data: Array
+(
+    [product_name] => DC Bakery Board 2 (facing Sacos Tower)
+    [qty] => 1
+    [unitcost] => 1400
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 06:15:29 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Zellah Volcere
+    [contact_no] => -
+    [address] => Branding
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 3200.00
+    [action] => addquotation
+)
+
+[27-Apr-2026 08:24:15 America/Boise] Received data: Array
+(
+    [product_name] => Printed Aluminum Water bottles / Tumblers
+    [qty] => 100
+    [unitcost] => 325
+    [total] => 32500.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Apr-2026 08:24:17 America/Boise] Received data: Array
+(
+    [company_name] => National Sports Council
+    [contact_person] => Francis Remie
+    [contact_no] => -
+    [address] => Printed Aluminum Water Bottle
+    [usersTable_length] => 10
+    [tqty] => 100
+    [qvalue] => 32500.00
+    [action] => addquotation
+)
+
+[28-Apr-2026 04:27:43 America/Boise] Received data: Array
+(
+    [product_name] => F&B Voucher
+    [qty] => 100
+    [unitcost] => 15
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Apr-2026 04:28:08 America/Boise] Received data: Array
+(
+    [product_name] => Day Pass Voucher
+    [qty] => 100
+    [unitcost] => 15
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Apr-2026 04:28:10 America/Boise] Received data: Array
+(
+    [company_name] => Laila
+    [contact_person] => Coralie Frichot
+    [contact_no] => /
+    [address] => Voucher Books
+    [usersTable_length] => 10
+    [tqty] => 200
+    [qvalue] => 3000.00
+    [action] => addquotation
+)
+
+[28-Apr-2026 04:37:25 America/Boise] Received data: Array
+(
+    [product_name] => All weather PVC Banner (127cm x 45cm)
+    [qty] => 1
+    [unitcost] => 400
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Apr-2026 04:38:20 America/Boise] Received data: Array
+(
+    [product_name] => Glossy Waterproof Sticker (127cm x 45cm)
+    [qty] => 1
+    [unitcost] => 600
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Apr-2026 04:38:23 America/Boise] Received data: Array
+(
+    [company_name] => Kafe Kreol
+    [contact_person] => Coralie Frichot
+    [contact_no] => /
+    [address] => Coconut Bar
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 1000.00
+    [action] => addquotation
+)
+
+[05-May-2026 04:21:47 America/Boise] Received data: Array
+(
+    [product_name] => Marine Charter Sticker
+    [qty] => 1
+    [unitcost] => 700
+    [total] => 700.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-May-2026 04:21:50 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Zellah Volcere
+    [contact_no] => -
+    [address] => Marine Charter
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 700.00
+    [action] => addquotation
+)
+
+[11-May-2026 00:50:51 America/Boise] Received data: Array
+(
+    [product_name] => Forex Board 16cm x 8cm (2 x 3 sets)
+    [qty] => 6
+    [unitcost] => 25
+    [total] => 150.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 00:51:47 America/Boise] Received data: Array
+(
+    [company_name] => Trois Freres Distillery
+    [contact_person] => Marketing
+    [contact_no] => -
+    [address] => Forex Board (SPAR)
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 150.00
+    [action] => addquotation
+)
+
+[11-May-2026 04:12:16 America/Boise] Received data: Array
+(
+    [product_name] => RP Shoping Board 
+    [qty] => 1
+    [unitcost] => 2100
+    [total] => 2100.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 04:12:19 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => RP Shopping Rochon
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2100.00
+    [action] => addquotation
+)
+
+[11-May-2026 05:19:26 America/Boise] Received data: Array
+(
+    [product_name] => Banner 5mtrs x 60cm
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 05:19:45 America/Boise] Received data: Array
+(
+    [company_name] => Ministry Of Social Affairs, Family and Equality
+    [contact_person] => -
+    [contact_no] => -
+    [address] => Sticker and Banner
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1500.00
+    [action] => addquotation
+)
+
+[11-May-2026 07:35:04 America/Boise] Received data: Array
+(
+    [product_name] => Slow Turtle Photo Booth 110cm x 80cm
+    [qty] => 1
+    [unitcost] => 900
+    [total] => 900.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 07:35:08 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracy Tirant
+    [contact_no] => -
+    [address] => Slow Turtle Photo Booth
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 900.00
+    [action] => addquotation
+)
+
+[12-May-2026 01:58:25 America/Boise] Received data: Array
+(
+    [product_name] => Pick and Pack Windows One Way Vision
+    [qty] => 3
+    [unitcost] => 800
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 01:58:30 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => Pick & Pack Le Niole
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 2400.00
+    [action] => addquotation
+)
+
+[12-May-2026 02:02:05 America/Boise] Received data: Array
+(
+    [product_name] => Window One Way Vision
+    [qty] => 3
+    [unitcost] => 900
+    [total] => 2700.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 02:02:11 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => Little Market Anse Etoile
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 2700.00
+    [action] => addquotation
+)
+
+[12-May-2026 02:18:14 America/Boise] Received data: Array
+(
+    [product_name] => Annual Report A4 x 86pgs 150gsm paper with 250 gsm Cover
+    [qty] => 5
+    [unitcost] => 1050
+    [total] => 5250.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 02:18:16 America/Boise] Received data: Array
+(
+    [company_name] => Fair Trading Commission
+    [contact_person] => Curtis Naiken
+    [contact_no] => -
+    [address] => Annual Report
+    [usersTable_length] => 10
+    [tqty] => 5
+    [qvalue] => 5250.00
+    [action] => addquotation
+)
+
+[12-May-2026 03:39:37 America/Boise] Received data: Array
+(
+    [product_name] => Darling Supermarket Board
+    [qty] => 1
+    [unitcost] => 1200
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 03:40:34 America/Boise] Received data: Array
+(
+    [product_name] => AJITH Board
+    [qty] => 1
+    [unitcost] => 2800
+    [total] => 2800.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 03:41:11 America/Boise] Received data: Array
+(
+    [product_name] => SS Pillay Board
+    [qty] => 1
+    [unitcost] => 2500
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 03:41:40 America/Boise] Received data: Array
+(
+    [product_name] => Farish 
+    [qty] => 1
+    [unitcost] => 0.0
+    [total] => 0.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 03:42:29 America/Boise] Received data: Array
+(
+    [product_name] => SAI Family Mart
+    [qty] => 1
+    [unitcost] => 0.0
+    [total] => 0.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 03:43:01 America/Boise] Received data: Array
+(
+    [product_name] => SAI Family Mart
+    [qty] => 1
+    [unitcost] => 0.0
+    [total] => 0.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 03:43:22 America/Boise] Received data: Array
+(
+    [product_name] => SRI Hari
+    [qty] => 1
+    [unitcost] => 0.0
+    [total] => 0.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 03:43:38 America/Boise] Received data: Array
+(
+    [product_name] => KKT
+    [qty] => 1
+    [unitcost] => 0.0
+    [total] => 0.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-May-2026 03:43:43 America/Boise] Received data: Array
+(
+    [company_name] => IFS
+    [contact_person] => Mr Manuj
+    [contact_no] => -
+    [address] => Praslin Branding
+    [usersTable_length] => 10
+    [tqty] => 8
+    [qvalue] => 6500.00
+    [action] => addquotation
+)
+
+[14-May-2026 00:59:37 America/Boise] Received data: Array
+(
+    [product_name] => Stand Alone Slow Turtle Photo Booth 210x122cm
+    [qty] => 1
+    [unitcost] => 3200
+    [total] => 3200.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 01:00:59 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracy/Zellah
+    [contact_no] => -
+    [address] => Stand Alone Photo Booth
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 3200.00
+    [action] => addquotation
+)
+
+[14-May-2026 01:37:11 America/Boise] Received data: Array
+(
+    [product_name] => Fire Extinguisher (40cm x 12cm)
+    [qty] => 4
+    [unitcost] => 75
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 01:37:55 America/Boise] Received data: Array
+(
+    [product_name] => CO2 (28cm x 28cm)
+    [qty] => 4
+    [unitcost] => 125
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 01:38:33 America/Boise] Received data: Array
+(
+    [product_name] => Foam Spray (28cm x 28cm)
+    [qty] => 4
+    [unitcost] => 125
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 01:39:24 America/Boise] Received data: Array
+(
+    [product_name] => Fire Extinguisher (40cm x 15cm)
+    [qty] => 4
+    [unitcost] => 90
+    [total] => 360.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 01:39:46 America/Boise] Received data: Array
+(
+    [product_name] => Fire Hydrant (40cm x 15cm)
+    [qty] => 4
+    [unitcost] => 90
+    [total] => 360.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 01:39:49 America/Boise] Received data: Array
+(
+    [company_name] => Hilton Seychelles Northolme
+    [contact_person] => Dave Sabadin
+    [contact_no] => +248 2 521 219
+    [address] => SIGNAGE
+    [usersTable_length] => 10
+    [tqty] => 16
+    [qvalue] => 1720.00
+    [action] => addquotation
+)
+
+[14-May-2026 23:27:06 America/Boise] Received data: Array
+(
+    [product_name] => Large Bus Wrap
+    [qty] => 10
+    [unitcost] => 10000
+    [total] => 100000.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 23:27:52 America/Boise] Received data: Array
+(
+    [product_name] => Large Bus Wrap
+    [qty] => 10
+    [unitcost] => 10000
+    [total] => 100000.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 23:28:32 America/Boise] Received data: Array
+(
+    [product_name] => Small Bus Wrap
+    [qty] => 10
+    [unitcost] => 8000
+    [total] => 80000.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 23:30:30 America/Boise] Received data: Array
+(
+    [product_name] => Billboards 9.4mtrsx1.5mtrs (single Sided)
+    [qty] => 4
+    [unitcost] => 16000
+    [total] => 64000.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 23:34:37 America/Boise] Received data: Array
+(
+    [product_name] => Billboards 9.4mtrsx1.5mtrs (Double Sided)
+    [qty] => 4
+    [unitcost] => 25000
+    [total] => 100000.00
+    [qid] => 0
+    [action] => add
+)
+
+[14-May-2026 23:36:02 America/Boise] Received data: Array
+(
+    [company_name] => Gung Ho (Mauritius)
+    [contact_person] => ARIELLE LI 
+    [contact_no] => -
+    [address] => Bus Wrap & Billboard
+    [usersTable_length] => 10
+    [tqty] => 28
+    [qvalue] => 344000.00
+    [action] => addquotation
+)
+
+[16-May-2026 02:42:53 America/Boise] Received data: Array
+(
+    [product_name] => Tear Drop Knitted flags (single sided reflected on other side 3.5mtrs H)
+    [qty] => 4
+    [unitcost] => 3000
+    [total] => 12000.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-May-2026 02:44:23 America/Boise] Received data: Array
+(
+    [product_name] => Tear Drop Satin flags (Double sided  3.5mtrs H)
+    [qty] => 4
+    [unitcost] => 3900
+    [total] => 15600.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-May-2026 02:45:49 America/Boise] Received data: Array
+(
+    [product_name] => Telescopic Flag 5mtr pole with 4mtr double side satin flag
+    [qty] => 4
+    [unitcost] => 6200
+    [total] => 24800.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-May-2026 02:47:15 America/Boise] Received data: Array
+(
+    [product_name] => Telescopic Flag 5mtr pole with 4mtr single side knitted flag
+    [qty] => 4
+    [unitcost] => 4800
+    [total] => 19200.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-May-2026 02:49:12 America/Boise] Received data: Array
+(
+    [product_name] => Polo Tshirt with Chest, Back and sleeve DTF print
+    [qty] => 4
+    [unitcost] => 225
+    [total] => 900.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-May-2026 02:49:19 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Corrine Roucou
+    [contact_no] => -
+    [address] => Smirnoff Branding
+    [usersTable_length] => 10
+    [tqty] => 20
+    [qvalue] => 72500.00
+    [action] => addquotation
+)
+
+[18-May-2026 01:52:20 America/Boise] Received data: Array
+(
+    [product_name] => Route map Wall paper 1.5 x 2 mtrs
+    [qty] => 1
+    [unitcost] => 4500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-May-2026 01:52:29 America/Boise] Received data: Array
+(
+    [company_name] => Kenya Airways
+    [contact_person] => Mrs Josette Samson
+    [contact_no] => -
+    [address] => Route Map
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 4500.00
+    [action] => addquotation
+)
+
+[18-May-2026 03:03:51 America/Boise] Received data: Array
+(
+    [product_name] => Planogram Single Door
+    [qty] => 100
+    [unitcost] => 5
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-May-2026 03:03:53 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => Planogram
+    [usersTable_length] => 10
+    [tqty] => 100
+    [qvalue] => 500.00
+    [action] => addquotation
+)
+
+[20-May-2026 03:48:51 America/Boise] Received data: Array
+(
+    [product_name] => Visual Inspection / Diving Cylinder
+    [qty] => 500
+    [unitcost] => 5.50
+    [total] => 2750.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 03:48:54 America/Boise] Received data: Array
+(
+    [company_name] => SBS
+    [contact_person] => Kevin Roseline
+    [contact_no] => /
+    [address] => Visual Inspection / Diving Cylinder Sticker
+    [usersTable_length] => 10
+    [tqty] => 500
+    [qvalue] => 2750.00
+    [action] => addquotation
+)
+
+[20-May-2026 05:03:08 America/Boise] Received data: Array
+(
+    [product_name] => Printing of Penalty Books (A4)
+    [qty] => 15
+    [unitcost] => 300
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 05:04:33 America/Boise] Received data: Array
+(
+    [product_name] => Printing of Penalty Books (A5)
+    [qty] => 15
+    [unitcost] => 175
+    [total] => 2625.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 05:04:44 America/Boise] Received data: Array
+(
+    [company_name] => LWMA
+    [contact_person] => Vaisha Bristol
+    [contact_no] => /
+    [address] => Penalty Notice Books
+    [usersTable_length] => 10
+    [tqty] => 30
+    [qvalue] => 7125.00
+    [action] => addquotation
+)
+
+[22-May-2026 05:27:36 America/Boise] Received data: Array
+(
+    [product_name] => LOCAL FOOD FEST DISPLAY BANNER 2026 (5x1mtr) Textile Fire Retardant Banner
+    [qty] => 12
+    [unitcost] => 2500
+    [total] => 30000.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-May-2026 05:27:42 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Tourism Department
+    [contact_person] => Michel Agrippine
+    [contact_no] => -
+    [address] => LOCAL FOOD FEST DISPLAY BANNER 2026
+    [usersTable_length] => 10
+    [tqty] => 12
+    [qvalue] => 30000.00
+    [action] => addquotation
+)
+
+[22-May-2026 05:34:52 America/Boise] Received data: Array
+(
+    [product_name] => PVC Board Matt Print 94cm x 70cm
+    [qty] => 1
+    [unitcost] => 800
+    [total] => 800.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-May-2026 05:36:16 America/Boise] Received data: Array
+(
+    [product_name] => matte stickers printing only 94cm x 70cm
+    [qty] => 1
+    [unitcost] => 500
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-May-2026 05:36:20 America/Boise] Received data: Array
+(
+    [company_name] => Antonia Trading PTY LTD
+    [contact_person] => Aheesha Hovers
+    [contact_no] => -
+    [address] => Boards & Printing
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 1300.00
+    [action] => addquotation
+)
+
+[25-May-2026 06:35:42 America/Boise] Received data: Array
+(
+    [product_name] => Banner 2cmx 370cm
+    [qty] => 1
+    [unitcost] => 1
+    [total] => 1.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-May-2026 06:36:08 America/Boise] Received data: Array
+(
+    [product_name] => Banner 5mtrs x 400cm
+    [qty] => 1
+    [unitcost] => 9
+    [total] => 9.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-May-2026 06:37:50 America/Boise] Received data: Array
+(
+    [product_name] => Banner 244cm x370cm finish with floor lamination
+    [qty] => 1
+    [unitcost] => 7995
+    [total] => 7995.00
+    [qid] => 0
+    [action] => add
+)
+
+[25-May-2026 06:38:52 America/Boise] Received data: Array
+(
+    [company_name] => SBC
+    [contact_person] => Palvi Mousmie
+    [contact_no] => -
+    [address] => My Retro
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 8005.00
+    [action] => addquotation
+)
+
+[26-May-2026 03:25:30 America/Boise] Received data: Array
+(
+    [product_name] => Dummy Cheque 145cm x 50cm
+    [qty] => 1
+    [unitcost] => 725
+    [total] => 725.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-May-2026 03:25:43 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => Dummy Cheque
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 725.00
+    [action] => addquotation
+)
+
+[26-May-2026 03:43:30 America/Boise] Received data: Array
+(
+    [product_name] => Printed Cloth 2mtrs x 95cm
+    [qty] => 1
+    [unitcost] => 1200
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-May-2026 03:43:35 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => Printed Cloth
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1200.00
+    [action] => addquotation
+)
+
+[26-May-2026 05:13:25 America/Boise] Received data: Array
+(
+    [product_name] => Removal, Printing & Installation of Boards (CWS Court),  Side A 34.4mtrs, Side B 32.50mtrs, Side C&D 16.5mtrs each x 50cmH Using 18mm PVC Board
+    [qty] => 1
+    [unitcost] => 75000
+    [total] => 75000.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-May-2026 05:13:34 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless
+    [contact_person] => Esther William
+    [contact_no] => -
+    [address] => Removal, Printing & Installation of Boards (CWS Court)
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 75000.00
+    [action] => addquotation
+)
+
+[27-May-2026 01:06:30 America/Boise] Received data: Array
+(
+    [product_name] => Waterproof Sticker 6ft x 6ft
+    [qty] => 2
+    [unitcost] => 4500
+    [total] => 9000.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-May-2026 01:06:37 America/Boise] Received data: Array
+(
+    [company_name] => Desire Point
+    [contact_person] => /
+    [contact_no] => 2536298
+    [address] => Sticker Printing
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 9000.00
+    [action] => addquotation
+)
+
+[27-May-2026 02:25:54 America/Boise] Received data: Array
+(
+    [product_name] => Double Sided Light Box 150cm x100cm (Using existing Frame, New Perspex and light)
+    [qty] => 1
+    [unitcost] => 4500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-May-2026 02:26:06 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Laurent Larue
+    [contact_no] => -
+    [address] => A.N.S Supermarket-Mt. Posse
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 4500.00
+    [action] => addquotation
+)
+
+[27-May-2026 05:12:05 America/Boise] Received data: Array
+(
+    [product_name] => Polo Tshirt Full customise printing
+    [qty] => 50
+    [unitcost] => 230
+    [total] => 11500.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-May-2026 05:12:09 America/Boise] Received data: Array
+(
+    [company_name] => Zaine Holding
+    [contact_person] => Vanessa
+    [contact_no] => -
+    [address] => Tshirts
+    [usersTable_length] => 10
+    [tqty] => 50
+    [qvalue] => 11500.00
+    [action] => addquotation
+)
+
+[27-May-2026 08:09:05 America/Boise] Received data: Array
+(
+    [product_name] => 50th Independence ARCH (3mtrs x 2.6mtrs H)
+    [qty] => 1
+    [unitcost] => 7500
+    [total] => 7500.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-May-2026 08:09:20 America/Boise] Received data: Array
+(
+    [company_name] => Z
+    [contact_person] => Vanessa
+    [contact_no] => -
+    [address] => ARCH
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 7500.00
+    [action] => addquotation
+)
+
+[27-May-2026 09:19:15 America/Boise] Received data: Array
+(
+    [product_name] => Roll up Stand 85cm x 200cm (Complete Print and mechanism)
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-May-2026 09:19:18 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless
+    [contact_person] => Ms.Esther William
+    [contact_no] => -
+    [address] => Roll up stand
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1800.00
+    [action] => addquotation
+)
+
+[28-May-2026 01:56:24 America/Boise] Received data: Array
+(
+    [product_name] => PVC Board 43cm x 60cm finish with gloss lamination to be usedas White board
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-May-2026 01:56:28 America/Boise] Received data: Array
+(
+    [company_name] => Trois Freres Distillery
+    [contact_person] => Marketing
+    [contact_no] => -
+    [address] => PVC Board 43x60cm
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 300.00
+    [action] => addquotation
+)
+
+[01-Jun-2026 05:39:11 America/Boise] Received data: Array
+(
+    [product_name] => A2 Pump Station Signboard (60cm x 40cm)
+    [qty] => 19
+    [unitcost] => 650
+    [total] => 12350.00
+    [qid] => 0
+    [action] => add
+)
+
+[01-Jun-2026 05:42:08 America/Boise] Received data: Array
+(
+    [product_name] => Safety Signboard 1.22m x 2.44m La Digue 
+    [qty] => 1
+    [unitcost] => 9500
+    [total] => 9500.00
+    [qid] => 0
+    [action] => add
+)
+
+[01-Jun-2026 05:42:30 America/Boise] Received data: Array
+(
+    [product_name] => Galvanised Tube 30mm Stand
+    [qty] => 1
+    [unitcost] => 5600
+    [total] => 5600.00
+    [qid] => 0
+    [action] => add
+)
+
+[01-Jun-2026 05:45:21 America/Boise] Received data: Array
+(
+    [product_name] => Mobilisation and installation (La Digue) x 2pax
+    [qty] => 1
+    [unitcost] => 3500
+    [total] => 3500.00
+    [qid] => 0
+    [action] => add
+)
+
+[01-Jun-2026 05:45:29 America/Boise] Received data: Array
+(
+    [company_name] => PUC
+    [contact_person] => Darell Benoit
+    [contact_no] => -
+    [address] => Signboards
+    [usersTable_length] => 10
+    [tqty] => 22
+    [qvalue] => 30950.00
+    [action] => addquotation
+)
+
+[02-Jun-2026 03:11:39 America/Boise] Received data: Array
+(
+    [product_name] => RollUp Stand Banner
+    [qty] => 4
+    [unitcost] => 2200
+    [total] => 8800.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Jun-2026 03:12:30 America/Boise] Received data: Array
+(
+    [product_name] => Pictures (60cm x 42cm)
+    [qty] => 4
+    [unitcost] => 200
+    [total] => 800.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Jun-2026 03:13:50 America/Boise] Received data: Array
+(
+    [product_name] => Signage (A3)
+    [qty] => 4
+    [unitcost] => 250
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Jun-2026 03:15:31 America/Boise] Received data: Array
+(
+    [product_name] => Signage (30cm x 7cm)
+    [qty] => 4
+    [unitcost] => 50
+    [total] => 200.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Jun-2026 03:15:34 America/Boise] Received data: Array
+(
+    [company_name] => PMC (Property Management Corporation)
+    [contact_person] => Emma Louise (Ms)
+    [contact_no] => +248 4672800
+    [address] => -
+    [usersTable_length] => 10
+    [tqty] => 16
+    [qvalue] => 10800.00
+    [action] => addquotation
+)
+
+[02-Jun-2026 04:56:45 America/Boise] Received data: Array
+(
+    [product_name] => Medium SPTC Bus Wrap
+    [qty] => 1
+    [unitcost] => 15000
+    [total] => 15000.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Jun-2026 04:56:56 America/Boise] Received data: Array
+(
+    [company_name] => Woodworks Unlimited
+    [contact_person] => Bus Wrap
+    [contact_no] => -
+    [address] => -
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 15000.00
+    [action] => addquotation
+)
+
+[03-Jun-2026 01:05:37 America/Boise] Received data: Array
+(
+    [product_name] => Sock Banner print and stitch 85cm x 200cm
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Jun-2026 01:05:40 America/Boise] Received data: Array
+(
+    [company_name] => Cable & Wireless
+    [contact_person] => Mrs M.C Dupres
+    [contact_no] => -
+    [address] => Sock Banners
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2300.00
+    [action] => addquotation
+)
+
+[03-Jun-2026 01:43:38 America/Boise] Received data: Array
+(
+    [product_name] => Teardrop Flags 3mtrs with waterbase
+    [qty] => 10
+    [unitcost] => 3500
+    [total] => 35000.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Jun-2026 01:45:10 America/Boise] Received data: Array
+(
+    [company_name] => MAIA Hotel
+    [contact_person] => purchasing.vbar@avanihotels.com
+    [contact_no] => -
+    [address] => Teardrop flag
+    [usersTable_length] => 10
+    [tqty] => 10
+    [qvalue] => 35000.00
+    [action] => addquotation
+)
+
+[03-Jun-2026 04:49:55 America/Boise] Received data: Array
+(
+    [product_name] => Round Neck Tshirt printing (Chest and Back)
+    [qty] => 6
+    [unitcost] => 250
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Jun-2026 04:49:58 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Marlon Maria
+    [contact_no] => -
+    [address] => Tshirts
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 1500.00
+    [action] => addquotation
+)
+
+[03-Jun-2026 04:50:54 America/Boise] Received data: Array
+(
+    [product_name] => Round Neck Tshirt printing (Chest and Back)
+    [qty] => 6
+    [unitcost] => 250
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Jun-2026 04:50:59 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Marlon Maria
+    [contact_no] => -
+    [address] => T-Shirts
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 1500.00
+    [action] => addquotation
+)
+
+[03-Jun-2026 04:58:55 America/Boise] Received data: Array
+(
+    [product_name] => SeyBrew Strong Tshirts
+    [qty] => 200
+    [unitcost] => 250
+    [total] => 50000.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Jun-2026 04:59:01 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracy Tirant
+    [contact_no] => -
+    [address] => SeyBrew Strong Tshirt
+    [usersTable_length] => 10
+    [tqty] => 200
+    [qvalue] => 50000.00
+    [action] => addquotation
+)
+
+[03-Jun-2026 05:59:20 America/Boise] Received data: Array
+(
+    [product_name] => Food Trailer Branding 485cm x 166cm
+    [qty] => 1
+    [unitcost] => 6200
+    [total] => 6200.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Jun-2026 05:59:24 America/Boise] Received data: Array
+(
+    [company_name] => The WOK
+    [contact_person] => -
+    [contact_no] => -
+    [address] => The WOK Branding
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 6200.00
+    [action] => addquotation
+)
+
+[05-Jun-2026 00:35:57 America/Boise] Received data: Array
+(
+    [product_name] => Turquoise Background Sticker 245cm x 125cm
+    [qty] => 10
+    [unitcost] => 2450
+    [total] => 24500.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jun-2026 00:38:21 America/Boise] Received data: Array
+(
+    [product_name] => Cut out Tapestry on PVC Board 50cm x 600cm
+    [qty] => 1
+    [unitcost] => 4600
+    [total] => 4600.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jun-2026 00:40:27 America/Boise] Received data: Array
+(
+    [product_name] => Hanging Banner Outdoor 230cm x 300cm
+    [qty] => 1
+    [unitcost] => 5520
+    [total] => 5520.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jun-2026 00:41:52 America/Boise] Received data: Array
+(
+    [product_name] => Turquoise Strip Sticker
+    [qty] => 5
+    [unitcost] => 400
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[05-Jun-2026 00:42:49 America/Boise] Received data: Array
+(
+    [company_name] => Trois Freres Distillery
+    [contact_person] => Darren Young
+    [contact_no] => -
+    [address] => Stall Prints
+    [usersTable_length] => 10
+    [tqty] => 17
+    [qvalue] => 36620.00
+    [action] => addquotation
+)
+
+[08-Jun-2026 01:35:12 America/Boise] Received data: Array
+(
+    [product_name] => ‘IN’ One Sided  400mm (W) x 350mm (H) 
+    [qty] => 2
+    [unitcost] => 300
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 01:35:57 America/Boise] Received data: Array
+(
+    [product_name] => ‘OUT’ One Sided  600mm (W) x 400mm (H) 
+    [qty] => 2
+    [unitcost] => 400
+    [total] => 800.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 01:37:11 America/Boise] Received data: Array
+(
+    [product_name] => IN’ Two Sided 400mm (W) x 500mm (H)    – Back to Back 
+    [qty] => 1
+    [unitcost] => 500
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 01:37:52 America/Boise] Received data: Array
+(
+    [product_name] => ‘OUT’ Two Sided  600mm (W) x 400mm (H)  – Back to Back 
+    [qty] => 1
+    [unitcost] => 600
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 01:37:58 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Broadcasting Corporation
+    [contact_person] => Franky Jacqueline
+    [contact_no] => -
+    [address] => Parking Sign
+    [usersTable_length] => 10
+    [tqty] => 6
+    [qvalue] => 2500.00
+    [action] => addquotation
+)
+
+[08-Jun-2026 02:26:47 America/Boise] Received data: Array
+(
+    [product_name] => Backdrop 3mx2m
+    [qty] => 1
+    [unitcost] => 4200
+    [total] => 4200.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 02:27:10 America/Boise] Received data: Array
+(
+    [product_name] => Photobooth frame
+    [qty] => 1
+    [unitcost] => 1
+    [total] => 1.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 02:27:38 America/Boise] Received data: Array
+(
+    [product_name] => Cross/ Long banner - 3m×1m
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 02:28:22 America/Boise] Received data: Array
+(
+    [product_name] => Standard pull up banner 85cm x 200cm
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 02:28:33 America/Boise] Received data: Array
+(
+    [company_name] => PUC
+    [contact_person] =>  Brigitte Payet
+    [contact_no] => -
+    [address] => Banners & Photo booth
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 8001.00
+    [action] => addquotation
+)
+
+[08-Jun-2026 03:35:15 America/Boise] Received data: Array
+(
+    [product_name] => Chair Cloth finish with print
+    [qty] => 4
+    [unitcost] => 450
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 03:38:39 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => Chair Cloth
+    [usersTable_length] => 10
+    [tqty] => 4
+    [qvalue] => 1800.00
+    [action] => addquotation
+)
+
+[08-Jun-2026 08:31:22 America/Boise] Received data: Array
+(
+    [product_name] => Interior Wall Painting (650mtrs)
+    [qty] => 1
+    [unitcost] => 165000
+    [total] => 165000.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 08:32:19 America/Boise] Received data: Array
+(
+    [product_name] => Guard Room and Bin Site
+    [qty] => 1
+    [unitcost] => 3250
+    [total] => 3250.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 08:32:29 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Connery Alvis
+    [contact_no] => -
+    [address] => Interior Boundary Wall Painting
+    [usersTable_length] => 10
+    [tqty] => 2
+    [qvalue] => 168250.00
+    [action] => addquotation
+)
+
+[08-Jun-2026 08:42:24 America/Boise] Received data: Array
+(
+    [product_name] => ERO Terminal Signboard 5mtrs x 91cm
+    [qty] => 1
+    [unitcost] => 12500
+    [total] => 12500.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jun-2026 08:42:45 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Port Authority
+    [contact_person] => Dean Zelime
+    [contact_no] => -
+    [address] => ERO Terminal - Praslin
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 12500.00
+    [action] => addquotation
+)
+
+[09-Jun-2026 04:25:15 America/Boise] Received data: Array
+(
+    [product_name] => Signboard 4mtrs x 1.2 mtrs
+    [qty] => 1
+    [unitcost] => 5500
+    [total] => 5500.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 04:26:35 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => SHANU Ma Constance
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 5500.00
+    [action] => addquotation
+)
+
+[09-Jun-2026 04:38:31 America/Boise] Received data: Array
+(
+    [product_name] => Sticker 135cm x 180cm
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 04:38:49 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => S. Harshith -  Belvedere
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1500.00
+    [action] => addquotation
+)
+
+[09-Jun-2026 05:13:37 America/Boise] Received data: Array
+(
+    [product_name] => Manufacturing of Prediction Box, 1mtr x 60cm x 50cm finish with branding
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 05:14:41 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Veshna Marie
+    [contact_no] => -
+    [address] => Coca Cola World Cup Prediction  Box
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2300.00
+    [action] => addquotation
+)
+
+[09-Jun-2026 06:44:52 America/Boise] Received data: Array
+(
+    [product_name] => Keychain
+    [qty] => 200
+    [unitcost] => 20
+    [total] => 4000.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 06:46:12 America/Boise] Received data: Array
+(
+    [product_name] => BaseBall Cap
+    [qty] => 50
+    [unitcost] => 75
+    [total] => 3750.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 06:46:48 America/Boise] Received data: Array
+(
+    [product_name] => Water Bottle
+    [qty] => 50
+    [unitcost] => 175
+    [total] => 8750.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 06:47:23 America/Boise] Received data: Array
+(
+    [product_name] => Hand Fan
+    [qty] => 200
+    [unitcost] => 200
+    [total] => 40000.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 06:48:15 America/Boise] Received data: Array
+(
+    [product_name] => Non Woven Bag
+    [qty] => 200
+    [unitcost] => 35
+    [total] => 7000.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 06:48:51 America/Boise] Received data: Array
+(
+    [product_name] => Notebook
+    [qty] => 200
+    [unitcost] => 50
+    [total] => 10000.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Jun-2026 06:48:55 America/Boise] Received data: Array
+(
+    [company_name] => Zane Holdings
+    [contact_person] => Venessa Moustache
+    [contact_no] => -
+    [address] => DSTV Give aways
+    [usersTable_length] => 10
+    [tqty] => 900
+    [qvalue] => 73500.00
+    [action] => addquotation
+)
+
+[10-Jun-2026 04:01:04 America/Boise] Received data: Array
+(
+    [product_name] => Promo Bar Opt 1
+    [qty] => 1
+    [unitcost] => 5000
+    [total] => 5000.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Jun-2026 04:01:09 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracy Tirant
+    [contact_no] => -
+    [address] => Promo Bar Opt 1
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 5000.00
+    [action] => addquotation
+)
+
+[10-Jun-2026 04:02:49 America/Boise] Received data: Array
+(
+    [product_name] => Promo Bar Opt 2
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Jun-2026 04:02:58 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Tracy Tirant
+    [contact_no] => -
+    [address] => Promo Bar Opt 2
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 2300.00
+    [action] => addquotation
+)
+
+[10-Jun-2026 04:15:26 America/Boise] Received data: Array
+(
+    [product_name] => Whole Wall Branding including Burglars Bar door
+    [qty] => 1
+    [unitcost] => 10500
+    [total] => 10500.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Jun-2026 04:16:10 America/Boise] Received data: Array
+(
+    [product_name] => Burglards Bar Door only
+    [qty] => 1
+    [unitcost] => 1950
+    [total] => 1950.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Jun-2026 04:16:58 America/Boise] Received data: Array
+(
+    [product_name] => Top Sign including Shop name
+    [qty] => 1
+    [unitcost] => 3000
+    [total] => 3000.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Jun-2026 04:17:03 America/Boise] Received data: Array
+(
+    [company_name] => Seychelles Breweries Limited
+    [contact_person] => Eyanna Delpeche
+    [contact_no] => -
+    [address] => Akhil SUPERMARKET
+    [usersTable_length] => 10
+    [tqty] => 3
+    [qvalue] => 15450.00
+    [action] => addquotation
+)
+
+[11-Jun-2026 00:29:06 America/Boise] Received data: Array
+(
+    [product_name] => Pair of Logo Sticker
+    [qty] => 1
+    [unitcost] => 1200
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Jun-2026 00:29:09 America/Boise] Received data: Array
+(
+    [company_name] => Kafe Kreol
+    [contact_person] => /
+    [contact_no] => /
+    [address] => Boat Logo Sticker
+    [usersTable_length] => 10
+    [tqty] => 1
+    [qvalue] => 1200.00
+    [action] => addquotation
+)
+

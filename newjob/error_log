@@ -1,0 +1,1530 @@
+[12-Nov-2025 14:22:26 Asia/Dubai] Received data: Array
+(
+    [product_name] => Backdrop Banner with stand (3600sr Banner + 3800sr Stand)
+    [qty] => 1
+    [unitcost] => 7400
+    [total] => 7400.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Nov-2025 17:20:00 Asia/Dubai] Received data: Array
+(
+    [product_name] => Wheel Barrow Comp Certificate
+    [qty] => 10
+    [unitcost] => 15
+    [total] => 150.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Nov-2025 17:20:53 Asia/Dubai] Received data: Array
+(
+    [product_name] => Home Garden Competition Certificates
+    [qty] => 53
+    [unitcost] => 20
+    [total] => 1060.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Nov-2025 17:21:47 Asia/Dubai] Received data: Array
+(
+    [product_name] => A2 Board
+    [qty] => 1
+    [unitcost] => 350
+    [total] => 350.00
+    [qid] => 0
+    [action] => add
+)
+
+[12-Nov-2025 17:22:06 Asia/Dubai] Received data: Array
+(
+    [product_name] => Dummy Cheque (120cm x 60cm)
+    [qty] => 1
+    [unitcost] => 900
+    [total] => 900.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Nov-2025 17:32:00 Asia/Dubai] Received data: Array
+(
+    [product_name] => Supply and printing of tote Bags
+    [qty] => 30
+    [unitcost] => 225
+    [total] => 6750.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Nov-2025 14:15:39 Asia/Dubai] Received data: Array
+(
+    [product_name] => SBC PASS + POUCH & LANYARD
+    [qty] => 50
+    [unitcost] => 175
+    [total] => 8750.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Nov-2025 12:10:04 Asia/Dubai] Received data: Array
+(
+    [product_name] => Restricted Area Board 1000mm x 1400mm
+    [qty] => 3
+    [unitcost] => 1800
+    [total] => 5400.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Nov-2025 12:47:27 Asia/Dubai] Received data: Array
+(
+    [product_name] => Garlic Bread 2 pack
+    [qty] => 500
+    [unitcost] => 2
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Nov-2025 13:47:12 Asia/Dubai] Received data: Array
+(
+    [product_name] => Printing of Business Cards
+    [qty] => 100
+    [unitcost] => 6
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Nov-2025 13:48:11 Asia/Dubai] Received data: Array
+(
+    [product_name] => Hisense Promo A5 Flyer (Single Side)
+    [qty] => 25
+    [unitcost] => 3
+    [total] => 75.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Nov-2025 13:48:43 Asia/Dubai] Received data: Array
+(
+    [product_name] => Hisense Christmas Promo A5 (Single Sided)
+    [qty] => 25
+    [unitcost] => 3
+    [total] => 75.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 12:22:08 Asia/Dubai] Received data: Array
+(
+    [product_name] => Business Cards
+    [qty] => 100
+    [unitcost] => 6
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 12:23:08 Asia/Dubai] Received data: Array
+(
+    [product_name] => A2 Posters (Back 2 Back)
+    [qty] => 1
+    [unitcost] => 150
+    [total] => 150.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 12:28:45 Asia/Dubai] Received data: Array
+(
+    [product_name] => Flyers 
+    [qty] => 500
+    [unitcost] => 3
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 12:29:28 Asia/Dubai] Received data: Array
+(
+    [product_name] => RollUp Stand Banner
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 13:14:34 Asia/Dubai] Received data: Array
+(
+    [product_name] => Certificate
+    [qty] => 41
+    [unitcost] => 35
+    [total] => 1435.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Dec-2025 13:14:52 Asia/Dubai] Received data: Array
+(
+    [product_name] => Trophy Stickers
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 10:20:37 Asia/Dubai] Received data: Array
+(
+    [product_name] => Sticker for SeyMobility Van
+    [qty] => 1
+    [unitcost] => 250
+    [total] => 250.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Dec-2025 10:23:14 Asia/Dubai] Received data: Array
+(
+    [product_name] => Banner 2000mm x 600mm
+    [qty] => 1
+    [unitcost] => 750
+    [total] => 750.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Dec-2025 12:43:16 Asia/Dubai] Received data: Array
+(
+    [product_name] => Calinos Branding on board back to back – h:300cm x w:115cm
+    [qty] => 1
+    [unitcost] => 7500
+    [total] => 7500.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Dec-2025 12:44:03 Asia/Dubai] Received data: Array
+(
+    [product_name] => PVC Sticker – h:34cm x w:238cm
+    [qty] => 1
+    [unitcost] => 650
+    [total] => 650.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Dec-2025 12:45:40 Asia/Dubai] Received data: Array
+(
+    [product_name] => One way vision – h:90cm x w:90cm   
+    [qty] => 4
+    [unitcost] => 800
+    [total] => 3200.00
+    [qid] => 0
+    [action] => add
+)
+
+[13-Dec-2025 12:46:41 Asia/Dubai] Received data: Array
+(
+    [product_name] => One way vision – h:90cm x w:83cm
+    [qty] => 1
+    [unitcost] => 720
+    [total] => 720.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Dec-2025 10:25:12 Asia/Dubai] Received data: Array
+(
+    [product_name] => Large Roll Up Banner 120cm x 2000cm
+    [qty] => 1
+    [unitcost] => 2500
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Dec-2025 10:25:48 Asia/Dubai] Received data: Array
+(
+    [product_name] => Backwall Wall Paper (190 x 270)
+    [qty] => 1
+    [unitcost] => 4200
+    [total] => 4200.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Dec-2025 10:26:19 Asia/Dubai] Received data: Array
+(
+    [product_name] => Bunting Flags 6.5mtrs x 6pcs
+    [qty] => 6
+    [unitcost] => 50
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Dec-2025 10:27:59 Asia/Dubai] Received data: Array
+(
+    [product_name] => Hisense Promo A5 Flyer (Single Side)
+    [qty] => 25
+    [unitcost] => 3
+    [total] => 75.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Dec-2025 10:28:12 Asia/Dubai] Received data: Array
+(
+    [product_name] => Hisense Christmas Promo A5 (Single Sided)
+    [qty] => 25
+    [unitcost] => 3
+    [total] => 75.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-Dec-2025 11:12:40 Asia/Dubai] Received data: Array
+(
+    [product_name] => Roll Up Stand 85cm x 200cm
+    [qty] => 3
+    [unitcost] => 2000
+    [total] => 6000.00
+    [qid] => 0
+    [action] => add
+)
+
+[16-Dec-2025 14:39:32 Asia/Dubai] Received data: Array
+(
+    [product_name] => Opentruck branding
+    [qty] => 1
+    [unitcost] => 3000
+    [total] => 3000.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Dec-2025 09:57:02 Asia/Dubai] Received data: Array
+(
+    [product_name] => Entry ticket Coupon
+    [qty] => 150
+    [unitcost] => 2
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[17-Dec-2025 09:58:36 Asia/Dubai] Received data: Array
+(
+    [product_name] => Entry ticket Coupon
+    [qty] => 100
+    [unitcost] => 2
+    [total] => 200.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 11:31:33 Asia/Dubai] Received data: Array
+(
+    [product_name] => Certificate
+    [qty] => 41
+    [unitcost] => 35
+    [total] => 1435.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 11:31:51 Asia/Dubai] Received data: Array
+(
+    [product_name] => Trophy Stickers
+    [qty] => 1
+    [unitcost] => 300
+    [total] => 300.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 11:33:15 Asia/Dubai] Received data: Array
+(
+    [product_name] => Band Members Polo Tshirts
+    [qty] => 13
+    [unitcost] => 200
+    [total] => 2600.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 11:33:16 Asia/Dubai] Received data: Array
+(
+    [product_name] => Band Members Polo Tshirts
+    [qty] => 13
+    [unitcost] => 200
+    [total] => 2600.00
+    [qid] => 0
+    [action] => add
+)
+
+[19-Dec-2025 11:34:04 Asia/Dubai] Received data: Array
+(
+    [product_name] => Band Members Polo Tshirts
+    [qty] => 13
+    [unitcost] => 200
+    [total] => 2600.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-Dec-2025 14:04:01 Asia/Dubai] Received data: Array
+(
+    [product_name] => Sticker 39cm x100cm
+    [qty] => 2
+    [unitcost] => 325
+    [total] => 650.00
+    [qid] => 0
+    [action] => add
+)
+
+[22-Dec-2025 14:04:37 Asia/Dubai] Received data: Array
+(
+    [product_name] => Sticker 117 x 100cm
+    [qty] => 2
+    [unitcost] => 950
+    [total] => 1900.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Dec-2025 18:19:07 Asia/Dubai] Received data: Array
+(
+    [product_name] => 50 cm x 50 cm flixi
+    [qty] => 3
+    [unitcost] => 200
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Dec-2025 18:19:28 Asia/Dubai] Received data: Array
+(
+    [product_name] => roll up stand with print
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Dec-2025 18:20:07 Asia/Dubai] Received data: Array
+(
+    [product_name] => Table cloth with printing 
+    [qty] => 2
+    [unitcost] => 1500
+    [total] => 3000.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Dec-2025 18:20:39 Asia/Dubai] Received data: Array
+(
+    [product_name] => a5 prints
+    [qty] => 200
+    [unitcost] => 2.50
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Dec-2025 18:21:17 Asia/Dubai] Received data: Array
+(
+    [product_name] => 6 x 10 cards
+    [qty] => 200
+    [unitcost] => 3
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Dec-2025 18:23:25 Asia/Dubai] Received data: Array
+(
+    [product_name] => A6 prints
+    [qty] => 500
+    [unitcost] => 1.25
+    [total] => 625.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Dec-2025 17:04:05 Asia/Dubai] Received data: Array
+(
+    [product_name] => Supply and Application of Tinted Film
+    [qty] => 4
+    [unitcost] => 600
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-Dec-2025 17:05:06 Asia/Dubai] Received data: Array
+(
+    [product_name] => Sticker 0.65mtr x 1.25 mtrs
+    [qty] => 1
+    [unitcost] => 850
+    [total] => 850.00
+    [qid] => 0
+    [action] => add
+)
+
+[08-Jan-2026 09:07:12 Asia/Dubai] Received data: Array
+(
+    [product_name] => Printing of Staff Group Photo 
+    [qty] => 1
+    [unitcost] => 190
+    [total] => 190.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 12:31:27 Asia/Dubai] Received data: Array
+(
+    [product_name] => Praslin Signboards 200cm x 150cm for Landfill and Nurseries on ACP Panels
+    [qty] => 11
+    [unitcost] => 3600
+    [total] => 39600.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 12:32:57 Asia/Dubai] Received data: Array
+(
+    [product_name] => Mahe Signboards 200cm x 150cm for Landfill and Nurseries on ACP Panels
+    [qty] => 10
+    [unitcost] => 3600
+    [total] => 36000.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 12:33:44 Asia/Dubai] Received data: Array
+(
+    [product_name] => La Digue Signboards 200cm x 150cm for Landfill on ACP Panels
+    [qty] => 9
+    [unitcost] => 3600
+    [total] => 32400.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 12:37:56 Asia/Dubai] Received data: Array
+(
+    [product_name] => Mahe Manufacturing & Installation of Galvanised Frames 200cm x 150cm for Landfill and Nurseries
+    [qty] => 8
+    [unitcost] => 3500
+    [total] => 28000.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 12:38:31 Asia/Dubai] Received data: Array
+(
+    [product_name] => Praslin Manufacturing & Installation of Galvanised Frames 200cm x 150cm for Landfill and Nurseries
+    [qty] => 11
+    [unitcost] => 3800
+    [total] => 41800.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 12:39:19 Asia/Dubai] Received data: Array
+(
+    [product_name] => La Digue Manufacturing & Installation of Galvanised Frames 200cm x 150cm for Landfill
+    [qty] => 9
+    [unitcost] => 4500
+    [total] => 40500.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 12:39:52 Asia/Dubai] Received data: Array
+(
+    [product_name] => Entrance pole and chain
+    [qty] => 1
+    [unitcost] => 2500
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 14:41:46 Asia/Dubai] Received data: Array
+(
+    [product_name] => Visitors and Contract Pass 
+    [qty] => 50
+    [unitcost] => 75
+    [total] => 3750.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-Jan-2026 14:43:20 Asia/Dubai] Received data: Array
+(
+    [product_name] => Visitors and Contractor Card
+    [qty] => 50
+    [unitcost] => 100
+    [total] => 5000.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:02:39 Asia/Dubai] Received data: Array
+(
+    [product_name] => Signboards 200cmx150cm on Aluminum Composite Board finish with UV Lamination
+    [qty] => 9
+    [unitcost] => 3600
+    [total] => 32400.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:04:12 Asia/Dubai] Received data: Array
+(
+    [product_name] => Galvanised tube frames 40mm (Welding Fabrication, Undercoat,, 2pack Acrylic paint and installation)
+    [qty] => 4500
+    [unitcost] => 9
+    [total] => 40500.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:07:05 Asia/Dubai] Received data: Array
+(
+    [product_name] => Signboard 200cmx150cm on Aluminum Composite Panels finish with UV Lamination
+    [qty] => 11
+    [unitcost] => 4000
+    [total] => 44000.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:09:12 Asia/Dubai] Received data: Array
+(
+    [product_name] => Signboards 200cmx150cm on Aluminum Composite Board finish with UV Lamination
+    [qty] => 8
+    [unitcost] => 3600
+    [total] => 28800.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:09:50 Asia/Dubai] Received data: Array
+(
+    [product_name] => Galvanised tube frames 40mm (Welding Fabrication, Undercoat,, 2pack Acrylic paint and installation)
+    [qty] => 8
+    [unitcost] => 3500
+    [total] => 28000.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:14:25 Asia/Dubai] Received data: Array
+(
+    [product_name] => Signboards 200cmx150cm on Aluminum Composite Board finish with UV Lamination
+    [qty] => 3
+    [unitcost] => 3600
+    [total] => 10800.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:14:43 Asia/Dubai] Received data: Array
+(
+    [product_name] => Galvanised tube frames 40mm (Welding Fabrication, Undercoat,, 2pack Acrylic paint and installation)
+    [qty] => 2
+    [unitcost] => 3500
+    [total] => 7000.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:17:11 Asia/Dubai] Received data: Array
+(
+    [product_name] => Signboards 200cmx150cm on Aluminum Composite Board finish with UV Lamination
+    [qty] => 6
+    [unitcost] => 3600
+    [total] => 21600.00
+    [qid] => 0
+    [action] => add
+)
+
+[24-Jan-2026 18:17:49 Asia/Dubai] Received data: Array
+(
+    [product_name] => Galvanised tube frames 40mm (Welding Fabrication, Undercoat,, 2pack Acrylic paint and installation)
+    [qty] => 6
+    [unitcost] => 3500
+    [total] => 21000.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Jan-2026 15:34:34 Asia/Dubai] Received data: Array
+(
+    [product_name] => Light box 90cm diameter double sided (2 BV, 1 Glacis)
+    [qty] => 3
+    [unitcost] => 7200
+    [total] => 21600.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-Jan-2026 15:36:20 Asia/Dubai] Received data: Array
+(
+    [product_name] => Fabrication and installation of Galvanised Pole for Glacis
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Jan-2026 11:33:16 Asia/Dubai] Received data: Array
+(
+    [product_name] => Mr Antoine Denousse
+    [qty] => 100
+    [unitcost] => 5
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Jan-2026 11:33:32 Asia/Dubai] Received data: Array
+(
+    [product_name] => Mr Sam Dodin
+    [qty] => 100
+    [unitcost] => 5
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Feb-2026 12:27:11 Asia/Dubai] Received data: Array
+(
+    [product_name] => 10 x 1mtr banner for convention
+    [qty] => 1
+    [unitcost] => 5000
+    [total] => 5000.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Feb-2026 12:40:49 Asia/Dubai] Received data: Array
+(
+    [product_name] => X Stand + Print
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Feb-2026 12:41:35 Asia/Dubai] Received data: Array
+(
+    [product_name] => A1 Print on PVC Board
+    [qty] => 2
+    [unitcost] => 625
+    [total] => 1250.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Feb-2026 12:42:03 Asia/Dubai] Received data: Array
+(
+    [product_name] => 3 Fold Flyer
+    [qty] => 100
+    [unitcost] => 10
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Feb-2026 12:42:37 Asia/Dubai] Received data: Array
+(
+    [product_name] => Plain A1 PVC Boards
+    [qty] => 10
+    [unitcost] => 250
+    [total] => 2500.00
+    [qid] => 0
+    [action] => add
+)
+
+[10-Feb-2026 15:25:19 Asia/Dubai] Received data: Array
+(
+    [product_name] => Takamaka Logo Cutout
+    [qty] => 10
+    [unitcost] => 75
+    [total] => 750.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Feb-2026 17:54:14 Asia/Dubai] Received data: Array
+(
+    [product_name] => Banner St Francois 6mtrs x 75cm
+    [qty] => 1
+    [unitcost] => 2250
+    [total] => 2250.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Feb-2026 17:54:44 Asia/Dubai] Received data: Array
+(
+    [product_name] => Banner St Francois 4mtrs x 75cm
+    [qty] => 1
+    [unitcost] => 1500
+    [total] => 1500.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-Feb-2026 15:34:59 Asia/Dubai] Received data: Array
+(
+    [product_name] => Hasini Name Cutout 142cm x 52cm
+    [qty] => 1
+    [unitcost] => 350
+    [total] => 350.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-Feb-2026 14:11:03 Asia/Dubai] Received data: Array
+(
+    [product_name] => Invoice books
+    [qty] => 25
+    [unitcost] => 125
+    [total] => 3125.00
+    [qid] => 0
+    [action] => add
+)
+
+[23-Feb-2026 10:54:15 Asia/Dubai] Received data: Array
+(
+    [product_name] => Smart Shop Signboard 165.5cm x 324
+    [qty] => 1
+    [unitcost] => 8043
+    [total] => 8043.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Feb-2026 14:20:31 Asia/Dubai] Received data: Array
+(
+    [product_name] => Rebranding of Booth
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[27-Feb-2026 14:20:58 Asia/Dubai] Received data: Array
+(
+    [product_name] => Roll up Stand Print only
+    [qty] => 2
+    [unitcost] => 1200
+    [total] => 2400.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:22:11 Asia/Dubai] Received data: Array
+(
+    [product_name] => Top (83cm x 26cm)
+    [qty] => 4
+    [unitcost] => 225
+    [total] => 900.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:23:01 Asia/Dubai] Received data: Array
+(
+    [product_name] => Side Window (140cm x 82cm)
+    [qty] => 2
+    [unitcost] => 1150
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:23:44 Asia/Dubai] Received data: Array
+(
+    [product_name] => Upper Door (71cm x 88cm)
+    [qty] => 2
+    [unitcost] => 625
+    [total] => 1250.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:24:20 Asia/Dubai] Received data: Array
+(
+    [product_name] => Lower Door (71cm x 77cm)
+    [qty] => 2
+    [unitcost] => 550
+    [total] => 1100.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:26:56 Asia/Dubai] Received data: Array
+(
+    [product_name] => Top (53cm x 26cm)
+    [qty] => 4
+    [unitcost] => 150
+    [total] => 600.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:30:23 Asia/Dubai] Received data: Array
+(
+    [product_name] => Middle Top (84cm x 26cm)
+    [qty] => 2
+    [unitcost] => 220
+    [total] => 440.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:31:20 Asia/Dubai] Received data: Array
+(
+    [product_name] => Side Window (53xm x 135cm)
+    [qty] => 4
+    [unitcost] => 715
+    [total] => 2860.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:31:59 Asia/Dubai] Received data: Array
+(
+    [product_name] => Top Door (71cm x 88cm)
+    [qty] => 2
+    [unitcost] => 625
+    [total] => 1250.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:32:39 Asia/Dubai] Received data: Array
+(
+    [product_name] => Lower Door (71cm x 77cm)
+    [qty] => 2
+    [unitcost] => 550
+    [total] => 1100.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Mar-2026 10:33:34 Asia/Dubai] Received data: Array
+(
+    [product_name] => Cleaning & Installation
+    [qty] => 1
+    [unitcost] => 500
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Mar-2026 13:28:38 Asia/Dubai] Received data: Array
+(
+    [product_name] => Second Billboard Back to Back 1.5 x 4mtrs (printing, board and fixing)
+    [qty] => 1
+    [unitcost] => 14000
+    [total] => 14000.00
+    [qid] => 0
+    [action] => add
+)
+
+[06-Mar-2026 11:30:34 Asia/Dubai] Received data: Array
+(
+    [product_name] => Printing & Installing Buggy Stickers
+    [qty] => 1
+    [unitcost] => 2300
+    [total] => 2300.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:18:45 Asia/Dubai] Received data: Array
+(
+    [product_name] => Receipt books duplicate NCR
+    [qty] => 100
+    [unitcost] => 95
+    [total] => 9500.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:39:57 Asia/Dubai] Received data: Array
+(
+    [product_name] => Roll up Stand St Andre Series
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:42:21 Asia/Dubai] Received data: Array
+(
+    [product_name] => Kot Anse Etoile Cut out Sticker 63cm x 63cm
+    [qty] => 1
+    [unitcost] => 250
+    [total] => 250.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:43:45 Asia/Dubai] Received data: Array
+(
+    [product_name] => Kot Anse Etoile Cut out Sticker 54cm x 16cm
+    [qty] => 1
+    [unitcost] => 50
+    [total] => 50.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:45:19 Asia/Dubai] Received data: Array
+(
+    [product_name] => Kot Leela One Way 74.5cm x 90.5
+    [qty] => 1
+    [unitcost] => 540
+    [total] => 540.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:46:59 Asia/Dubai] Received data: Array
+(
+    [product_name] => Kot Leela One Way Bottom Door 74.5cm x 90.5
+    [qty] => 1
+    [unitcost] => 540
+    [total] => 540.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:48:45 Asia/Dubai] Received data: Array
+(
+    [product_name] => Sri Ramajayam Cut out sticker 130cm x 27cm
+    [qty] => 1
+    [unitcost] => 210
+    [total] => 210.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:51:13 Asia/Dubai] Received data: Array
+(
+    [product_name] => Door 1 One Way Vision Sticker 68cm x 85cm
+    [qty] => 1
+    [unitcost] => 475
+    [total] => 475.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:52:27 Asia/Dubai] Received data: Array
+(
+    [product_name] => Bel Air Store One Way 71cm x 90cm
+    [qty] => 1
+    [unitcost] => 500
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:53:30 Asia/Dubai] Received data: Array
+(
+    [product_name] => AKHIL ACM Board 122x244
+    [qty] => 1
+    [unitcost] => 4465
+    [total] => 4465.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:54:21 Asia/Dubai] Received data: Array
+(
+    [product_name] => Anse Boileau Shop Sticker 110cm x 159cm
+    [qty] => 1
+    [unitcost] => 1400
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:55:45 Asia/Dubai] Received data: Array
+(
+    [product_name] => Door 1A, 2A One Way Vision 73.5cm x 91cm
+    [qty] => 1
+    [unitcost] => 540
+    [total] => 540.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 16:56:56 Asia/Dubai] Received data: Array
+(
+    [product_name] => Door 1B, 2B One Way Vision 73.5cm x 70.5cm
+    [qty] => 1
+    [unitcost] => 450
+    [total] => 450.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 17:07:33 Asia/Dubai] Received data: Array
+(
+    [product_name] => Dark Spiced and Koko Bottle Cut Out PVC 230cm x 56cm
+    [qty] => 2
+    [unitcost] => 1600
+    [total] => 3200.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 17:12:14 Asia/Dubai] Received data: Array
+(
+    [product_name] => St Andre Series & Sey. Series logo cut out 62cm dia
+    [qty] => 2
+    [unitcost] => 250
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 17:14:08 Asia/Dubai] Received data: Array
+(
+    [product_name] => Rum from the Seychelles board 359.5 x 96.5cm
+    [qty] => 1
+    [unitcost] => 5235
+    [total] => 5235.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 17:14:08 Asia/Dubai] Received data: Array
+(
+    [product_name] => Rum from the Seychelles board 359.5 x 96.5cm
+    [qty] => 1
+    [unitcost] => 5235
+    [total] => 5235.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 17:15:26 Asia/Dubai] Received data: Array
+(
+    [product_name] => Tapestry Turquoise Board 35cm x 257cm
+    [qty] => 2
+    [unitcost] => 1360
+    [total] => 2720.00
+    [qid] => 0
+    [action] => add
+)
+
+[09-Mar-2026 17:18:46 Asia/Dubai] Received data: Array
+(
+    [product_name] => Suzuki S-Presso Branding
+    [qty] => 1
+    [unitcost] => 9000
+    [total] => 9000.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Apr-2026 09:42:41 Asia/Dubai] Received data: Array
+(
+    [product_name] => Printing of contract books
+    [qty] => 10
+    [unitcost] => 165
+    [total] => 1650.00
+    [qid] => 0
+    [action] => add
+)
+
+[28-Apr-2026 15:08:33 Asia/Dubai] Received data: Array
+(
+    [product_name] => Textile Printed Numbers
+    [qty] => 300
+    [unitcost] => 35
+    [total] => 10500.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 10:55:27 Asia/Dubai] Received data: Array
+(
+    [product_name] => Forex Board A4 (NO ENTRY PRIVATE TASTING)
+    [qty] => 1
+    [unitcost] => 75
+    [total] => 75.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 11:00:27 Asia/Dubai] Received data: Array
+(
+    [product_name] => SPAR CHILLER Boards (60x40, 68x60, 68x31, 63x3.3cm)
+    [qty] => 1
+    [unitcost] => 1325
+    [total] => 1325.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 11:02:34 Asia/Dubai] Received data: Array
+(
+    [product_name] => Repair PHOENIX Roulet
+    [qty] => 3
+    [unitcost] => 600
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 11:05:12 Asia/Dubai] Received data: Array
+(
+    [product_name] => New Wheel 80cm diameter
+    [qty] => 1
+    [unitcost] => 800
+    [total] => 800.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 11:07:45 Asia/Dubai] Received data: Array
+(
+    [product_name] => HIDDEN COVE 220cm x 145cm
+    [qty] => 1
+    [unitcost] => 4800
+    [total] => 4800.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-May-2026 11:10:04 Asia/Dubai] Received data: Array
+(
+    [product_name] => Manufacturing of 'A' Frame WIFI Board & Print 55cm x 80cm
+    [qty] => 1
+    [unitcost] => 1600
+    [total] => 1600.00
+    [qid] => 0
+    [action] => add
+)
+
+[15-May-2026 15:11:32 Asia/Dubai] Received data: Array
+(
+    [product_name] => Stickers (x2sets)
+    [qty] => 2
+    [unitcost] => 2415
+    [total] => 4830.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-May-2026 13:34:21 Asia/Dubai] Received data: Array
+(
+    [product_name] => Business Cards
+    [qty] => 525
+    [unitcost] => 7
+    [total] => 3675.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-May-2026 13:35:42 Asia/Dubai] Received data: Array
+(
+    [product_name] => Tricyle Branding
+    [qty] => 1
+    [unitcost] => 900
+    [total] => 900.00
+    [qid] => 0
+    [action] => add
+)
+
+[18-May-2026 13:37:20 Asia/Dubai] Received data: Array
+(
+    [product_name] => Pop Up Bar
+    [qty] => 1
+    [unitcost] => 1350
+    [total] => 1350.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 11:24:09 Asia/Dubai] Received data: Array
+(
+    [product_name] => Salon Name Board  225cm x 33cm
+    [qty] => 1
+    [unitcost] => 1200
+    [total] => 1200.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 11:25:20 Asia/Dubai] Received data: Array
+(
+    [product_name] => One Way Vision 115cm x 95cm
+    [qty] => 1
+    [unitcost] => 900
+    [total] => 900.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 11:26:01 Asia/Dubai] Received data: Array
+(
+    [product_name] => Sticker 115cm x 95cm (lower Glass Panel)
+    [qty] => 1
+    [unitcost] => 900
+    [total] => 900.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 11:26:45 Asia/Dubai] Received data: Array
+(
+    [product_name] => Door Lower Panel Sticker 70cm x 91cm
+    [qty] => 1
+    [unitcost] => 500
+    [total] => 500.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 11:27:37 Asia/Dubai] Received data: Array
+(
+    [product_name] => Opening/Service Decal Sticker
+    [qty] => 1
+    [unitcost] => 350
+    [total] => 350.00
+    [qid] => 0
+    [action] => add
+)
+
+[20-May-2026 11:29:05 Asia/Dubai] Received data: Array
+(
+    [product_name] => Tinted film Upper Door
+    [qty] => 1
+    [unitcost] => 400
+    [total] => 400.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-May-2026 11:17:18 Asia/Dubai] Received data: Array
+(
+    [product_name] => Printing of Tshirt
+    [qty] => 12
+    [unitcost] => 75
+    [total] => 900.00
+    [qid] => 0
+    [action] => add
+)
+
+[21-May-2026 12:09:01 Asia/Dubai] Received data: Array
+(
+    [product_name] => Wristbands Printing
+    [qty] => 1000
+    [unitcost] => 4
+    [total] => 4000.00
+    [qid] => 0
+    [action] => add
+)
+
+[26-May-2026 13:00:22 Asia/Dubai] Received data: Array
+(
+    [product_name] => Branding of ChillerTruck (Small)
+    [qty] => 1
+    [unitcost] => 11000
+    [total] => 11000.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 11:44:36 Asia/Dubai] Received data: Array
+(
+    [product_name] => Double Sided Business Card
+    [qty] => 100
+    [unitcost] => 6.09
+    [total] => 609.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:08:15 Asia/Dubai] Received data: Array
+(
+    [product_name] => SVA Supermarket Board-Anse Boileau
+    [qty] => 1
+    [unitcost] => 2000
+    [total] => 2000.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:09:01 Asia/Dubai] Received data: Array
+(
+    [product_name] => Murali Supermarket  Anse La Mouche - Board
+    [qty] => 1
+    [unitcost] => 1900
+    [total] => 1900.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:09:35 Asia/Dubai] Received data: Array
+(
+    [product_name] => SMS  Cascade - Door Sticker
+    [qty] => 1
+    [unitcost] => 950
+    [total] => 950.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:10:26 Asia/Dubai] Received data: Array
+(
+    [product_name] => Akhil S/M  Le Niole -Sticker
+    [qty] => 1
+    [unitcost] => 1700
+    [total] => 1700.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:21:41 Asia/Dubai] Received data: Array
+(
+    [product_name] => MS Supermarket  Point Aux Sel
+    [qty] => 1
+    [unitcost] => 4500
+    [total] => 4500.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:23:10 Asia/Dubai] Received data: Array
+(
+    [product_name] => Business Cards Back to Back
+    [qty] => 1400
+    [unitcost] => 3
+    [total] => 4200.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:24:09 Asia/Dubai] Received data: Array
+(
+    [product_name] => Truck Branding
+    [qty] => 1
+    [unitcost] => 13000
+    [total] => 13000.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:24:32 Asia/Dubai] Received data: Array
+(
+    [product_name] => Roll Up Stand Complete with Stand
+    [qty] => 1
+    [unitcost] => 1800
+    [total] => 1800.00
+    [qid] => 0
+    [action] => add
+)
+
+[29-May-2026 16:24:54 Asia/Dubai] Received data: Array
+(
+    [product_name] => Roll Up Stand Print only
+    [qty] => 1
+    [unitcost] => 1000
+    [total] => 1000.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Jun-2026 15:06:02 Asia/Dubai] Received data: Array
+(
+    [product_name] => 39 Congress Banner 560cm x 90cm
+    [qty] => 1
+    [unitcost] => 3000
+    [total] => 3000.00
+    [qid] => 0
+    [action] => add
+)
+
+[02-Jun-2026 15:06:57 Asia/Dubai] Received data: Array
+(
+    [product_name] => Larout Ver Lendepandans Banner 330cm x 65cm
+    [qty] => 1
+    [unitcost] => 1300
+    [total] => 1300.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Jun-2026 14:15:50 Asia/Dubai] Received data: Array
+(
+    [product_name] => Banner 8mtrs x 1.2mtrs
+    [qty] => 2
+    [unitcost] => 5500
+    [total] => 11000.00
+    [qid] => 0
+    [action] => add
+)
+
+[03-Jun-2026 14:16:29 Asia/Dubai] Received data: Array
+(
+    [product_name] => Banner 5.2mtrs x 1.2mtrs
+    [qty] => 1
+    [unitcost] => 3600
+    [total] => 3600.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Jun-2026 11:22:24 Asia/Dubai] Received data: Array
+(
+    [product_name] => Banner 4m x 1m
+    [qty] => 1
+    [unitcost] => 2800
+    [total] => 2800.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Jun-2026 11:22:47 Asia/Dubai] Received data: Array
+(
+    [product_name] => Banner 2m x 1m
+    [qty] => 1
+    [unitcost] => 1400
+    [total] => 1400.00
+    [qid] => 0
+    [action] => add
+)
+
+[11-Jun-2026 11:23:08 Asia/Dubai] Received data: Array
+(
+    [product_name] => Wristband Tickets
+    [qty] => 1200
+    [unitcost] => 3
+    [total] => 3600.00
+    [qid] => 0
+    [action] => add
+)
+

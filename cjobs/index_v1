@@ -1,0 +1,194 @@
+<?php include("../layouts/header.php"); 
+date_default_timezone_set('Asia/Dubai');
+?>
+<style>
+    .align-right {
+    text-align: right;
+}
+</style>
+<main id="main" class="main">
+<div class="pagetitle row">
+    <div class="col-md-9">
+    <h1>Credit Jobs</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../dashboard">Dashboard</a></li>
+            <li class="breadcrumb-item active">Credit Jobs</li>
+        </ol>
+    </nav>
+</div>
+<div class="col-md-3" style="text-align:right">
+  <!--  <a href='../newjob' class='btn btn-info'>
+        <i class=" ri-task-fill"></i> New Job
+    </a>-->
+</div>
+</div>
+    <section class="section dashboard">
+ 
+<div class="row">
+    <div class="col-lg-12">
+          <div class="card"><br>
+               <!--
+               <form name="frmsearch" id="frmsearch" method="post">
+        <table class="table">
+            <tr style="vertical-align:middle">
+                <td>From</td>
+                <td><input type="date" class="form-control" name="fdate" required /></td>
+                <td>To</td>
+                <td><input type="date" class="form-control" name="tdate" required /></td>
+                <td></td>
+                <td> <button type="submit" class='btn btn-warning'>
+                     <i class=" ri-file-search-fill"></i> Search</button></td>
+            </tr>
+        </table>
+        </form>-->
+          <!--  <button type="button" class="btn ripple btn-warning ms-auto" data-bs-target="#addModal" data-bs-toggle="modal" style="float:right;">
+                            <span><i class="fa fa-plus"></i></span> New User </button>-->
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <br>
+                            <div class="table-responsive" id="showUsers">
+                                <h3 class="text-center text-success" style="margin-top: 150px">Loading...</h3>
+                                 
+                       
+                            </div>
+                        </div>
+                    </div>
+          </div>
+      </div>
+    </section>
+  </main>
+  
+  <!-- Add Pay Modal -->
+     <div class="modal fade" id="addPayModal" tabindex="-1">
+                <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title">Update Payment</h5>
+                      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                      <form class="row g-3"  name="frmupay" id="frmupay" method="post">
+                            <div class="col-md-12">
+                                <label>Company Name</label>
+                              <input type="text" id="company_name" name="company_name" class="form-control" readonly>
+                            </div>
+                            <div class="col-md-12">
+                                <label>Contact Name</label>
+                              <input type="text" id="contact_person" name="contact_person" class="form-control" readonly>
+                            </div>                        
+                            <div class="col-md-12">
+                                <label>Net Amount</label>
+                              <input type="text" id="netvalue" name="netvalue" class="form-control align-right" readonly>
+                            </div>
+                            <div class="col-md-6">
+                                <label>Discount</label>
+                              <input type="text" id="disc" name="disc" class="form-control align-right" value="0"  pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)" />
+                            </div>
+                            <div class="col-md-6">
+                                <label>Balance Amount</label>
+                              <input type="text" id="balance" class="form-control align-right" readonly>
+                            </div>
+
+                            <div class="col-md-6">
+                                <label>Cash</label>
+                               <input type="text" id="cash" name="cash" class="form-control align-right" pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)">
+                            </div>
+                            <div class="col-md-6">
+                                <label>Card</label>
+                                <input type="text" id="card" name="card" class="form-control align-right"pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)">
+                            </div>
+                            <div class="col-md-6">
+                                <label>Cheque</label>
+                                <input type="text" id="cheque" name="cheque" class="form-control align-right" pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)">
+                            </div>
+                            <div class="col-md-6">
+                                <label>Bank Transfer</label>
+                                <input type="text" id="wallet" name="wallet" class="form-control align-right" pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)">
+                            </div>
+                            <div class="col-md-6">
+                                <label>Paid Amount</label>
+                              <input type="text" id="paidAmount" name="paidAmount" class="form-control align-right" readonly required>
+                            </div>
+                            <div class="col-md-6">
+                                <label>New Balance</label>
+                              <input type="text" id="newbalance" name="newbalance" class="form-control align-right" readonly required>
+                            </div>
+                             <div class="col-md-12">
+                                <label>Payment Remarks</label>
+                              <input type="text" id="remarks" name="remarks" class="form-control">
+                            </div>
+                              <div class="col-md-6" style="text-align:right">
+                               <input type="hidden" id="jobId" name="jobId" value="" />
+                              <button type="submit" class="btn btn-secondary canpaybtn btn-cancel" data-bs-dismiss="modal">Close</button>
+                            </div>
+                            <div class="col-md-6">
+                                                  <button type="submit" class="btn btn-success">Update Payment</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              
+  <!-- Update Status Modal -->
+   <div class="modal fade" id="editModal" tabindex="-1">
+                <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title">Update Status</h5>
+                      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                      <form class="row g-3" name="frmustatus" id="frmustatus" method="post">
+                            <div class="col-md-12">
+                                <label>Company Name</label>
+                              <input type="text" id="company_name1" name="company_name1" class="form-control" readonly>
+                            </div>
+                            <div class="col-md-12">
+                                <label>Contact Name</label>
+                              <input type="text" id="contact_person1" name="contact_person1" class="form-control" readonly>
+                            </div>                        
+                            <div class="col-md-12">
+                                <label>Status</label>
+                              <select name="order_status" id="order_status" class="form-control" required>
+                                  <option value="Pending">Pending</option>
+                                  <option value="Ready">Ready</option>
+                                  <option value="Delivered">Delivered</option>
+                              </select>
+                            </div>                        
+                             <div class="col-md-6" style="text-align:right">
+                                <input type="hidden" id="jbid" name="jbid" value="" />
+                                <input type="hidden" id="balance2" name="balance2" />
+                                <input type="hidden" id="cbill2" name="cbill2" />
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            </div> 
+                            <div class="col-md-6" style="text-align:right">
+                                <button type="submit" class="btn btn-success">Update Status</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>              
+<?php include("../layouts/footer.php"); ?>
+<!-- DataTables CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+
+
+<script src="scripts.js"></script>
+
