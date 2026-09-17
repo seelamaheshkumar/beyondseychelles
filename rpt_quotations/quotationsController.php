@@ -15,7 +15,7 @@ if (isset($_POST['action']) && $_POST['action'] == "view") {
                         <th>Date</th>
                         <th>Company</th>
                         <th>Contact Person</th>
-                        <th>Contact No</th>
+                        <th>Remarks</th>
                         <th>Value</th>
                         <th>Status</th>
                         <th>Job ID</th>
@@ -34,11 +34,11 @@ if (isset($_POST['action']) && $_POST['action'] == "view") {
                 if ($row['qstatus'] == 'Pending') $statusClass = 'status-progress';
 
                $output .= '<tr>
-                <td class="fw-semibold">QT-' . $row['qno'] . '</td>
-                <td class="text-muted">' . date('d M Y', strtotime($row['qdate'])) . '</td>
+                <td class="fw-semibold">' . $row['qno'] . '</td>
+                <td class="text-muted">' . date('d-m-Y', strtotime($row['qdate'])) . '</td>
                 <td>' . $row['company_name'] . '</td>
                 <td>' . $row['contact_person'] . '</td>
-                <td class="text-muted">' . $row['contact_no'] . '</td>
+                <td>' . $row['address'] . '</td>
                 <td class="num">₹' . $qv . '</td>
                 <td><span class="status-pill ' . $statusClass . '">' . $row['qstatus'] . '</span></td>
                 <td>' . ($row['JobID'] > 0 ? '<a href="'.$url1.'" class="text-decoration-none">' . $row['JobID'] . '</a>' : $row['JobID']) . '</td>

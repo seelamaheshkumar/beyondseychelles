@@ -18,6 +18,7 @@ if (isset($_POST['action']) && $_POST['action'] == "view") {
                         <th>Date</th>
                         <th>Company</th>
                         <th>Contact Person</th>
+                        <th>Remarks</th>
                         <th>Value</th>
                         <th>Status</th>
                         <th align="center">Action</th>
@@ -35,10 +36,11 @@ if (isset($_POST['action']) && $_POST['action'] == "view") {
                 if ($row['qstatus'] == 'Pending') $statusClass = 'status-progress';
 
                 $output .= '<tr>
-                    <td class="fw-semibold">QT-' . $row['qno'] . '</td>
-                    <td class="text-muted">' . date('d M Y', strtotime($row['qdate'])) . '</td>
+                    <td class="fw-semibold">' . $row['qno'] . '</td>
+                    <td class="text-muted">' . date('d-m-Y', strtotime($row['qdate'])) . '</td>
                     <td>' . $row['company_name'] . '</td>
                     <td>' . $row['contact_person'] . '</td>
+                    <td>' . $row['address'] . '</td>
                     <td class="num">₹' . $qv . '</td>
                     <td><span class="status-pill ' . $statusClass . '">' . $row['qstatus'] . '</span></td>
                     <td align="center">
@@ -237,4 +239,11 @@ if (isset($_POST['action']) && $_POST['action'] == "delete_user") {
     }
 }
 // Add insert, update, and delete functionality here
+
+if (isset($_POST['action']) && $_POST['action'] == "get_kpis") {
+    $year = isset($_POST['year']) ? $_POST['year'] : '';
+    $kpis = $model->getKPIs($year);
+    echo json_encode($kpis);
+    exit;
+}
 ?>

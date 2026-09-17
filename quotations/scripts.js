@@ -42,13 +42,12 @@ function showUsers() {
         type: "POST",
         data: { action: "view" },
         success: function (response) {
-            $("#showUsers").html(response);
-
-            // Destroy existing DataTable instance if it exists
+            // Destroy existing DataTable instance if it exists before replacing HTML
             if ($.fn.DataTable.isDataTable('#usersTable')) {
-                quotationsTable.destroy(); // Use the stored instance variable
-                $('#usersTable').empty(); // Clear table content to prevent issues
+                $('#usersTable').DataTable().destroy();
             }
+
+            $("#showUsers").html(response);
 
             quotationsTable = $("#usersTable").DataTable({
                 "columnDefs": [
@@ -57,7 +56,7 @@ function showUsers() {
                 "order": [
                     [0, 'desc'] // Initial sort: first column, descending
                 ],
-                "retrieve": true, // Allows DataTables to re-initialize without error if it already exists
+                "destroy": true, // Re-initialize the DataTable properly
 
                 // Add these two options for export buttons
                 dom: 'lBfrtip', // 'l'ength, 'B'uttons, 'f'ilter, 'r'ecord_count, 't'able, 'i'nfo, 'p'agination
@@ -140,6 +139,28 @@ function showUsers() {
         if (quotationsTable) { // Check if the table instance exists
             quotationsTable.draw();
         }
+        
+        // Fetch and update KPIs
+        fetchKPIs(selectedYear);
+    }
+
+    // Fetch dynamic KPIs from the server
+    function fetchKPIs(year) {
+        $.ajax({
+            url: "quotationsController.php",
+            type: "POST",
+            data: { action: "get_kpis", year: year },
+            dataType: "json",
+            success: function(response) {
+                $('#kpiTotal').text(response.total);
+                $('#kpiPending').text(response.pending);
+                $('#kpiApproved').text(response.approved);
+                $('#kpiConversion').text(response.conversion);
+            },
+            error: function(xhr, status, error) {
+                console.error("Error fetching KPIs:", error);
+            }
+        });
     }
 
 

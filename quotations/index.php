@@ -40,16 +40,16 @@ checkLogin();
   <!-- KPI strip -->
   <div class="row g-3 mb-3">
     <div class="col-6 col-md-3">
-      <div class="bd-card kpi-card"><div class="kpi-label">Total quotes</div><div class="kpi-value">86</div></div>
+      <div class="bd-card kpi-card"><div class="kpi-label">Total quotes</div><div class="kpi-value" id="kpiTotal">86</div></div>
     </div>
     <div class="col-6 col-md-3">
-      <div class="bd-card kpi-card"><div class="kpi-label">Awaiting approval</div><div class="kpi-value" style="color:var(--bd-warning);">14</div></div>
+      <div class="bd-card kpi-card"><div class="kpi-label">Awaiting approval</div><div class="kpi-value" id="kpiPending" style="color:var(--bd-warning);">14</div></div>
     </div>
     <div class="col-6 col-md-3">
-      <div class="bd-card kpi-card"><div class="kpi-label">Approved this month</div><div class="kpi-value" style="color:var(--bd-success);">31</div></div>
+      <div class="bd-card kpi-card"><div class="kpi-label">Approved this month</div><div class="kpi-value" id="kpiApproved" style="color:var(--bd-success);">31</div></div>
     </div>
     <div class="col-6 col-md-3">
-      <div class="bd-card kpi-card"><div class="kpi-label">Conversion rate</div><div class="kpi-value">72%</div></div>
+      <div class="bd-card kpi-card"><div class="kpi-label">Conversion rate</div><div class="kpi-value" id="kpiConversion">72%</div></div>
     </div>
   </div>
 
@@ -133,6 +133,6 @@ checkLogin();
 <script>
   BD.mount("quotations", { user: { name: "<?php echo isset($_SESSION['user_fname']) ? $_SESSION['user_fname'] : 'User'; ?>", role: "<?php echo isset($_SESSION['user_role']) ? $_SESSION['user_role'] : 'Admin'; ?>" } });
 </script>
-<script src="scripts.js"></script>
+<script src="scripts.js?v=3"></script>
 </body>
 </html>

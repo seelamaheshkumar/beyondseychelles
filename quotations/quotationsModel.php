@@ -46,6 +46,54 @@ public function readAllQuotations() {
         return $result['count'];
     }
 
+    public function getKPIs($year = '') {
+        $yearCondition = "";
+        if (!empty($year)) {
+            $yearCondition = " AND YEAR(qdate) = :year";
+        }
+
+        // Total Quotes
+        $sqlTotal = "SELECT COUNT(*) as cnt FROM tblquotations WHERE 1=1" . $yearCondition;
+        $stmtTotal = $this->conn->prepare($sqlTotal);
+        if (!empty($year)) $stmtTotal->bindParam(':year', $year);
+        $stmtTotal->execute();
+        $total = $stmtTotal->fetch(PDO::FETCH_ASSOC)['cnt'];
+
+        // Awaiting Approval (Pending)
+        $sqlPending = "SELECT COUNT(*) as cnt FROM tblquotations WHERE qstatus='Pending'" . $yearCondition;
+        $stmtPending = $this->conn->prepare($sqlPending);
+        if (!empty($year)) $stmtPending->bindParam(':year', $year);
+        $stmtPending->execute();
+        $pending = $stmtPending->fetch(PDO::FETCH_ASSOC)['cnt'];
+
+        // Approved this month (if year is specified, only look at that year's current month? Or just approved in general for that year. Let's do approved in the given year, or if no year, this month.)
+        if (!empty($year)) {
+            $sqlApproved = "SELECT COUNT(*) as cnt FROM tblquotations WHERE qstatus='Approved' OR qstatus='Converted'" . $yearCondition;
+        } else {
+            $sqlApproved = "SELECT COUNT(*) as cnt FROM tblquotations WHERE (qstatus='Approved' OR qstatus='Converted') AND MONTH(qdate) = MONTH(CURRENT_DATE) AND YEAR(qdate) = YEAR(CURRENT_DATE)";
+        }
+        $stmtApproved = $this->conn->prepare($sqlApproved);
+        if (!empty($year)) $stmtApproved->bindParam(':year', $year);
+        $stmtApproved->execute();
+        $approved = $stmtApproved->fetch(PDO::FETCH_ASSOC)['cnt'];
+
+        // Total Approved for Conversion Rate
+        $sqlTotalApproved = "SELECT COUNT(*) as cnt FROM tblquotations WHERE (qstatus='Approved' OR qstatus='Converted')" . $yearCondition;
+        $stmtTotalApproved = $this->conn->prepare($sqlTotalApproved);
+        if (!empty($year)) $stmtTotalApproved->bindParam(':year', $year);
+        $stmtTotalApproved->execute();
+        $totalApproved = $stmtTotalApproved->fetch(PDO::FETCH_ASSOC)['cnt'];
+
+        $conversionRate = $total > 0 ? round(($totalApproved / $total) * 100) : 0;
+
+        return [
+            'total' => $total,
+            'pending' => $pending,
+            'approved' => $approved,
+            'conversion' => $conversionRate . '%'
+        ];
+    }
+
     public function getQuotationByID($id) {
         $sql = "SELECT * FROM tblquotations WHERE qid = :id";
         $stmt = $this->conn->prepare($sql);
