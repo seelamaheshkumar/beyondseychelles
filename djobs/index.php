@@ -90,19 +90,19 @@ checkLogin();
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Cash</label>
-            <input type="text" id="cash" name="cash" class="form-control form-control-sm align-right" pattern="[0-9]*">
+            <input type="number" step="0.01" id="cash" name="cash" class="form-control form-control-sm align-right">
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Card</label>
-            <input type="text" id="card" name="card" class="form-control form-control-sm align-right" pattern="[0-9]*">
+            <input type="number" step="0.01" id="card" name="card" class="form-control form-control-sm align-right">
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Cheque</label>
-            <input type="text" id="cheque" name="cheque" class="form-control form-control-sm align-right" pattern="[0-9]*">
+            <input type="number" step="0.01" id="cheque" name="cheque" class="form-control form-control-sm align-right">
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Bank Transfer</label>
-            <input type="text" id="wallet" name="wallet" class="form-control form-control-sm align-right" pattern="[0-9]*">
+            <input type="number" step="0.01" id="wallet" name="wallet" class="form-control form-control-sm align-right">
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Paid Amount</label>

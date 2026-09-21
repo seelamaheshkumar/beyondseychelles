@@ -63,10 +63,6 @@
             <button class="btn btn-bd-outline btn-sm d-lg-none" id="bdSidebarToggle" type="button" aria-label="Toggle menu">
               <i class="bi bi-list"></i>
             </button>
-            <div class="search-box">
-              <i class="bi bi-search"></i>
-              <input type="search" class="form-control" placeholder="Search jobs, clients, invoices…">
-            </div>
           </div>
           <div class="d-flex align-items-center gap-2">
             <button class="icon-btn" type="button" aria-label="Notifications">

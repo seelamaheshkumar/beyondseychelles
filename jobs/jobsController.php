@@ -39,7 +39,7 @@ if (isset($_POST['action']) && $_POST['action'] == "view") {
 
                 $output .= '<tr>
                     <td class="fw-semibold">JB-' . $row['jobid'] . '</td>
-                    <td class="text-muted">' . date('d M Y', strtotime($row['orderdate'])) . '</td>
+                    <td class="text-muted" data-order="' . strtotime($row['orderdate']) . '">' . date('d M Y', strtotime($row['orderdate'])) . '</td>
                     <td>' . $row['company_name'] . '</td>
                     <td>' . $row['contact_person'] . '</td>
                     <td class="num">₹' . $row['netvalue'] . '</td>

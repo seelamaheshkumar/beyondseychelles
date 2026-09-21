@@ -277,19 +277,19 @@ date_default_timezone_set('Indian/Mahe');
                       <form class="row g-3" name="frmUpdatePay" id="frmUpdatePay" method="post">
                             <div class="col-md-6">
                                 <label>Cash</label>
-                              <input type="text" id="pcash" name="pcash" class="form-control pay-input" required />
+                              <input type="number" step="0.01" id="pcash" name="pcash" class="form-control pay-input" required />
                             </div>
                             <div class="col-md-6">
                                 <label>Card</label>
-                              <input type="text" id="pcard" name="pcard" class="form-control pay-input" required />
+                              <input type="number" step="0.01" id="pcard" name="pcard" class="form-control pay-input" required />
                             </div>
                             <div class="col-md-6">
                                 <label>Cheque</label>
-                              <input type="text" id="pcheque" name="pcheque" class="form-control pay-input" required />
+                              <input type="number" step="0.01" id="pcheque" name="pcheque" class="form-control pay-input" required />
                             </div>
                             <div class="col-md-6">
                                 <label>Wallet</label>
-                              <input type="text" id="pwallet" name="pwallet" class="form-control pay-input" required />
+                              <input type="number" step="0.01" id="pwallet" name="pwallet" class="form-control pay-input" required />
                             </div>
                             <div class="col-md-12">
                                 <label>Remarks</label>

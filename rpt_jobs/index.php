@@ -36,14 +36,16 @@ date_default_timezone_set('Indian/Mahe');
   <div class="bd-card">
     <div class="bd-card-head">
       <div class="filter-bar w-100 d-flex gap-3 align-items-center">
-        <!-- Date filters can be implemented here if the backend supports it, currently backend reads all jobs and doesn't use fdate/tdate properly but we provide them just in case -->
         <div class="d-flex align-items-center gap-2">
-            <label class="form-label mb-0 small fw-semibold">From</label>
-            <input type="date" class="form-control form-control-sm" name="fdate" id="fdate" value="<?php echo date('Y-m-d', strtotime('-30 days')); ?>" required />
-        </div>
-        <div class="d-flex align-items-center gap-2">
-            <label class="form-label mb-0 small fw-semibold">To</label>
-            <input type="date" class="form-control form-control-sm" name="tdate" id="tdate" value="<?php echo date('Y-m-d'); ?>" required />
+            <label class="form-label mb-0 small fw-semibold">Year</label>
+            <select class="form-select form-select-sm" name="fyear" id="fyear" style="width: 120px;">
+                <?php 
+                $currentYear = date('Y');
+                for($y = $currentYear; $y >= 2020; $y--) {
+                    echo "<option value=\"$y\">$y</option>";
+                }
+                ?>
+            </select>
         </div>
         <div class="d-flex align-items-center gap-2">
             <label class="form-label mb-0 small fw-semibold">Status</label>
@@ -80,6 +82,6 @@ date_default_timezone_set('Indian/Mahe');
 <script>
   BD.mount("reports", { user: { name: "<?php echo isset($_SESSION['user_fname']) ? $_SESSION['user_fname'] : 'User'; ?>", role: "<?php echo isset($_SESSION['user_role']) ? $_SESSION['user_role'] : 'Admin'; ?>" } });
 </script>
-<script src="scripts.js?v=2"></script>
+<script src="scripts.js?v=5"></script>
 </body>
 </html>

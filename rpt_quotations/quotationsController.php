@@ -5,9 +5,11 @@ $model = new UsersModel();
 
 if (isset($_POST['action']) && $_POST['action'] == "view") {
     try {
+        $year = isset($_POST['year']) ? $_POST['year'] : date('Y');
+        
         $output = '';
-        $data = $model->readAllQuotations();
-        if ($model->totalQuotationsRowCount() > 0) {
+        $data = $model->readAllQuotations($year);
+        if ($model->totalQuotationsRowCount($year) > 0) {
             $output .= '<table id="usersTable" class="table bd-table mb-0">
                 <thead>
                     <tr>

@@ -8,12 +8,11 @@ $model = new JobsModel();
 
 if (isset($_POST['action']) && $_POST['action'] == "view") {
     try {
-        $fdate = isset($_POST['fdate']) ? $_POST['fdate'] : date('Y-m-d');
-        $tdate = isset($_POST['tdate']) ? $_POST['tdate'] : date('Y-m-d');
+        $year = isset($_POST['year']) ? $_POST['year'] : date('Y');
         
         $output = '';
-        $data = $model->readJobsByDateRange($fdate, $tdate);
-        if ($model->totalJobsRowCountByDateRange($fdate, $tdate) > 0) {
+        $data = $model->readJobsByYear($year);
+        if ($model->totalJobsRowCountByYear($year) > 0) {
             $output .= '<table id="usersTable" class="table bd-table mb-0">
                 <thead>
                     <tr>

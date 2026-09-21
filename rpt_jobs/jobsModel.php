@@ -14,18 +14,30 @@ class JobsModel {
         $this->conn = $this->db->getConnection();
     }
 
-    public function readAllJobs() {
-        $sql = "SELECT * FROM tbljobs order by jobid, orderdate desc";
-        $stmt = $this->conn->prepare($sql);
+    public function readAllJobs($year = null) {
+        if ($year) {
+            $sql = "SELECT * FROM tbljobs WHERE YEAR(orderdate) = :year ORDER BY jobid, orderdate DESC";
+            $stmt = $this->conn->prepare($sql);
+            $stmt->bindParam(':year', $year);
+        } else {
+            $sql = "SELECT * FROM tbljobs ORDER BY jobid, orderdate DESC";
+            $stmt = $this->conn->prepare($sql);
+        }
         $stmt->execute();
         $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
         return $result;
     }
 
 
-    public function totalJobsRowCount() {
-        $sql = "SELECT COUNT(*) as count FROM tbljobs";
-        $stmt = $this->conn->prepare($sql);
+    public function totalJobsRowCount($year = null) {
+        if ($year) {
+            $sql = "SELECT COUNT(*) as count FROM tbljobs WHERE YEAR(orderdate) = :year";
+            $stmt = $this->conn->prepare($sql);
+            $stmt->bindParam(':year', $year);
+        } else {
+            $sql = "SELECT COUNT(*) as count FROM tbljobs";
+            $stmt = $this->conn->prepare($sql);
+        }
         $stmt->execute();
         $result = $stmt->fetch(PDO::FETCH_ASSOC);
         return $result['count'];

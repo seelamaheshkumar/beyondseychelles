@@ -119,16 +119,16 @@ date_default_timezone_set('Indian/Mahe');
                    <div class="col-md-4">
                         <table class="table">
                             <tr>
-                                <td>Cash</td><td><input type="text" name="cash" id="cash" value="0"  class="form-control" required style="float:right; text-align:right;" /></td>
+                                <td>Cash</td><td><input type="number" step="0.01" name="cash" id="cash" value="0"  class="form-control" required style="float:right; text-align:right;" /></td>
                             </tr>
                             <tr>
-                                <td>Card</td><td><input type="text" name="card" id="card" value="0"  class="form-control" required style="float:right; text-align:right;" /></td>
+                                <td>Card</td><td><input type="number" step="0.01" name="card" id="card" value="0"  class="form-control" required style="float:right; text-align:right;" /></td>
                             </tr>                            
                             <tr>
-                                <td>Cheque</td><td><input type="text" name="cheque" id="cheque" value="0"  class="form-control" required style="float:right; text-align:right;" /></td>
+                                <td>Cheque</td><td><input type="number" step="0.01" name="cheque" id="cheque" value="0"  class="form-control" required style="float:right; text-align:right;" /></td>
                             </tr>  
                             <tr>
-                                <td>Bank Transfer</td><td><input type="text" name="wallet" id="wallet" value="0" class="form-control" required style="float:right; text-align:right;" /></td>
+                                <td>Bank Transfer</td><td><input type="number" step="0.01" name="wallet" id="wallet" value="0" class="form-control" required style="float:right; text-align:right;" /></td>
                             </tr>                              
                         </table>
                     </div>    

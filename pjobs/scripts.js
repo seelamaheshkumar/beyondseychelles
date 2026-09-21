@@ -3,18 +3,13 @@ $(document).ready(function () {
 
 
 
-    // Set default date values
-    let today = new Date().toISOString().split('T')[0];
-    $('#fdate').val(today);
-    $('#tdate').val(today);
-
     // Variable to hold the DataTable instance for jobs
     var jobsTable;
-function showUsers(fdate, tdate) {
+function showUsers() {
     $.ajax({
         url: "jobsController.php",
         type: "POST",
-        data: { action: "view", fdate: fdate, tdate: tdate },
+        data: { action: "view" },
         success: function (response) {
             $("#showUsers").html(response);
 
@@ -70,17 +65,7 @@ function showUsers(fdate, tdate) {
     // --- Event Listeners ---
 
     // Initial load of today's records
-    showUsers(today, today);
-
-    // Handle form submission for date range
-    $('#frmsearch').submit(function (e) {
-        e.preventDefault();
-        let fdate = $('#fdate').val();
-        let tdate = $('#tdate').val();
-        showUsers(fdate, tdate);
-        // After fetching new data, re-apply the year filter
-        // The showUsers success callback already calls applyYearFilterForJobs()
-    });
+    showUsers();
 
     // Event listener for the year filter dropdown
     $('#yearFilter').on('change', function () {
@@ -240,7 +225,7 @@ function showUsers(fdate, tdate) {
                         text: 'Payment has been updated successfully.',
                     }).then(function() {
                         //window.location.href = '../jobs';
-                        showUsers(today, today); 
+                        showUsers(); 
                     });
                     $('#addPayModal').modal('hide');
                     $('#frmupay')[0].reset();
@@ -341,7 +326,7 @@ $('#frmustatus').submit(function(e) {
                     text: 'Status has been updated successfully.',
                 }).then(function() {
                     //window.location.href = '../jobs';
-                    showUsers(today, today); 
+                    showUsers(); 
                 });
                 $('#frmustatus')[0].reset();
             } else {
@@ -410,7 +395,7 @@ $(document).on('click', '.delBtn', function() {
             success: function(response) {
                 if (response == 'success') {
                     // Reload user list
-                    showUsers(today, today);
+                    showUsers();
                     // Show success message
                     Swal.fire({
                         icon: 'success',

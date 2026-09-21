@@ -38,23 +38,29 @@ public function totalJobsRowCount() {
     }
 }
 
-public function readJobsByDateRange($fdate, $tdate) {
-    //$sql = "SELECT * FROM vw_cashflow_summary WHERE formatted_paydate BETWEEN :fdate AND :tdate ORDER BY formatted_paydate DESC";
-    $sql = "SELECT * FROM vw_cashflow_summary";
-    $stmt = $this->conn->prepare($sql);
-   // $stmt->bindParam(':fdate', $fdate);
-    //$stmt->bindParam(':tdate', $tdate);
+public function readJobsByYear($year = null) {
+    if ($year) {
+        $sql = "SELECT * FROM vw_cashflow_summary WHERE YEAR(formatted_paydate) = :year ORDER BY formatted_paydate DESC";
+        $stmt = $this->conn->prepare($sql);
+        $stmt->bindParam(':year', $year);
+    } else {
+        $sql = "SELECT * FROM vw_cashflow_summary ORDER BY formatted_paydate DESC";
+        $stmt = $this->conn->prepare($sql);
+    }
     $stmt->execute();
     $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
     return $result;
 }
 
-public function totalJobsRowCountByDateRange($fdate, $tdate) {
-   // $sql = "SELECT COUNT(*) as count FROM vw_cashflow_summary WHERE formatted_paydate BETWEEN :fdate AND :tdate";
-    $sql = "SELECT COUNT(*) as count FROM vw_cashflow_summary";
-    $stmt = $this->conn->prepare($sql);
-    //$stmt->bindParam(':fdate', $fdate);
-    //$stmt->bindParam(':tdate', $tdate);
+public function totalJobsRowCountByYear($year = null) {
+    if ($year) {
+        $sql = "SELECT COUNT(*) as count FROM vw_cashflow_summary WHERE YEAR(formatted_paydate) = :year";
+        $stmt = $this->conn->prepare($sql);
+        $stmt->bindParam(':year', $year);
+    } else {
+        $sql = "SELECT COUNT(*) as count FROM vw_cashflow_summary";
+        $stmt = $this->conn->prepare($sql);
+    }
     $stmt->execute();
     $result = $stmt->fetch(PDO::FETCH_ASSOC);
     return $result['count'];

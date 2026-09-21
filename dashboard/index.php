@@ -30,6 +30,22 @@ checkLogin();
     </div>
   </div>
 
+  <div class="bd-card mb-4">
+    <div class="bd-card-head flex-wrap gap-2 p-3">
+      <form name="frmsearch" id="frmsearch" method="post" class="d-flex align-items-center gap-3 m-0">
+        <div class="d-flex align-items-center gap-2">
+          <span class="text-muted fw-medium small">From</span>
+          <input type="date" class="form-control form-control-sm" name="fdate" id="fdate" required value="<?php echo date('Y-m-d'); ?>" style="width: 140px;">
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <span class="text-muted fw-medium small">To</span>
+          <input type="date" class="form-control form-control-sm" name="tdate" id="tdate" required value="<?php echo date('Y-m-d'); ?>" style="width: 140px;">
+        </div>
+        <button type="submit" class="btn btn-bd-primary btn-sm px-3"><i class="bi bi-funnel"></i> Filter</button>
+      </form>
+    </div>
+  </div>
+
   <!-- First Row: Jobs KPIs -->
   <div class="row g-3 mb-4">
     <div class="col-6 col-xl-3">

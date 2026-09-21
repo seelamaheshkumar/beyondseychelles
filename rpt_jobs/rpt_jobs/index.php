@@ -81,19 +81,19 @@ date_default_timezone_set('Indian/Mahe');
                             </div>
                             <div class="col-md-6">
                                 <label>Cash</label>
-                                <input type="text" id="cash" name="cash" class="form-control align-right" pattern="[0-9]*" oninput="validateNumericInput(this)">
+                                <input type="number" step="0.01" id="cash" name="cash" class="form-control align-right">
                             </div>
                             <div class="col-md-6">
                                 <label>Card</label>
-                                <input type="text" id="card" name="card" class="form-control align-right" pattern="[0-9]*" oninput="validateNumericInput(this)">
+                                <input type="number" step="0.01" id="card" name="card" class="form-control align-right">
                             </div>
                             <div class="col-md-6">
                                 <label>Cheque</label>
-                                <input type="text" id="cheque" name="cheque" class="form-control align-right" pattern="[0-9]*" oninput="validateNumericInput(this)">
+                                <input type="number" step="0.01" id="cheque" name="cheque" class="form-control align-right">
                             </div>
                             <div class="col-md-6">
                                 <label>Bank Transfer</label>
-                                <input type="text" id="wallet" name="wallet" class="form-control align-right" pattern="[0-9]*" oninput="validateNumericInput(this)">
+                                <input type="number" step="0.01" id="wallet" name="wallet" class="form-control align-right">
                             </div>
                             <div class="col-md-6">
                                 <label>Paid Amount</label>

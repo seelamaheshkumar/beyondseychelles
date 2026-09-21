@@ -39,21 +39,19 @@ checkLogin();
     </div>
   </div>
 
-  <div class="filter-bar mb-3">
-    <form name="frmsearch" id="frmsearch" method="post" class="d-flex align-items-center gap-2 m-0 w-100">
-      <div class="d-flex align-items-center gap-2">
-        <span class="text-muted small">From</span>
-        <input type="date" class="form-control form-control-sm" name="fdate" id="fdate" required value="<?php echo date('Y-m-01'); ?>">
-      </div>
-      <div class="d-flex align-items-center gap-2">
-        <span class="text-muted small">To</span>
-        <input type="date" class="form-control form-control-sm" name="tdate" id="tdate" required value="<?php echo date('Y-m-d'); ?>">
-      </div>
-      <button type="submit" class="btn btn-bd-primary btn-sm">Search</button>
-    </form>
-  </div>
-
   <div class="bd-card">
+    <div class="bd-card-head flex-wrap gap-2">
+      <div class="filter-bar">
+        <select id="yearFilter" class="form-select form-select-sm" style="width:150px;">
+          <option value="">All Years</option>
+          <option value="2026" selected>2026</option>
+          <option value="2025">2025</option>
+          <option value="2024">2024</option>
+          <option value="2023">2023</option>
+        </select>
+      </div>
+    </div>
+
     <div class="table-responsive p-3" id="showUsers">
       <h3 class="text-center text-success my-5">Loading...</h3>
     </div>
@@ -90,19 +88,19 @@ checkLogin();
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Cash</label>
-            <input type="text" id="cash" name="cash" class="form-control form-control-sm align-right" pattern="[0-9]*">
+            <input type="number" step="0.01" id="cash" name="cash" class="form-control form-control-sm align-right">
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Card</label>
-            <input type="text" id="card" name="card" class="form-control form-control-sm align-right" pattern="[0-9]*">
+            <input type="number" step="0.01" id="card" name="card" class="form-control form-control-sm align-right">
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Cheque</label>
-            <input type="text" id="cheque" name="cheque" class="form-control form-control-sm align-right" pattern="[0-9]*">
+            <input type="number" step="0.01" id="cheque" name="cheque" class="form-control form-control-sm align-right">
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Bank Transfer</label>
-            <input type="text" id="wallet" name="wallet" class="form-control form-control-sm align-right" pattern="[0-9]*">
+            <input type="number" step="0.01" id="wallet" name="wallet" class="form-control form-control-sm align-right">
           </div>
           <div class="col-md-6">
             <label class="form-label small fw-semibold">Paid Amount</label>
@@ -117,6 +115,7 @@ checkLogin();
             <input type="text" id="remarks" name="remarks" class="form-control form-control-sm">
           </div>
           <input type="hidden" id="jobId" name="jobId" value="" />
+          <input type="hidden" id="disc" name="disc" value="0" />
           <div class="col-12 mt-4 d-flex justify-content-end gap-2">
             <button type="button" class="btn btn-bd-outline btn-sm" data-bs-dismiss="modal">Close</button>
             <button type="submit" class="btn btn-bd-primary btn-sm">Update Payment</button>

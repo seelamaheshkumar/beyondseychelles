@@ -85,7 +85,7 @@ date_default_timezone_set('Indian/Mahe');
               </div>
               <div class="col-md-6">
                   <label class="form-label mb-1">Discount</label>
-                <input type="text" id="disc" name="disc" class="form-control align-right" value="0"  pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)" />
+                <input type="number" step="0.01" id="disc" name="disc" class="form-control align-right" value="0" />
               </div>
               <div class="col-md-6">
                   <label class="form-label mb-1">Balance Amount</label>
@@ -94,19 +94,19 @@ date_default_timezone_set('Indian/Mahe');
 
               <div class="col-md-6">
                   <label class="form-label mb-1">Cash</label>
-                 <input type="text" id="cash" name="cash" class="form-control align-right" pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)">
+                 <input type="number" step="0.01" id="cash" name="cash" class="form-control align-right">
               </div>
               <div class="col-md-6">
                   <label class="form-label mb-1">Card</label>
-                  <input type="text" id="card" name="card" class="form-control align-right"pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)">
+                  <input type="number" step="0.01" id="card" name="card" class="form-control align-right">
               </div>
               <div class="col-md-6">
                   <label class="form-label mb-1">Cheque</label>
-                  <input type="text" id="cheque" name="cheque" class="form-control align-right" pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)">
+                  <input type="number" step="0.01" id="cheque" name="cheque" class="form-control align-right">
               </div>
               <div class="col-md-6">
                   <label class="form-label mb-1">Bank Transfer</label>
-                  <input type="text" id="wallet" name="wallet" class="form-control align-right" pattern="^\d+(\.\d{0,2})?$" oninput="validateDecimalInput(this)">
+                  <input type="number" step="0.01" id="wallet" name="wallet" class="form-control align-right">
               </div>
               <div class="col-md-6">
                   <label class="form-label mb-1">Paid Amount</label>

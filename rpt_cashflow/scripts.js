@@ -1,27 +1,31 @@
 $(document).ready(function () {
     // Set default date values
-    let today = new Date().toISOString().split('T')[0];
-    $('#fdate').val(today);
-    $('#tdate').val(today);
+    let currentYear = new Date().getFullYear();
+    $('#fyear').val(currentYear);
 
     // Initial load of today's records
-    showUsers(today, today);
+    showUsers(currentYear);
 
     // Handle form submission / search button click
     $('#btnSearch').click(function (e) {
         e.preventDefault();
-        let fdate = $('#fdate').val();
-        let tdate = $('#tdate').val();
-        showUsers(fdate, tdate);
+        let year = $('#fyear').val();
+        showUsers(year);
+    });
+
+    // Auto-search when dropdown changes
+    $('#fyear').on('change', function() {
+        let year = $(this).val();
+        showUsers(year);
     });
 
 
     
-    function showUsers(fdate, tdate) {
+    function showUsers(year) {
         $.ajax({
             url: "jobsController.php",
             type: "POST",
-            data: { action: "view", fdate: fdate, tdate: tdate },
+            data: { action: "view", year: year },
             success: function (response) {
                 //console.log("Response from server:", response); // Check response from server
                 $("#showUsers").html(response);

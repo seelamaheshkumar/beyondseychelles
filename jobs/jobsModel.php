@@ -72,7 +72,13 @@ class JobsModel {
                 throw new InvalidArgumentException('Missing required job data.');
             }
     
-            $query = "UPDATE tbljobs SET cash=cash+:ucash, card=card+:ucard, cheque=cheque+:ucheque, wallet=wallet+:uwallet, paid_amount=paid_amount+:upaid_amount, balance=:ubalance WHERE jobid=:jid";
+            $query = "UPDATE tbljobs SET cash=cash+:ucash, card=card+:ucard, cheque=cheque+:ucheque, wallet=wallet+:uwallet, paid_amount=paid_amount+:upaid_amount, balance=:ubalance";
+            
+            if (floatval($jobData['newbalance']) <= 0) {
+                $query .= ", order_status = CASE WHEN order_status = 'Pending' THEN 'Ready' ELSE order_status END";
+            }
+
+            $query .= " WHERE jobid=:jid";
             $stmtInsertJob = $this->conn->prepare($query);
             $stmtInsertJob->bindParam(':jid', $jobData['jobId'], PDO::PARAM_INT);
             $stmtInsertJob->bindParam(':ucash', $jobData['cash']);
