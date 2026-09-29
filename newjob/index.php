@@ -1,7 +1,14 @@
 <?php
 require_once '../auth.php';
+require_once '../config/database.php';
 checkLogin();
 date_default_timezone_set('Indian/Mahe');
+
+// Clear previously abandoned cart items for a new job
+$db = new Database();
+$conn = $db->getConnection();
+$stmt = $conn->prepare("DELETE FROM tbloproducts WHERE jobid = 0");
+$stmt->execute();
 ?>
 <!DOCTYPE html>
 <html lang="en">

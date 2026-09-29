@@ -44,7 +44,7 @@ if (isset($_POST['action']) && $_POST['action'] == "view") {
                 if ($row['order_status'] == 'Delivered') $statusClass = 'status-delivered';
 
                 $output .= '<tr>
-                    <td class="fw-semibold">JB-' . $row['jobid'] . '</td>
+                    <td class="fw-semibold">' . (!empty($row['jobno']) ? $row['jobno'] : ($row['jobid'] . '/' . date('y', strtotime($row['orderdate'])))) . '</td>
                     <td class="text-muted" data-order="' . strtotime($row['orderdate']) . '">' . date('d M Y', strtotime($row['orderdate'])) . '</td>
                     <td>' . $row['company_name'] . '</td>
                     <td>' . $row['contact_person'] . '</td>
